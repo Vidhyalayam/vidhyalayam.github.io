@@ -1,0 +1,82 @@
+
+
+
+# Site settings
+title: Certify Me  
+email: info@quadralogics.com
+description: Your trusted Assessment and Certification Platform
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+company: QuadraLogics
+#Heading 
+Head1: Certify Me.Online 
+Head2: Your Trusted Digital Certificate Publishing Platform
+Head3: We add more value to your Training & Certifications 
+HeadCTA: Request a Demo
+HeadCTALink: mailto:info@quadralogics.com?subject = Express Interest&body = I  would like to know more about how certifyme.online could add value to my  Training & Certifications.
+#Call to action
+USPH: Certify Me.Online Advantage
+USP: Certify me is a digital certificate publishing platform for training companies. The sharable, mobile-friendly, and personalized certificate pages enables training firms to gain better visibility, branding, and lead generation via organic sharing across different social media platforms like Facebook, Linkedin, Instagram, etc. Organic sharing is naturally triggered when trainees want to showcase her achievements in her network circle. Each organic share on an average generates 1000+ impressions thus leading to more visibility & sales leads. <br/> Certifyme.online is a QuadraLogics concern .
+
+TContentH: Download Training Contents
+TContentB: Topics include Docker, Kubernetes, Jenkins, Puppet, Ansible, Chef, Terraform, AWS Cloud formation, Nagios, Git, & InSpec
+TContentLink: https://drive.google.com/u/0/uc?id=1jIOXTEolfSOy2nYpC1QxoVlfX_xn5Fns&export=download
+
+#services
+ServicesHeading:  Enhanced Lead Generation Just 4 Steps Away
+
+Services1H: Step 1.  OnBoard 
+Services1: This one-time step is to ensure you understand how you could benefit from our product. While onboarding we also ensure all brands and firms associated with us are genuine and authorized firms.
+Services2H: Step 2. Issue
+Services2: Once Onboarded you can issue your certificate to your student on your certificate template along with our unique QR code that can be used to verify the certificate at any given time and place. 
+
+Services3H: Step 3. Review
+Services3: The issued Certificate and branding collaterals undergo a quick quality check to ensure your certificates pages are error-free and presentable. Afterall your brand value is also our concern.
+
+Services4H:  Step 4. Publish
+Services4: Once published you can share it with your students and relax. Each shared certificate on an average generates 1000+ impressions thus leading to more sales leads and more branding.
+
+#features 
+
+FeatureHeading:  Adding more value
+
+Feature1H:  Publish Digitized Certificates  
+Feature1: Add value to your training programs by issuing & publishing a Digitized Certificate. Each certificate issued by you will be stored in a dedicated web address which is easily accessible by anyone.
+
+Feature2H: Gain More Visibility
+Feature2: The digital certificates issued can easily be shared across different social media platforms like Facebook, Linkedin, Instagram, etc. This enables your trainees to showcase/share their achievements with ease and as a trainer, you directly gain more visibility.
+
+Feature3H:  Drive More leads 
+Feature3: The shareable certificate webpages are customizable to add your branding including, specific call to action, email etc enabling you to drive more sales and revenue. Our Certificate WebPages are mobile-friendly enabling more shares and impressions
+
+Feature4H: Your Certificates are Verifiable  
+Feature4: Each of our certificates comes up with a QR code that enables you to establish your authenticity seamlessly. The also ensures the certificates issued can not be forged. We also support the email-based verification process.   
+#Clinets
+clinetsH : Sample Cetificate WebPage
+
+#Portfolio
+
+portfolioHeader : Learn from the Expert!
+portfolioHeaderA: Help us help you
+portfolioHeaderLink: https://www.youtube.com/embed/i2Vh6yUiZn4
+portfolioHeaderB : About your trainer 
+portfolioHeaderBN: Anju M Dominic
+portfolioHeaderB1: Founder | Speaker | Author
+portfolioHeaderB1C: Anju M Dominic is a well accredited professional corporate trainer and consultant in the field of DevOps . She has conducted over 70+ hands-on workshops across different product and service companies. She is also a trainer/author across various training companies including PluralSight, Edureka, KnowledgeHut, etc. She is currently the Principal consultant and founder of QuadraLogics, a boutique training/consulting firm. Anju is well known for her contributions to technical articles which includes two books and several whitepapers in the field of software engineering. She is also a regular speaker for many DevOps and Agile conferences.
+#Ribbon 
+RHead1: Get Certified Now
+RHead2: 
+RHead3: 
+RCTA:  Enroll !
+
+ph_number: +91-6362315334
+github_username: linkedin/company/quadralogics
+
+footer: ©  2020  www.quadralogics.com , certifyme.online is a QuadraLogics concern 
+
+
+
+# Build settings
+markdown: kramdown
+
+

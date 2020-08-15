@@ -1,0 +1,29 @@
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Contact {{page.contactCompanyName}}</h2>
+                <hr class="primary">
+                <p>{{page.contactMsg}}</p>
+            </div>
+        <div class="col-lg-2 col-lg-offset-2 text-center">
+            <a href="#">
+                <i class="fa fa-phone-square fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                <p>{{ page.contactPh_number }}</p>
+            </a>
+        </div>
+        <div class="col-lg-2 col-lg-offset-1 text-center">
+            <a href="mailto:{{ page.contactEmail }}">
+            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                <p>{{ page.contactEmail }}</p>
+            </a>
+        </div>
+        <div class="col-lg-2 col-lg-offset-1 text-center">
+            <a href="https://{{ page.contactCompanyWebSiteLink }}">
+            <i class="fa fa-link fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                <p>{{ page.contactCompanyWebSiteLink }}</p>
+            </a>
+        </div>
+       
+    </div>
+</section>
