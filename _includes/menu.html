@@ -1,0 +1,32 @@
+<div class="container">
+	<div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Choose your Class</h2>
+                <hr >
+              
+                
+            </div>
+            
+            
+        </div>
+    </div>
+
+	<div class="row">
+
+		<ul class="tilesWrap">
+			{% for class in site.data.class %}
+			<li>
+				<h2>{{class.std}}</h2>
+				<h3>{{class.name}}</h3>
+				<h3>Standard</h3>
+
+				
+				<button onclick="window.location.href='{{site.baseuri}}{{class.url}}';"> View Subjects</button>
+			</li>
+			{% endfor %}
+			
+		</ul>
+
+	</div>
+</div>

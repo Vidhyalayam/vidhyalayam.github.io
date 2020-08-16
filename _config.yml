@@ -1,17 +1,20 @@
-
-
+collections:
+    Nine:
+      output: true
+   
 
 # Site settings
-title: Certify Me  
+title: Patshala  
+baseuri: https://patshala.github.io/
 email: info@quadralogics.com
 description: Your trusted Assessment and Certification Platform
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 company: QuadraLogics
 #Heading 
-Head1: Certify Me.Online 
-Head2: Your Trusted Digital Certificate Publishing Platform
-Head3: We add more value to your Training & Certifications 
+Head1: Patshala 
+Head2: Collating Vedios Published by KITES Victor for eraser access to students 
+Head3: Please Note- We are a group of volunteers trying to help students and this is not an official website from KITES Victor 
 HeadCTA: Request a Demo
 HeadCTALink: mailto:info@quadralogics.com?subject = Express Interest&body = I  would like to know more about how certifyme.online could add value to my  Training & Certifications.
 #Call to action
