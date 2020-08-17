@@ -16,7 +16,7 @@
 
 		<ul class="tilesWrap">
 			{% for class in site.data.class %}
-			<li>
+			<li onclick="location.href = '{{site.baseuri}}{{class.uri}}';" >
 				<h2>{{class.std}}</h2>
 				<h3>{{class.name}}</h3>
 				<h3>Standard</h3>

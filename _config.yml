@@ -4,22 +4,22 @@ collections:
    
 
 # Site settings
-title: Patshala  
-baseuri: https://patshala.github.io/
+title: Vidhyalayam  
+baseuri: https://vidhyalayam.github.io/
 email: info@quadralogics.com
 description: Your trusted Assessment and Certification Platform
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 company: QuadraLogics
 #Heading 
-Head1: Patshala 
-Head2: Collating Vedios Published by KITES Victor for eraser access to students 
-Head3: Please Note- We are a group of volunteers trying to help students and this is not an official website from KITES Victor 
+Head1: Vidhyalayam 
+Head2: 
+Head3: 
 HeadCTA: Request a Demo
 HeadCTALink: mailto:info@quadralogics.com?subject = Express Interest&body = I  would like to know more about how certifyme.online could add value to my  Training & Certifications.
 #Call to action
-USPH: Certify Me.Online Advantage
-USP: Certify me is a digital certificate publishing platform for training companies. The sharable, mobile-friendly, and personalized certificate pages enables training firms to gain better visibility, branding, and lead generation via organic sharing across different social media platforms like Facebook, Linkedin, Instagram, etc. Organic sharing is naturally triggered when trainees want to showcase her achievements in her network circle. Each organic share on an average generates 1000+ impressions thus leading to more visibility & sales leads. <br/> Certifyme.online is a QuadraLogics concern .
+USPH: Vidhyalayam
+USP: We are a group of volunteers collating videos published by Kerala Infrastructure and Technology for Education (KITE) Victor Chanell,  to enable easier access to students. The Videos are collated and arranged by class and subject wise so that a student can easily access the content
 
 TContentH: Download Training Contents
 TContentB: Topics include Docker, Kubernetes, Jenkins, Puppet, Ansible, Chef, Terraform, AWS Cloud formation, Nagios, Git, & InSpec
