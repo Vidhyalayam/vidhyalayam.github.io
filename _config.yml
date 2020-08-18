@@ -4,21 +4,21 @@ collections:
    
 
 # Site settings
-title: Vidhyalayam  
+title: വിദ്യാലയം  
 baseuri: https://vidhyalayam.github.io/
 email: info@quadralogics.com
-description: Your trusted Assessment and Certification Platform
+description: വിദ്യാലയം
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 company: QuadraLogics
 #Heading 
-Head1: Vidhyalayam 
+Head1: വിദ്യാലയം 
 Head2: 
 Head3: 
 HeadCTA: Request a Demo
 HeadCTALink: mailto:info@quadralogics.com?subject = Express Interest&body = I  would like to know more about how certifyme.online could add value to my  Training & Certifications.
 #Call to action
-USPH: Vidhyalayam
+USPH: വിദ്യാലയം (Vidhyalayam)
 USP: We are a group of volunteers collating videos published by Kerala Infrastructure and Technology for Education (KITE) Victor Chanell,  to enable easier access to students. The Videos are collated and arranged by class and subject wise so that a student can easily access the content
 
 TContentH: Download Training Contents
@@ -75,7 +75,7 @@ RCTA:  Enroll !
 ph_number: +91-6362315334
 github_username: linkedin/company/quadralogics
 
-footer: ©  2020  www.quadralogics.com , certifyme.online is a QuadraLogics concern 
+footer: ©  2020  www.vidhyalayam.github.io
 
 
 
