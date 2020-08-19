@@ -1,11 +1,22 @@
 <div class="container">
-
+	<div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">STD 9 Subjects</h2>
+                <hr >
+              
+                
+            </div>
+            
+            
+        </div>
+    </div>
 
 	<div class="row">
 
 		<ul class="tilesWrap">
 			{% for subject in site.Nine %}
-			<li>
+			<li onclick="location.href = '{{site.baseuri}}{{subject.uri}}';">
 				<h1>{{subject.subject}}</h1>
 				
 
