@@ -1,33 +1,33 @@
 - name: First 
-  uri: First.html
+  uri: 9.html
   std: 1
 
 - name: Second
-  uri: First.html
+  uri: 9.html
   std: 2
 
 - name: Third 
-  uri: First.html
+  uri: 9.html
   std: 3
 
 - name: Fourth 
-  uri: First.html
+  uri: 9.html
   std: 4
 
 - name: Fifth 
-  uri: First.html
+  uri: 9.html
   std: 5
 
 - name: Sixth 
-  uri: First.html
+  uri: 9.html
   std: 6
 
 - name: Seventh 
-  uri: First.html
+  uri: 9.html
   std: 7
 
 - name: Eighth 
-  uri: First.html
+  uri: 9.html
   std: 8
 
 - name: Nineth
@@ -35,13 +35,13 @@
   std: 9
 
 - name: Tenth
-  uri: First.html
+  uri: 9.html
   std: 10
 
 - name: Eleventh
-  uri: First.html
+  uri: 9.html
   std: 11
 
 - name: Twelth
-  uri: First.html
+  uri: 9.html
   std: 12
