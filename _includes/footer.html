@@ -1,7 +1,71 @@
-<footer class="bg-dark">
-    <div class="container text-center">
-        <div class="call-to-action">
-            <p>{{site.footer}}</p>           
-        </div>
+<!-- Site footer -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-4">
+        
+        <h6>Address</h6>
+
+        <p> 433/17 , High School Road , Kuttur , Thrissur , Kerala 680013 </p>
+        <p> Email : info (at) vidhyalayam.online</p>
+        <img src="img/logo1.png" alt="logo" style="width: 100px; height: 100px; float:left ;" />
+
+
+
+
+
+
+      </div>
+
+      <div class="col-xs-12 col-md-4">
+        <h6>quick links to classes</h6>
+
+        <ul class="footer-links">
+          {% for class in site.data.class %}
+          <div class="col-xs-6 col-md-6">
+            <li><a href="{{{site.baseuri}}{{class.uri}}"><p>{{class.name}}</p></a></li>
+          </div>
+          {% endfor %}
+        </ul>
+    
+      </div>
+
+  
+      <div class="col-xs-12 col-md-4">
+        <h6>Other Links</h6>
+        <ul class="footer-links">
+          <li><a href="#about"><p>About Us</p></a></li>
+       
+         
+          <li><a href=""><p>Privacy Policy</p></a></li>
+          <li><a href=""><p>Terms & Conditions</p></a></li>
+         
+        
+          
+      </div>
+
     </div>
+    <hr>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-6 col-xs-12">
+        <p class="copyright-text">
+          <a href="www.vidhyalayam.online"> (cc) വിദ്യാലയം</a>.
+        </p>
+      </div>
+
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <ul class="social-icons">
+          <li><a class="facebook"
+              href="https://www.facebook.com/Vidhyalayam-109438267545014/"><i
+                class="fa fa-facebook"></i></a></li>
+
+          
+          <li><a class="linkedin" href="https://www.linkedin.com/company/67515803/"><i
+                class="fa fa-linkedin"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </footer>
