@@ -1,5 +1,27 @@
 collections:
+    One:
+      output: true
+    Two:
+      output: true
+    Three:
+      output: true
+    Four:
+      output: true
+    Five:
+      output: true
+    Six:
+      output: true
+    Seven:
+      output: true
+    Eight:
+      output: true
     Nine:
+      output: true
+    Ten:
+      output: true
+    Eleven:
+      output: true
+    Twelve:
       output: true
    
 

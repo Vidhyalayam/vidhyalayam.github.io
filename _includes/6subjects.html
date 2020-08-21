@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">
-				<h2 class="section-heading">STD 9 Subjects</h2>
+				<h2 class="section-heading">STD 6 Subjects</h2>
 				<hr>
 
 
@@ -15,7 +15,7 @@
 	<div class="row">
 
 		<ul class="tilesWrap">
-			{% for subject in site.Nine %}
+			{% for subject in site.Six %}
 			<li onclick="location.href = '{{site.baseuri}}{{subject.url}}';">
 				<h1>{{subject.subject}}</h1>
 				<button onclick="window.location.href='{{site.baseuri}}{{subject.url}}';"> View Lessons</button>
