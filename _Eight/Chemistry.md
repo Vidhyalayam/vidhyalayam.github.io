@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Biology
+subject: Chemistry
 class: Nine
 CreaterEmail: 
 
