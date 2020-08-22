@@ -2,6 +2,8 @@
 layout : lessons 
 subject: Biology
 class: Nine
+CreaterEmail: ranjiththarayil@gmail.com
+
 lessons: 
 - { id: 'dodBvCyz2wA', title: 'KITE VICTERS STD 9 Biology Class 01(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'gh0n60H5fTc', title: 'KITE VICTERS STD 9 Biology Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }

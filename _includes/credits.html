@@ -1,0 +1,18 @@
+<footer class="bg-dark">
+    <div class="container text-center">
+        <div class="simple-header">
+            <h2>Credits<h2>
+            {% for member in site.contributors %}
+                {% if member.email ==  page.CreaterEmail %}
+                <h6>This page was created by </h6>
+                <a  href="{{member.url}}"><i style="color:white;"
+                    class="fa fa-star"> {{member.name}}</i><p></p></a>
+                {% endif %}
+            {% endfor %} 
+  
+
+            </div>
+                    
+        </div>
+    </div>
+</footer>
