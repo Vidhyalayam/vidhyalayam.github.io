@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Chemistry
-class: plus two
+class: PLUS TWO
 CreaterEmail: christovincent2003@gmail.com
 
 lessons:
