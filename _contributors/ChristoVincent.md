@@ -2,6 +2,7 @@
 layout : member 
 
 name: Christo Vincent
-institution: ST Thomas HSS THOPE
+institution: St Thomas HSS Thope Thrissur 
 email: christovincent2003@gmail.com
-class: plus two
+class: Plus two 
+--- 
