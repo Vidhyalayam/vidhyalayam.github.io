@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Our Team</h2>
+                <hr>
+
+
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="row">
+
+        <ul class="tilesWrap">
+            {% for member in site.contributors %}
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-center">
+                <h3>{{member.name}}</h3>
+                <h4>{{member.institution}}</h4>
+                <h4>{{member.class}}</h4>
+
+            </div>
+            {% endfor %}
+
+        </ul>
+
+    </div>
+</div>
