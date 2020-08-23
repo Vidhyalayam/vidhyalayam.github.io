@@ -1,6 +1,6 @@
 ---
 layout : lessons 
-subject: Malayalam paper 2
+subject: Malayalam paper 1
 class: seven
 CreaterEmail: johnpaulroy121@gmail.com
 
