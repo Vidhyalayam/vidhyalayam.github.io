@@ -1,10 +1,7 @@
 --- 
 layout : lessons 
 subject: English
-class: Eight
-
 class: Six
-
 CreaterEmail: advaitmpai.6a@gmail.com
 
 lessons: 
