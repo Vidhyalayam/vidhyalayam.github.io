@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Computerscience
+subject: Computer Science
 class: PLUS TWO
 CreaterEmail: christovincent2003@gmail.com
 
