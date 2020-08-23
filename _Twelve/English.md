@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Chemistry
+subject: English
 class: PLUS TWO
 CreaterEmail: christovincent2003@gmail.com
 
