@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: English
+subject: Social
 class: Six
 
 CreaterEmail: advaitmpai.6a@gmail.com
