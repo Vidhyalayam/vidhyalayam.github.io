@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Mathematics
+subject: Maths
 class: Plus Two
 CreaterEmail: christovincent2003@gmail.com
 
