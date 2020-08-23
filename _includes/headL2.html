@@ -1,16 +1,25 @@
 <head>
-
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175893032-1"></script>
+      <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() { dataLayer.push(arguments); }
+          gtag('js', new Date());
+  
+          gtag('config', 'UA-175893032-1');
+      </script>
+    <link rel="icon" type="image/png" href="https://vidhyalayam.github.io/img/logo1.png" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content= "This certificate is issued to {{page.issuedTo }}">
-    <meta name="author" content="Quadralogics">
+    <meta name="description" content= "{{page.class}} {{page.subject}}">
+    <meta name="author" content="vidhyalayam.online">
     <meta name="robots" content="index, follow">
-    <meta property="og:image" content="https://certifyme.online/img/certificate/{{page.certificatePath }}">
-    <meta property="og:title" content={{page.program}}>
+    <meta property="og:image" content="https://vidhyalayam.github.io/img/logo1.png">
+    <meta property="og:title" content={{page.class}} {{page.subject}}>
    
-    <meta property="og:description" content="This certificate is issued to {{page.issuedTo }}">
-    <meta property="og:url" content="https://certifyme.online/{{page.url}}">
+    <meta property="og:description" content="{{page.class}} {{page.subject}} lessons">
+    <meta property="og:url" content="https://vidhyalayam.github.io/img/logo1.png">
     <meta name= "twitter:card" content="summary_large_image">
 
     <title>{{page.program}}</title>
