@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Mathematics
+subject: Maths
 class: Six
 CreaterEmail: advaitmpai.6a@gmail.com
 
