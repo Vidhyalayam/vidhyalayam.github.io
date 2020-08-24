@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Mathematics
+subject: Maths
 class: Ten
 CreaterEmail: abhitha2005@gmail.com
 
