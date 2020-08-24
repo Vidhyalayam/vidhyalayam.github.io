@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Social
+subject: Social Science
 class: Six
 
 CreaterEmail: advaitmpai.6a@gmail.com
