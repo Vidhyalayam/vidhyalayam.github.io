@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Mathematics
+subject: Maths
 class: seven
 CreaterEmail: johnpaulroy121@gmail.com
 
