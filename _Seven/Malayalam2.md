@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Malayalam 2
+subject: Malayalam II
 class: seven
 CreaterEmail: johnpaulroy121@gmail.com
 

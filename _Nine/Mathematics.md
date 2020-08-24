@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Mathematics
+subject: Maths
 class: Nine
 lessons: 
 - { id: 'tvUpGJ2sROY', title: 'KITE VICTERS STD 9 mathematics Class 01(First Bell-ഫസ്റ്റ് ബെല്‍)' }
