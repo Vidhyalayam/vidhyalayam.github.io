@@ -13,5 +13,5 @@ lessons:
 - { id: 'xLeuRGhqKJU', title: 'KITE VICTERS STD 06 Malayalam (Adisthana paadam) Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tesfhRUOx5E', title: 'KITE VICTERS STD 06 Malayalam Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'oi61YZj5z9A', title: 'KITE VICTERS STD 06 Malayalam (KeralaPaadavali) Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'oV4zSkvxczhI', title: 'KITE VICTERS STD 06 Kerala padavali Class 06(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'V4zSkvxczhI', title: 'KITE VICTERS STD 06 Kerala padavali Class 06(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 --- 
