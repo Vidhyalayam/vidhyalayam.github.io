@@ -11,4 +11,7 @@ lessons:
 - { id: 'WUVlqVowNjo', title: 'KITE VICTERS STD 9 Mathematics Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'KdRJKgRZHWY', title: 'KITE VICTERS STD 09 Mathematics Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'rws8ESfab1M', title: 'KITE VICTERS STD 09 Mathematics Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'x9JSSnHPr5U', title: 'KITE VICTERS STD 09 Mathematics Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ga6uNlU7WCQ', title: 'KITE VICTERS STD 09 Mathematics Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'okf6PyQ1EMw', title: 'KITE VICTERS STD 09 Mathematics Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 --- 
