@@ -2,7 +2,7 @@
 layout : lessons 
 subject: English
 class: three
-CreaterEmail: deepthipj22@@gmail.com
+CreaterEmail: deepthipjoju@gmail.com
 
 lessons: 
 - { id: 'fblLE6fH50w', title: 'KITE VICTERS STD 3 English Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
