@@ -6,5 +6,5 @@ institution: Amala Translink
 email: cinivincent@gmail.com
 class:
 role: Project Manager
-gihubID: CiniVincent
+githubID:: CiniVincent
 --- 
