@@ -15,4 +15,6 @@ lessons:
 - { id: 'HASnJi1ek-I', title: 'KITE VICTERS STD 09 Physics Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'BkD1Jbaj4_k', title: 'KITE VICTERS STD 09 Physics Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '9P3Jal056Ec', title: 'KITE VICTERS STD 09 Physics Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'USairmvnup0', title: 'KITE VICTERS STD 09 Physics Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'qCVkQHbo4AY', title: 'KITE VICTERS STD 09 Physics Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 --- 
