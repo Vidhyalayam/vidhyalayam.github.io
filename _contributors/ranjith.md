@@ -6,5 +6,5 @@ institution: Accenture
 email: ranjiththarayil@gmail.com
 class:
 role: Founder & Software Developer 
-githubID:: rtharayil
+githubID: rtharayil
 --- 
