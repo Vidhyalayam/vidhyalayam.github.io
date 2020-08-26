@@ -17,10 +17,20 @@
         <ul class="tilesWrap">
             {% for member in site.contributors %}
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-left">
-                <h3>{{member.name}}</h3>
-                <h4>{{member.institution}}</h4>
-                <h5>Class : {{member.class}}</h5>
-                <h5>Role : {{member.role}}</h5>
+                <a href="{{member.url}}">
+                <div class="col-lg-3 col-md-3 col-xs-3 col-sm-3 text-left">
+                    <img src="https://avatars.githubusercontent.com/{{member.githubID}}" alt="logo"
+                        style="width: 100px; height: 100px; float:right ;" />
+                </div>
+
+                <div class="col-lg-9 col-md-9 col-xs-9 col-sm-9 text-left">
+                    <h3>{{member.name}}</h3>
+                    <h4>{{member.institution}}</h4>
+                    <h5>Class : {{member.class}}</h5>
+                    <h5>Role : {{member.role}}</h5>
+                </div>
+                </a>
+             <p> .</p>
             </div>
             {% endfor %}
 

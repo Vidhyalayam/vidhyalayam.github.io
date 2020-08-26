@@ -4,7 +4,7 @@
             <h2>Credits<h2>
                     {% for member in site.contributors %}
                     {% if member.email ==  page.CreaterEmail %}
-                    <h4>This page was created by </h4>
+                    <h3>This page was created by </h3>
                     <a href="{{member.url}}"><i style="color:white;" class="fa fa-star"> {{member.name}} ,
                             {{member.institution}}</i>
                         <p></p>
