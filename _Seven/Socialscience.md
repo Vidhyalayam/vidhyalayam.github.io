@@ -12,4 +12,5 @@ lessons:
 - { id: 'cBQu9wt9sp8', title: 'KITE VICTERS STD 7 Social Science Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Yy2e6SxuT84', title: 'KITE VICTERS STD 7 Social Science Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'zk9RUKr0kzE', title: 'KITE VICTERS STD 7 Social science Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'm-XrGEocvkE', title: 'KITE VICTERS STD 7 Social Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 ---
