@@ -5,7 +5,7 @@ name: Deepthi Joju
 institution: St.Thomas H.S.S Thiroor
 email: deepthipjoju@gmail.com
 class:Plus two
-role: software Developer
+role: Software Developer
 gihubID: DeepthiPJoju
 
 --- 
