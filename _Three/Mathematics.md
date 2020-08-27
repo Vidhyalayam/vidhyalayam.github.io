@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Maths
-class: three
+class: Three
 CreaterEmail: deepthipjoju@gmail.com
 
 lessons: 
