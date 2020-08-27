@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Malayalam
-class: three
+class: Three
 CreaterEmail: deeptjipjoju@gmail.com
 
 lessons: 
