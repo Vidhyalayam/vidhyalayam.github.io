@@ -20,4 +20,10 @@ lessons:
 - { id: 'idMkaayAuU4', title: 'KITE VICTERS Plus Two Physics Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'S0xifWhkOG0', title: 'KITE VICTERS Plus Two Physics Class 13(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Physics/Physics_1.pdf', title: 'Physics Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Physics/Physics_2.pdf', title: 'Physics Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Physics%20Part%201.pdf', title: 'Physics Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Physics%20Part_II.pdf', title: 'Physics Part -2' , medium: 'Malayalam' }
+
 --- 
