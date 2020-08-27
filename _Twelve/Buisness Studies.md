@@ -1,0 +1,20 @@
+--- 
+layout : lessons 
+subject: Buisness Studies
+class: Plus Two
+CreaterEmail: christovincent2003@gmail.com
+
+lessons:
+- { id: 'yf8aub_FEU8', title: 'KITE VICTERS STD Plus Two Business Studies Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'qVCWipWjqwQ', title: 'KITE VICTERS STD Plus Two Business Studies Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'yO06IAhyJBQ', title: 'KITE VICTERS STD Plus Two Business Studies Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'iDZsRrv_2TI', title: 'KITE VICTERS STD Plus Two Business Studies Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'SCkEnhErqpU', title: 'KITE VICTERS STD Plus Two Business Studies Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'D6id1_o5xeY', title: 'KITE VICTERS STD Plus Two Business Studies Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'NtiNt3d4QNA', title: 'KITE VICTERS STD Plus Two Business Studies Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'OUltFQwkbok', title: 'KITE VICTERS STD Plus Two Business Studies Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'd2Tu3MEQm88', title: 'KITE VICTERS STD Plus Two Business Studies Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '1VBb4IOjDts', title: 'KITE VICTERS STD Plus Two Business Studies Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'NZC95ZupYOs', title: 'KITE VICTERS STD Plus Two Business Studies Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+---
