@@ -2,7 +2,7 @@
 layout : lessons 
 subject: Malayalam
 class: three
-CreaterEmail: deeptjipjoju@gmail.com
+CreaterEmail: deepthipjoju@gmail.com
 
 lessons: 
 - { id: 'bnsTjhK4uC0', title: 'KITE VICTERS STD 3 Malayalam Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
