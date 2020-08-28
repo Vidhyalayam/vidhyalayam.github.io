@@ -2,8 +2,9 @@
 layout : member 
 
 name: Ryan MJ
-institution: Bhavan's Vidya Mandir Girinagar
+institution: Bhavans Vidya Mandir Girinagar
 email: ryanmj.xic@gmail.com
-class: Plus one
-role: Software Developer 
+class: 11
+role: Software Developer
+githubID: RyanMJustine
 --- 
