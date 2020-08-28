@@ -32,8 +32,8 @@ title: വിദ്യാലയം.online
 baseuri: https://vidhyalayam.github.io/
 email: info@quadralogics.com
 description: വിദ്യാലയം.online
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: https://vidhyalayam.github.io/
+url: https://vidhyalayam.github.io/
 company: QuadraLogics
 #Heading 
 Head1: വിദ്യാലയം 
