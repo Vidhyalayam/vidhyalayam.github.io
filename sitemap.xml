@@ -7,7 +7,7 @@ sitemap:
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  {% for class in site.collections %}
   {% for post in class %}
-    {% unless post.published == false %}
+    
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
@@ -28,7 +28,7 @@ sitemap:
         <priority>0.5</priority>
       {% endif %}
     </url>
-    {% endunless %}
+   
   {% endfor %}
    {% endfor %}
   {% for page in site.pages %}
