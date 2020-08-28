@@ -6,7 +6,7 @@ sitemap:
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  {% for class in site.collections %}
-  {% for sub in class %}
+  {% for sub in site[class.label] %}
     
     <url>
       <loc>{{ site.url }}{{ sub.url }}</loc>
