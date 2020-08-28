@@ -6,5 +6,5 @@ institution: Bhavan's Vidya Mandir Girinagar
 email: janemaryxiia@gmail.com
 class: Plus two
 role: Software Developer 
-githubID:
+githubID:JaneMaryJustine
 --- 
