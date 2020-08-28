@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Malayalam
-class: four
+class: Four
 CreaterEmail: adarshjojo2006@gmail.com
 
 lessons: 
