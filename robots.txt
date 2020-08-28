@@ -1,1 +1,7 @@
+---
+layout: null
+---
+User-Agent: *
+Disallow: 
 
+Sitemap: https://vidhyalayam.online//sitemap.xml
