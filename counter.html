@@ -1,0 +1,67 @@
+---
+layout: null
+sitemap:
+exclude: 'yes'
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+
+    <div class="container">
+        <h3>Text Books</h3>
+
+        <table class="table table-striped">
+
+            <tbody>
+                <tr>
+                    <th>Name</th>
+                    <th>Contribution</th>
+
+                </tr>
+
+
+
+
+
+
+                {% for member in site.contributors %}
+
+                {% assign i = 0 %}
+                {% for class in site.collections %}
+                {% for sub in site[class.label] %}
+                {% if member.email ==  sub.CreaterEmail %}
+
+                {% assign psize = sub.lessons | size %}
+
+                {% assign i = i | plus:psize %}
+                {% assign psize = sub.textbooks | size %}
+
+                {% assign i = i | plus:psize %}
+                {% endif %}
+
+                {% endfor %}
+                {% endfor %}
+                {% if i > 0 %}
+                <tr>
+                    <td>{{member.name}}</td>
+                    <td>{{i}}</td>
+
+
+
+                </tr>
+                {% endif %}
+
+                {% endfor %}
+
+            </tbody>
+        </table>
+    </div>
+    {% include footer.html %}
+    {% include scripts.html %}
+</body>
+
+</html>
