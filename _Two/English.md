@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
-subject: Biology
-class: Nine
+subject: English
+class: Two
 CreaterEmail: advaitmpai.6a@gmail.com
 
 lessons: 
