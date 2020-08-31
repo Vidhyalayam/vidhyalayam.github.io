@@ -12,5 +12,5 @@ lessons:
 - { id: 'AZAwvNW11O8', title: 'KITE VICTERS STD 7 Basic Science Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cwv4WgZ3AJM', title: 'KITE VICTERS STD 7 Basic Science Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'KsL6szvmZv0', title: 'KITE VICTERS STD 7 Basic Science Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'ctI2cfNQRzn0' title: 'KITE VICTERS STD 7 Basic Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ctI2cfNQRzn0', title: 'KITE VICTERS STD 7 Basic Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 ---
