@@ -12,25 +12,27 @@ exclude: 'yes'
 <body id="page-top">
 
     <div class="container">
-        <h3>Text Books</h3>
+        <h3>Contribution Books</h3>
 
         <table class="table table-striped">
 
             <tbody>
                 <tr>
                     <th>Name</th>
-                    <th>Contribution</th>
+                    <th>Contribution Points</th>
 
                 </tr>
 
 
 
 
-
+                {% assign vedios = 0 %}
+                {% assign books = 0 %}
 
                 {% for member in site.contributors %}
 
                 {% assign i = 0 %}
+                
                 {% for class in site.collections %}
                 {% for sub in site[class.label] %}
                 {% if member.email ==  sub.CreaterEmail %}
@@ -38,9 +40,11 @@ exclude: 'yes'
                 {% assign psize = sub.lessons | size %}
 
                 {% assign i = i | plus:psize %}
+                {% assign vedios = vedios | plus:psize %}
                 {% assign psize = sub.textbooks | size %}
 
-                {% assign i = i | plus:psize %}
+                
+                {% assign books = books | plus:psize %}
                 {% endif %}
 
                 {% endfor %}
@@ -60,6 +64,8 @@ exclude: 'yes'
             </tbody>
         </table>
     </div>
+    <h1> Total vedios {{vedios}}<h1>
+        <h1> Total TextBooks {{books}}<h1>
     {% include footer.html %}
     {% include scripts.html %}
 </body>

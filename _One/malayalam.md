@@ -2,7 +2,7 @@
 layout : lessons 
 subject: malayalam
 class: one
-CrearterEmail: aeon.vdkn@gmail.com
+CreaterEmail: aeon.vdkn@gmail.com
 
 lessons: 
 - { id: '4f2NKdDpDHs', title: 'KITE VICTERS STD 1 Malayalam I Class 1 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
