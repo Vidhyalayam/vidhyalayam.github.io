@@ -12,60 +12,116 @@ exclude: 'yes'
 <body id="page-top">
 
     <div class="container">
-        <h3>Contribution Books</h3>
+        <h1 style="text-align: center;"> Total vedios {{vedios}}<h1>
+                <h1 style="text-align: center;"> Total TextBooks {{books}}<h1>
+                        <h3>Contribution </h3>
 
+                        <table class="table table-striped">
+
+                            <tbody>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>video</th>
+
+                                </tr>
+
+
+
+
+                                {% assign vedios = 0 %}
+                                {% assign books = 0 %}
+
+                                {% for member in site.contributors %}
+
+                                {% assign i = 0 %}
+
+                                {% for class in site.collections %}
+                                {% for sub in site[class.label] %}
+                                {% if member.email ==  sub.CreaterEmail %}
+
+                                {% assign psize = sub.lessons | size %}
+
+                                {% assign i = i | plus:psize %}
+                                {% assign vedios = vedios | plus:psize %}
+                                {% assign psize = sub.textbooks | size %}
+
+
+                                {% assign books = books | plus:psize %}
+                                {% endif %}
+
+                                {% endfor %}
+                                {% endfor %}
+                                {% if i > 0 %}
+                                <tr>
+                                    <td>{{member.name}}</td>
+                                    <td>{{i}}</td>
+
+
+
+                                </tr>
+                                {% endif %}
+
+                                {% endfor %}
+
+                            </tbody>
+                        </table>
+
+    </div>
+
+
+
+    <div class="container">
+
+        <h1>Class wise </h1>
+
+        {% for class in site.collections %}
+        <h2> {{class.label}}</h2>
         <table class="table table-striped">
-
             <tbody>
                 <tr>
-                    <th>Name</th>
-                    <th>Contribution Points</th>
+                    
+                    <th>Subject</th>
+                    <th>video</th>
 
                 </tr>
-
-
-
-
                 {% assign vedios = 0 %}
-                {% assign books = 0 %}
-
-                {% for member in site.contributors %}
-
-                {% assign i = 0 %}
-                
-                {% for class in site.collections %}
                 {% for sub in site[class.label] %}
-                {% if member.email ==  sub.CreaterEmail %}
-
+                {% if sub.subject %}
+                {% assign i = 0 %}
                 {% assign psize = sub.lessons | size %}
 
                 {% assign i = i | plus:psize %}
                 {% assign vedios = vedios | plus:psize %}
-                {% assign psize = sub.textbooks | size %}
-
-                
-                {% assign books = books | plus:psize %}
-                {% endif %}
-
-                {% endfor %}
-                {% endfor %}
-                {% if i > 0 %}
                 <tr>
-                    <td>{{member.name}}</td>
+                    <td>{{sub.subject}}</td>
                     <td>{{i}}</td>
 
 
 
                 </tr>
+
+
+
                 {% endif %}
 
                 {% endfor %}
+                <tr>
+                    <td>Total</td>
+                    <td>{{vedios}}</td>
 
+                </tr>
             </tbody>
         </table>
+        {% endfor %}
+        
+
+
+
+
+
     </div>
-    <h1> Total vedios {{vedios}}<h1>
-        <h1> Total TextBooks {{books}}<h1>
+
+
     {% include footer.html %}
     {% include scripts.html %}
 </body>
