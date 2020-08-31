@@ -29,11 +29,11 @@ collections:
 
 # Site settings
 title: വിദ്യാലയം.online  
-baseuri: https://vidhyalayam.online
+baseuri: https://vidhyalayam.online/
 email: info@vidhyalayam.online
 description: വിദ്യാലയം.online
 
-baseurl: https://vidhyalayam.github.io/
+baseurl:
 url: https://vidhyalayam.github.io/
 company: QuadraLogics
 
