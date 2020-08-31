@@ -29,15 +29,17 @@ collections:
 
 # Site settings
 title: വിദ്യാലയം.online  
-baseuri: https://vidhyalayam.github.io/
-email: info@quadralogics.com
+baseuri: https://vidhyalayam.online
+email: info@vidhyalayam.online
 description: വിദ്യാലയം.online
+
 baseurl: https://vidhyalayam.github.io/
 url: https://vidhyalayam.github.io/
 company: QuadraLogics
+
 #Heading 
-Head1: വിദ്യാലയം 
-Head2: .online
+Head1: Vidhyalayam
+Head2: വിദ്യാധനം സര്‍വധനാല്‍ പ്രധാനം 
 Head3: 
 HeadCTA: 
 HeadCTALink: 
