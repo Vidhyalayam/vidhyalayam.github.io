@@ -20,4 +20,10 @@ lessons:
 - { id: 'IZe1tMJcGCQ', title: 'KITE VICTERS STD 09 Biology Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'g0YC9Ioo0mI', title: 'KITE VICTERS STD 09 Biology Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ENweyz3IviY', title: 'KITE VICTERS STD 09 Biology Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Biology_9_E_Part_1/Biology_9_E_Part_1.pdf', title: 'Biology Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_9/Biology_9(E)%20Part%202/Biology_9(E)%20Part%202.pdf', title: 'Biology Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Biology_9_M_Part_1/Biology_9_M_Part_1.pdf', title: 'Biology Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_9/Biology_9(M)%20Part%202/Biology_9(M)%20Part%202.pdf', title: 'Biology Part -2' , medium: 'Malayalam' }
 --- 
