@@ -2,7 +2,7 @@
 layout : lessons 
 subject: English
 class: One
-CreaterEmail: Phoenixvadakkan3@gmail.com
+CreaterEmail: phoenixvadakkan3@gmail.com
 
 lessons: 
 - { id: 'eyFQf5FGDck', title: 'KITE VICTERS STD 01 English Class 1 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
