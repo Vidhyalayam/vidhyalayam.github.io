@@ -15,5 +15,4 @@ lessons:
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Malayalam_IX_AT_Vol_1/Malayalam_IX_AT_Vol_1.pdf', title: 'MalayalamI Part -1' , medium: 'Malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_9/Mal_IX_AT_Vol_2/Mal_IX_AT_Vol_2.pdf', title: 'MalayalamI Part -2' , medium: 'Malayalam' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Malayalam_IX_BT_Vol_1/Malayalam_IX_BT_Vol_1.pdf', title: 'MalayalamII' , medium: 'Malayalam' }
 ---
