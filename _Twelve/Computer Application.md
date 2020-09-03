@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Computer Application
-class: Plus Two
+class: XII
 CreaterEmail: christovincent2003@gmail.com
 
 lessons:
