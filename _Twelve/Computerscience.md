@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Computer Science
-class: PLUS TWO
+class: VII
 CreaterEmail: christovincent2003@gmail.com
 
 lessons:
