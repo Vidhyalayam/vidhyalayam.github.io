@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Accountancy
-class: Plus Two
+class: XII
 CreaterEmail: christovincent2003@gmail.com
 
 lessons:
