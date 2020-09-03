@@ -2,7 +2,7 @@
 layout : lessons 
 subject: malayalam
 class: one
-CreaterEmail: aeon.vdkn@gmail.com
+CreaterEmail: phoenixvadakkan3@gail.com
 
 lessons: 
 - { id: '4f2NKdDpDHs', title: 'KITE VICTERS STD 1 Malayalam I Class 1 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -33,5 +33,13 @@ lessons:
 - { id: '0b7vZVtDCBE', title: 'KITE VICTERS STD 1 Malayalam I Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'l_Tlbg-_k54', title: 'KITE VICTERS STD 1 Malayalam I Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'IQ7d0UcpxQ8', title: 'KITE VICTERS STD 1 Malayalam I Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/KeralapadavaliMal/KeralapadavaliMal.pdf', title: 'Malayalam Part -1' , medium: 'Malayalam' }
+
+
+---
 
 ---
