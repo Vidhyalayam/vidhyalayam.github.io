@@ -16,5 +16,13 @@ lessons:
 - { id: 'mL5nFgRhlJo', title: 'KITE VICTERS Plus Two English Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Mt_uVJnYEDE', title: 'KITE VICTERS Plus Two English Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'aaKffEnomCE', title: 'KITE VICTERS Plus Two English Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'pwytoyME2yY', title: 'KITE VICTERS Plus Two English Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/EnglishPart1/EnglishPart1.pdf', title: 'English' , medium: 'English' }
+
+
+
 
 --- 
