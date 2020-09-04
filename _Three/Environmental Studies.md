@@ -18,4 +18,10 @@ lessons:
 - { id: 'IxDm5W6Q8vA', title: 'KITE VICTERS STD 03 Environmental Studies Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '8qSgukWmcFo', title: 'KITE VICTERS STD 03 Environmental Studies Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD3/ParisarapadanamEnglish/ParisarapadanamEnglish.pdf', title: 'Environmental Studies Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_III/EVS_English_VolII/EVSEnglish.pdf', title: 'Environmental Studies Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD3/ParisarapadanamMalayalam/ParisarapadanamMalayalam.pdf', title: 'Environmental Studies Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_III/EVS_M_Vol_II/1-71.pdf', title: 'Environmental Studies Part -2' , medium: 'Malayalam' }
+
 --- 
