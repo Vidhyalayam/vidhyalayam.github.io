@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Computer Science
+subject: Information and Communication Technology
 class: Ten
 CreaterEmail: abhitha2005@gmail.com
 
