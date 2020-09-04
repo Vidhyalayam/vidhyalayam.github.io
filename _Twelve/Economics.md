@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Economics
-class: Plus Two
+class: XII
 CreaterEmail: christovincent2003@gmail.com
 
 lessons:
