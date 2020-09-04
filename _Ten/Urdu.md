@@ -11,4 +11,5 @@ lessons:
 - { id: 'DgVObQRb2KE', title: 'KITE VICTERS STD 10 Urdu Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'dAhXxSkag4o', title: 'KITE VICTERS STD 10 Urdu Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'oKfsa49Bxck', title: 'KITE VICTERS STD 10 Urdu Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'EPuXeyHIZ0U', title: 'KITE VICTERS STD 10 Urdu Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 ---

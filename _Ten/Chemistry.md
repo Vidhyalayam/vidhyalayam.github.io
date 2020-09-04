@@ -20,4 +20,10 @@ lessons:
 - { id: 'MItcPdvanTM', title: 'KITE VICTERS STD 10 Chemistry Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Gv2sAnvLNaA', title: 'KITE VICTERS STD 10 Chemistry Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '3wJHOzNtouM', title: 'KITE VICTERS STD 10 Chemistry Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Chemistry_Eng_1/Chemistry_Eng_1.pdf', title: 'Chemistry Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/Chemistry_English_2/Chemistry_English_2.pdf', title: 'Chemistry Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Chemistry_Mal_1/Chemistry_Mal_1.pdf', title: 'Chemistry Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/Chemistry_Malayalam_2/Chemistry_Malayalam_2.pdf', title: 'Chemistry Part -2' , medium: 'Malayalam' }
 ---
