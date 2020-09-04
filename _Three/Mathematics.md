@@ -24,4 +24,10 @@ lessons:
 - { id: 'B9QFbHdE4aU', title: 'KITE VICTERS STD 03 Mathematics Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '7wTOhucR1tY', title: 'KITE VICTERS STD 03 Mathematics Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD3/MathsEnglish/MathsEnglish.pdf', title: 'Mathematics Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_III/Maths_Eng_Vol_II/1-63.pdf', title: 'Mathematics Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD3/MathsMalayalam/MathsMalayalam.pdf', title: 'Mathematics Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_III/Maths_Malayalam_Vol_II/1-63.pdf', title: 'Mathematics Part -2' , medium: 'Malayalam' }
+
 --- 
