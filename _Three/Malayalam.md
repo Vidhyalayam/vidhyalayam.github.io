@@ -20,4 +20,8 @@ lessons:
 - { id: 'BplWFvX-Xzc', title: 'KITE VICTERS STD 03 Malayalam  Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'usvE5gc7jHY', title: 'KITE VICTERS STD 03 Malayalam Class 14(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD3/KeralaPadavaliMalayalam/KeralaPadavaliMalayalam.pdf', title: 'Malayalam Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_III/Mal_Reader_Vol_II/MalayalamReader.pdf', title: 'Malayalam Part -2' , medium: 'Malayalam' }
+
 --- 
