@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: English
-class: PLUS TWO
+class: XII
 CreaterEmail: christovincent2003@gmail.com
 
 lessons:
