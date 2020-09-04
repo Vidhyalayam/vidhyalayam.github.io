@@ -3,6 +3,8 @@ layout : lessons
 subject: Accountancy
 class: XII
 CreaterEmail: christovincent2003@gmail.com
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
 
 lessons:
 - { id: '5xmVgp2QvuQ', title: 'KITE VICTERS Plus two Accountancy  Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
