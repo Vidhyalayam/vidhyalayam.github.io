@@ -9,7 +9,7 @@ lessons:
 - { id: 'YIN9ia--Gy0', title: 'KITE VICTERS STD 10 Chemistry Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'vqBX7bpwWEI', title: 'KITE VICTERS STD 10 Chemistry Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'bciDYR5BCjI', title: 'KITE VICTERS STD 10 Chemistry Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '4NoGKKFOsuQ', title: 'KITE VICTERS STD 10 Chemistry Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4NoGKKFOsuQ', title: 'KITE VICTERS STD 10 Chemistry Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '9IhJABzZIs4', title: 'KITE VICTERS STD 10 Chemistry Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'T2GWdDcX-1s', title: 'KITE VICTERS STD 10 Chemistry Class 7 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'RllD82mZJX8', title: 'KITE VICTERS STD 10 Chemistry Class 8 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
