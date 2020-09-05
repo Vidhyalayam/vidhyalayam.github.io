@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
-subject: malayalam
-class: one
+subject: Malayalam
+class: I
 CreaterEmail: phoenixvadakkan3@gail.com
 
 lessons: 
