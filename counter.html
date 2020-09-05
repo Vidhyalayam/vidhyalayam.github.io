@@ -82,20 +82,27 @@ exclude: 'yes'
                 <tr>
                     
                     <th>Subject</th>
-                    <th>video</th>
+                    <th>Video</th>
+                    <th>Text Books</th>
 
                 </tr>
+                {% assign Allbooks = 0 %}
                 {% assign vedios = 0 %}
                 {% for sub in site[class.label] %}
                 {% if sub.subject %}
                 {% assign i = 0 %}
-                {% assign psize = sub.lessons | size %}
-
+                {% assign books = 0 %}
+                {% assign psize = sub.lessons | size %}                
                 {% assign i = i | plus:psize %}
                 {% assign vedios = vedios | plus:psize %}
+
+                {% assign psize = sub.textbooks | size %}
+                {% assign books = books | plus:psize %}
+                {% assign Allbooks = Allbooks | plus:psize %}
                 <tr>
                     <td>{{sub.subject}}</td>
                     <td>{{i}}</td>
+                    <td>{{books}}</td>
 
 
 
@@ -109,6 +116,7 @@ exclude: 'yes'
                 <tr>
                     <td>Total</td>
                     <td>{{vedios}}</td>
+                    <td>{{Allbooks}}</td>
 
                 </tr>
             </tbody>
