@@ -2,16 +2,34 @@
     <div class="container text-center">
         <div class="simple-header">
             <h2>Credits<h2>
-                    {% for member in site.contributors %}
-                    {% if member.email ==  page.CreaterEmail %}
-                    <h3>This page was created by </h3>
-                    <a href="{{member.url}}"><i style="color:white;" class="fa fa-star"> {{member.name}} ,
-                            {{member.institution}}</i>
-                        <p></p>
-                    </a>
+                    <div class="row">
+                        {% for member in site.contributors %}
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-center">
 
-                    {% endif %}
-                    {% endfor %}
+                            {% if member.email ==  page.CreaterEmail %}
+                            <h3>This page was created by </h3>
+                            <a href="{{member.url}}"><i style="color:white;" >{{member.name}} ,
+                                    {{member.institution}}</i>
+                                <p></p>
+                            </a>
+
+                            {% endif %}
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-center">
+                            {% for contributors in page.contributor %}
+                            {% if member.email ==  contributors.emailId %}
+                           
+                            <a href="{{member.url}}"><i style="color:white;" > <p>{{member.name}} ,
+                                    {{member.institution}}</p></i>
+                                <p></p>
+                            </a>
+
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+
+                        {% endfor %}
+                    </div>
 
 
         </div>
