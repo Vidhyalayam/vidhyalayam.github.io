@@ -1,5 +1,5 @@
 --- 
-layout : lessons 
+layout: lessons 
 subject: General Studies
 class: I
 CreaterEmail: phoenixvadakkan3@gmail.com
