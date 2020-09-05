@@ -20,5 +20,12 @@ lessons:
 - { id: 'NyrVfR9kRsc', title: 'KITE VICTERS Plus two Accountancy  Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'RXgfWOx0X_Y', title: 'KITE VICTERS Plus two Accountancy  Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cbQ7ddgXwg8', title: 'KITE VICTERS Plus two Accountancy  Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'FU8mu09iV_c', title: 'KITE VICTERS Plus two Accountancy  Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Accountancy/Accountancy_1.pdf', title: 'Accountancy' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Accountancy/Accountancy_2.pdf', title: 'Accountancy' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Accountancy/Accountancy_3.pdf', title: 'Accountancy' , medium: 'English' }
 
 ---
