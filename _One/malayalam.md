@@ -2,7 +2,7 @@
 layout : lessons 
 subject: Malayalam
 class: I
-CreaterEmail: phoenixvadakkan3@gail.com
+CreaterEmail: phoenixvadakkan3@gmail.com
 
 lessons: 
 - { id: 'ds_W4hGmS6o', title: 'KITE VICTERS STD 1 Malayalam I Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
