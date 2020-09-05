@@ -1,3 +1,8 @@
+
+- name: Angan wadi 
+  uri: 0.html
+  std: 0
+
 - name: I 
   uri: 1.html
   std: 1

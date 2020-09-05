@@ -1,4 +1,6 @@
 collections:
+    Zero:
+      output: true
     One:
       output: true
     Two:
