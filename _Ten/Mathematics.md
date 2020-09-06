@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Maths
-class: Ten
+class: X
 CreaterEmail: abhitha2005@gmail.com
 
 lessons: 
