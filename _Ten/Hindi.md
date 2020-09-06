@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Hindi
-class: Ten
+class: X
 CreaterEmail: abhitha2005@gmail.com
 
 lessons: 
@@ -13,6 +13,6 @@ lessons:
 - { id: 'Gq0710-4Crk', title: 'KITE VICTERS STD 10 Hindi Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'JU7c4Ju-620', title: 'KITE VICTERS STD 10 Hindi Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'MXOU0CE_raI', title: 'KITE VICTERS STD 10 Hindi Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'om-Su0rkiFg', title: 'KITE VICTERS STD 10 Hindi Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'om-Su0rkiFg', title: 'KITE VICTERS STD 10 Hindi Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'k8CbAYkh8Ig', title: 'KITE VICTERS STD 10 Hindi Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 --- 
