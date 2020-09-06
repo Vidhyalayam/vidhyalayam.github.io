@@ -1,18 +1,18 @@
 --- 
 layout : lessons 
 subject: Physics
-class: Ten
+class: X
 CreaterEmail: abhitha2005@gmail.com
 
 lessons: 
 - { id: 'bT2v9F2Znyk', title: 'KITE VICTERS 10 th Physics Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'VHGc7wnQ0AM', title: 'KITE VICTERS 10th Physics Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)part 02' }
+- { id: 'VHGc7wnQ0AM', title: 'KITE VICTERS 10th Physics Class 02(First Bell-ഫസ്റ്റ് ബെല്‍)part 02' }
 - { id: 'p8XC_vyqBv0', title: 'KITE VICTERS STD 10 Physics Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'bqpE7abz_hA', title: 'KITE VICTERS STD 10 Physics Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'g8k1hzldXko', title: 'KITE VICTERS STD 10 Physics Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'hl2MyJfIrds', title: 'KITE VICTERS STD 10 Physics Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'ha1HRUwGAn4', title: 'KITE VICTERS STD 10 Physics Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'k4XlnfChOnI', title: 'KITE VICTERS STD 10 Physics Class 8 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'g8k1hzldXko', title: 'KITE VICTERS STD 10 Physics Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'hl2MyJfIrds', title: 'KITE VICTERS STD 10 Physics Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ha1HRUwGAn4', title: 'KITE VICTERS STD 10 Physics Class 07(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'k4XlnfChOnI', title: 'KITE VICTERS STD 10 Physics Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'UMSYhJxDlGw', title: 'KITE VICTERS STD 10 Physics Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'OmJlbi5IHgE', title: 'KITE VICTERS STD 10 Physics Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'm2qqnZS79yw', title: 'KITE VICTERS STD 10 Physics Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
