@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Hindi
-class: Nine
+class: IX
 CreaterEmail: ryanmj.xic@gmail.com
 
 lessons: 
