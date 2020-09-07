@@ -13,4 +13,10 @@ lessons:
 - { id: 'CXQ6uJLEf3Y', title: 'KITE VICTERS STD 10 Information and communication Technology Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '2CVywW7xMWc', title: 'KITE VICTERS STD 10 Information and communication Technology class 07(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Z3CTRApxigs', title: 'KITE VICTERS STD 10 Information and communication Technology Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/ICT_Eng_1/ICT_Eng_1.pdf', title: 'ICT Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/ICT_English_2/ICT_English_2.pdf', title: 'ICT Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/ICT_Mal_1/ICT_Mal_1.pdf', title: 'ICT Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/ICT_%20Malayalam_2/ICT_%20Malayalam_2.pdf', title: 'ICT Part -2' , medium: 'Malayalam' }
 --- 
