@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Chemistry
-class: Eight
+class: VIII
 CreaterEmail: angelovt24@gmail.com
 
 lessons: 
