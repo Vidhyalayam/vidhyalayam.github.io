@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Physics
-class: Nine
+class: IX
 CreaterEmail: ryanmj.xic@gmail.com
 
 lessons: 
