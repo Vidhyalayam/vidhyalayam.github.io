@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: English
+subject: IT
 class: seven
 CreaterEmail: johnpaulroy121@gmail.com
 
