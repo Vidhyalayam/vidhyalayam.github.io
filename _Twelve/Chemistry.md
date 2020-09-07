@@ -20,6 +20,7 @@ lessons:
 - { id: '59lKsZtr5Vg', title: 'KITE VICTERS Plus Two Chemistry Class 13(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'JpGgs_FW-Z8', title: 'KITE VICTERS Plus Two Chemistry Class 14(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '0UJIxCDGXOw', title: 'KITE VICTERS Plus Two Chemistry Class 15(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'mGbim8Dg7CY', title: 'KITE VICTERS Plus Two Chemistry Class 16(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Chemistry/Chemistry_1.pdf', title: 'Chemistry Part -1' , medium: 'English' }
