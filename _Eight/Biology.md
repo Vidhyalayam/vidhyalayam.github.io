@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Biology 
-class: Eight
+class: VIII
 CreaterEmail: angelovt24@gmail.com
 
 lessons: 
