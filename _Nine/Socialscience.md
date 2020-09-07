@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Social Science
-class: Nine
+class: IX
 CreaterEmail: janemaryxiia@gmail.com
 
 lessons: 
