@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Chemistry
-class: Nine
+class: IX
 lessons: 
 - { id: 'gSBMJI1jM8I', title: 'KITE VICTERS STD 09 Chemistry Class 01(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Wj86XpV8a68', title: 'KITE VICTERS STD 9 Chemistry Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
