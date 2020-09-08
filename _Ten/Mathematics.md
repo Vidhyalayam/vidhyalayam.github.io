@@ -30,13 +30,12 @@ lessons:
 - { id: 'WU1KeqiMMLI', title: 'KITE VICTERS STD 10 Mathematics Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '29N3tKKaDvM', title: 'KITE VICTERS STD 10 Mathematics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'MqYIcm8Tqzk', title: 'KITE VICTERS STD 10 Mathematics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'xv3wQzz-BFw', title: 'KITE VICTERS STD 10 Mathematics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Mathematics_Eng_1/Mathematics_Eng_1.pdf', title: 'Maths Part -1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/Maths_English_2/Maths_English_2.pdf', title: 'Maths Part -2' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Mathematics_Mal_1/Mathematics_Mal_1.pdf', title: 'Maths Part -1' , medium: 'Malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/Maths_Malayalam_2/Maths_Malayalam_2.pdf', title: 'Maths Part -2' , medium: 'Malayalam' }
-
-
 
 ---
