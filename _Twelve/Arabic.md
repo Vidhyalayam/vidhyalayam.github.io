@@ -10,4 +10,8 @@ lessons:
 - { id: 'TxAbKmwpwwI', title: 'KITE VICTERS Plus two Arabic Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'lP-40dpmpcw', title: 'KITE VICTERS Plus two Arabic Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Arabic/Arabic.pdf', title: 'Arabic' , medium: '' }
+
 ---
