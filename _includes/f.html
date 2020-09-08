@@ -1,0 +1,68 @@
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+<script src="https://use.fontawesome.com/5a8a7bb461.js"></script>
+
+<section id="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3><strong>Testimonial</strong></h3>
+        <div class="seprator"></div>
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <div class="row" style="padding: 20px">
+                <button style="border: none;"><i class="fa fa-quote-left testimonial_fa"
+                    aria-hidden="true"></i></button>
+                <p class="testimonial_para">I have attended a good number of online workshops, classes, and seminars, and the sessions I had for DevOps with Quadralogics definitely stand apart. Where most of the workshops just surface scratching or too technical about their topic, quadralogics had put a conscious effort to keep their curriculum relevant to what is needed in today's industry. I enjoyed my workshop which was full of hands-on tasks, which gave me a taste of actual DevOps pipeline and configurations required in real projects. A big shout out to the quadra team for a complete course like this one.....</p><br>
+                <div class="row">
+                  <div class="col-sm-2">
+                    <img src="https://quadralogics.com/img/testimonial/Anu.jpg"
+                      class="img-responsive" style="width: 80px">
+                  </div>
+                  <div class="col-sm-10">
+                    <h4><strong>Anu M </strong></h4>
+                    <p class="testimonial_subtitle"><span>Technology Analyst</span><br>
+                      <span> Infosys Ltd</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {% for testimonial in site.testimonials %}
+            <div class="item">
+              <div class="row" style="padding: 20px">
+                <button style="border: none;"><i class="fa fa-quote-left testimonial_fa"
+                    aria-hidden="true"></i></button>
+                <p class="testimonial_para">{{testimonial.content}}</p><br>
+                <div class="row">
+                  <div class="col-sm-2">
+                    <img src="{{testimonial.Dp}}" class="img-responsive" style="width: 80px">
+                  </div>
+                  <div class="col-sm-10">
+                    <h4><strong>{{testimonial.Name}}</strong></h4>
+                    <p class="testimonial_subtitle"><span>{{testimonial.Designation}}</span><br>
+                      <span>{{testimonial.Company}}</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="controls testimonial_control pull-right">
+          <a class="left fa fa-chevron-left btn btn-default testimonial_btn" href="#carousel-example-generic"
+            data-slide="prev"></a>
+
+          <a class="right fa fa-chevron-right btn btn-default testimonial_btn" href="#carousel-example-generic"
+            data-slide="next"></a>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  
+</section>

@@ -850,3 +850,21 @@ background: linear-gradient(to right, #ffc500, #c21500);
 background: -webkit-linear-gradient(to right, #0ABFBC, #FC354C);
 background: linear-gradient(to right, #0ABFBC, #FC354C);
 }
+
+.testimonial{
+  font-family: 'Poppins', sans-serif;
+}
+.testimonial_subtitle{
+   color: purple;
+   font-size: 12px;
+}
+ .testimonial_btn{
+   background-color: #373d4b !important;
+   color: #fff !important;
+}
+.seprator {
+  height: 2px;
+  width: 56px;
+  background-color: purple;
+  margin: 7px 0 10px 0;
+}
