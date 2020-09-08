@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Social Science
-class: Ten
+class: X
 CreaterEmail: abhitha2005@gmail.com
 
 lessons: 
@@ -22,4 +22,10 @@ lessons:
 - { id: 'YScM7YW8S7c', title: 'KITE VICTERS STD 10 Social Science Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'aVCYs3ZZDIs', title: 'KITE VICTERS STD 10 Social Science Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'mncJbZnS-W8', title: 'KITE VICTERS STD 10 Social Science Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'uuPjN9CTRHM', title: 'KITE VICTERS STD 10 Social Science Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'II7FJeMheuQ', title: 'KITE VICTERS STD 10 Social Science Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+
 ---
+
