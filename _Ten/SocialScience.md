@@ -22,4 +22,17 @@ lessons:
 - { id: 'YScM7YW8S7c', title: 'KITE VICTERS STD 10 Social Science Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'aVCYs3ZZDIs', title: 'KITE VICTERS STD 10 Social Science Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'mncJbZnS-W8', title: 'KITE VICTERS STD 10 Social Science Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'uuPjN9CTRHM', title: 'KITE VICTERS STD 10 Social Science Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'II7FJeMheuQ', title: 'KITE VICTERS STD 10 Social Science Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/SocialScience1_Eng_1/SocialScience1_Eng_1.pdf', title: 'SocialScience 1 Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/SS1_English_2/SS1_English_2.pdf', title: 'SocialScience 1 Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/SocialScience2_Eng_1/SocialScience2_Eng_1.pdf', title: 'SocialScience 2 Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/SS2_English_2/SS2_English_2.pdf', title: 'SocialScience 2 Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/SocialScienceI_Mal_1/SocialScienceI_Mal_1.pdf', title: 'SocialScience 1 Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/SS1_Malayalam_2/SS1_Malayalam_2.pdf', title: 'SocialScience 1 Part -2' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/SocialScience2_Mal_1/SocialScience2_Mal_1.pdf', title: 'SocialScience 2 Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/SS2_Malayalam_2/SS2_Malayalam_2.pdf', title: 'SocialScience 2 Part -2' , medium: 'Malayalam' }
+
 ---
