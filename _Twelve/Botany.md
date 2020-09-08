@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Botany
+subject: Botany 
 class: XII
 CreaterEmail: christovincent2003@gmail.com
 
@@ -15,5 +15,9 @@ lessons:
 - { id: 'fZLfAORsBKg', title: 'KITE VICTERS Plus two Botany Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ZxAJv5CqSEc', title: 'KITE VICTERS Plus two Botany Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Lxtf62NAi1c', title: 'KITE VICTERS Plus two Botany Class 10(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Biology/Biology.pdf', title: 'Botany' , medium: 'English' }
 
 ---
