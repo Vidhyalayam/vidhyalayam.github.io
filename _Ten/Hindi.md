@@ -15,4 +15,8 @@ lessons:
 - { id: 'MXOU0CE_raI', title: 'KITE VICTERS STD 10 Hindi Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'om-Su0rkiFg', title: 'KITE VICTERS STD 10 Hindi Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'k8CbAYkh8Ig', title: 'KITE VICTERS STD 10 Hindi Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/HindiReader_1/HindiReader_1.pdf', title: 'Hindi' }
+
 --- 
