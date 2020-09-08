@@ -18,4 +18,11 @@ lessons:
 - { id: 'NZC95ZupYOs', title: 'KITE VICTERS STD Plus Two Business Studies Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'jcK-7pfvDYo', title: 'KITE VICTERS STD Plus Two Business Studies Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/BusinessStudies/Businessstudies_1.pdf', title: ' Buisness Studies' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/BusinessStudies/Businessstudies_2.pdf', title: 'Buisness Studies' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Business%20Studies_Part_1.pdf', title: 'Buisness Studies' , medium: 'malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Business%20Studies_Part_2.pdf', title: 'Buisness Studies' , medium: 'malayalam' }
+
 ---
