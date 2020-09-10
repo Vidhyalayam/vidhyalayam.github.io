@@ -22,7 +22,7 @@ lessons:
 - { id: 'SgPJRqv6AO4', title: 'KITE VICTERS Plus Two Mathematics Class 15(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'UwUOVWJjgaI', title: 'KITE VICTERS Plus Two Mathematics Class 16(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'BHkaVT5_lUY', title: 'KITE VICTERS Plus Two Mathematics Class 17(First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'a-BAuTIXElc', title: 'KITE VICTERS Plus Two Mathematics Class 18(First Bell-ഫസ്റ്റ് ബെല്‍)'
-- { id: '7zAYFecuZNw', title: 'KITE VICTERS Plus Two Mathematics Class 19(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: 'a-BAuTIXElc', title: 'KITE VICTERS Plus Two Mathematics Class 18(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '7zAYFecuZNw', title: 'KITE VICTERS Plus Two Mathematics Class 19(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 --- 
