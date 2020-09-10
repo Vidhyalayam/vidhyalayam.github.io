@@ -6,9 +6,47 @@
             <div>
                 <h3>{{site.Head2}}</h3>
 
-                <h6>{{site.Head3}}</h6>
+                <h5>A web portal to access Kerala State syllabus Videos & Textbooks published by KITE Victor Channel /SCERT Kerala</h5>
             </div>
+            <div class="container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2 text-center">
+                            
+                            <h3>The  Videos & Textbooks are arranged class wise please select your class to proceed  </h3>
+                         
+                            
+                          
+                            
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+                
+               
+                
+                 
+            </div>
+            
             
         </div>
     </div>
+    
 </header>
+<div class="row">
+            
+    <ul class="tilesWrap">
+        {% for class in site.data.class %}
+        <li onclick="location.href = '{{site.baseuri}}{{class.uri}}';" >
+            <h2>{{class.std}}</h2>
+            <h1>{{class.name}}</h1>		
+
+            
+            <button onclick="window.location.href='{{site.baseuri}}{{class.uri}}';"> View Subjects</button>
+        </li>
+        {% endfor %}
+        
+    </ul>
+
+</div>
