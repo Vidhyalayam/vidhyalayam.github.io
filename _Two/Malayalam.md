@@ -29,7 +29,7 @@ lessons:
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD2/MalayalamKeralaPadavali/MalayalamKeralaPadavali.pdf', title: 'Malayalam Part -1' , medium: 'Malayalam' }
--{ link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_II/Mal_Vol_II/1-64.pdf', title: 'Malayalam Part -2' , medium: 'Malayalam'}
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_II/Mal_Vol_II/1-64.pdf', title: 'Malayalam Part -2' , medium: 'Malayalam'}
 
 --- 
 
