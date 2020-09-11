@@ -16,6 +16,7 @@ lessons:
 - { id: 'hC31Kxyy3wE', title: 'KITE VICTERS Plus two Sociology Class 09(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'e-rvzShSVFk', title: 'KITE VICTERS Plus two Sociology Class 10(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'wTvqszvGEaE', title: 'KITE VICTERS Plus two Sociology Class 11(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'QgK8iXijzUI', title: 'KITE VICTERS Plus two Sociology Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 ---
