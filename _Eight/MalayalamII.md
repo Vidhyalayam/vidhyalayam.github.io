@@ -12,4 +12,6 @@ lessons:
 - { id: 'dSboCKUijik', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'XzRxyg-Da4Y', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'gB4mc-L4pYY', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 7 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'NhD_EMrmv6c', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 8 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bj_Yssvm8iw', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 9 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 ---
