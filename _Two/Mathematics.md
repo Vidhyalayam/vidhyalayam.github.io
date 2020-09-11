@@ -23,9 +23,9 @@ lessons:
 
 
 textbooks:textbooks:
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD2/MathsEnglish/MathsEnglish.pdf', title: 'mathematics part -1' , medium: 'English' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_II/Maths_Eng_Vol_II/1-56.pdf', title: 'mathematics Part -2' , medium: 'English' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD2/MathsMalayalam/MathsMalayalam.pdf', title: 'mathematics Part -1' , medium: 'Malayalam' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_II/Maths_Mal_Vol_II/1-56.pdf', title: 'mathematics Part -2' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/MathsEnglish/MathsEnglish.pdf', title: 'mathematics part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_I/Maths_Eng_VolII/1-64.pdf', title: 'mathematics Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/MathsMalayalam/MathsMalayalam.pdf', title: 'mathematics Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_I/Maths_Mal_VolII/73-136.pdf', title: 'mathematics Part -2' , medium: 'Malayalam' }
 
 --- 
