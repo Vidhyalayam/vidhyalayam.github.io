@@ -9,4 +9,5 @@ lessons:
 - { id: 'L14LeC9HXwM', title: 'KITE VICTERS STD 8 ICT Class 2 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'jP4DiwQOEY0', title: 'KITE VICTERS STD 8 ICT Class 3 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ZWkTu1_lIsk', title: 'KITE VICTERS STD 8 ICT Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '83d9txXveYE', title: 'KITE VICTERS STD 8 ICT Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 --- 
