@@ -13,4 +13,5 @@ lessons:
 - { id: 'ecppcakaVEk', title: 'KITE VICTERS STD 8 Physics Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'YshAVzK-ZRY', title: 'KITE VICTERS STD 8 Physics Class 7 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'kmazswqMQoE', title: 'KITE VICTERS STD 8 Physics Class 8 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'IitHqk0N5bo', title: 'KITE VICTERS STD 8 Physics Class 9 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 ---  
