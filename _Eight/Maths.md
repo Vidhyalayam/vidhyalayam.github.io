@@ -21,4 +21,6 @@ lessons:
 - { id: 'avu5Hr8k8gQ', title: 'KITE VICTERS STD 8 mathematics Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-MSFYuBPWBQ', title: 'KITE VICTERS STD 8 mathematics Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'jDGDF0W5s7g', title: 'KITE VICTERS STD 8 mathematics Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Lv6eFZ1SqRs', title: 'KITE VICTERS STD 8 mathematics Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'HyVYJlNL19E', title: 'KITE VICTERS STD 8 mathematics Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 ---  
