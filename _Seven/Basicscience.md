@@ -12,11 +12,12 @@ lessons:
 - { id: 'AZAwvNW11O8', title: 'KITE VICTERS STD 7 Basic Science Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cwv4WgZ3AJM', title: 'KITE VICTERS STD 7 Basic Science Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'KsL6szvmZv0', title: 'KITE VICTERS STD 7 Basic Science Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'ctI2cfNQRzn0', title: 'KITE VICTERS STD 7 Basic Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '1HSWfe-1Fd0', title: 'KITE VICTERS STD 07 Basic Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍' }
+- { id: 'tI2cfNQRzn0', title: 'KITE VICTERS STD 7 Basic Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '1HSWfe-1Fd0', title: 'KITE VICTERS STD 7 Basic Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/BasicScienceMalayalam/BasicScienceMalayalam.pdf', title: 'Basic Science part-1' , medium: 'malayalam ' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Basic%20Science_M_Vol_II/BasicScienceMalayalam.pdf', title: 'Basic Science part-2' , medium: ' malayalam' }
----
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/BasicScienceEnglish/BasicScienceEnglish.pdf', title: 'Basic Science part-1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Basic%20Science_E_Vol_II/BasicScienceEnglish.pdf', title: 'Basic Science part-2' , medium: ' malayalam' }
