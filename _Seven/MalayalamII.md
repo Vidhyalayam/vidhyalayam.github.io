@@ -11,4 +11,9 @@ lessons:
 - { id: '_tzC58Xm4EE', title: 'KITE VICTERS STD 7 Malayalam Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'rjfgv3NIMfs', title: 'KITE VICTERS STD 7 Malayalam Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ArQ_zdxenz4', title: 'KITE VICTERS STD 7 Malayalam Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
---- 
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Malayalam_BT/MalayalamBT.pdf', title: 'Malayalam II' , medium: ' ' }
+---
+
