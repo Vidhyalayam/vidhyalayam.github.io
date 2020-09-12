@@ -20,7 +20,7 @@ lessons:
 - { id: 'KLS9iumrUes', title: 'KITE VICTERS STD 09 English Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'dTlVxBNXOGM', title: 'KITE VICTERS STD 09 English Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-tsAZNeTwe0', title: 'KITE VICTERS STD 09 English Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'c8vv4l9JEds', title: 'KITE VICTERS STD 9 ENGLISH CLASS 17' }
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/English_IX_Vol.I/English_IX_Vol.I.pdf', title: 'English Part -1' , medium: 'Malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_9/English_Std_IX_Final_Vol_2/English_Std_IX_Final_Vol_2.pdf', title: 'English Part -2' , medium: 'Malayalam' }

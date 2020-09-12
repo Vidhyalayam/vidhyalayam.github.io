@@ -18,7 +18,7 @@ lessons:
 - { id: 'okf6PyQ1EMw', title: 'KITE VICTERS STD 09 Mathematics Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '1u98BTuv2Hc', title: 'KITE VICTERS STD 09 Mathematics Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'QHGu8aYD03Q', title: 'KITE VICTERS STD 09 Mathematics Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'Ee5lhdW0c6U', title: 'KITE VICTERS STD 09 Mathematics Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Maths_09_Eng_Part_01/Maths_09_Eng_Part_01.pdf', title: 'Mathematics Part -1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_9/Maths-9(E)_Vol-2/Maths-9(E)_Vol-2.pdf', title: 'Mathematics Part -2' , medium: 'English' }
