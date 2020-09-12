@@ -9,4 +9,9 @@ lessons:
 - { id: 'Dy9aMlZkb3U', title: 'KITE VICTERS STD 07 Malayalam (kerala paadam) Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'zPUtmVYhKsQ', title: 'KITE VICTERS STD 07 Keralapaadaavali Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'IXwXdL-b2oM', title: 'KITE VICTERS STD 07 Malayalam (Keralapaadam) Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
----
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Malayalam_AT/MalayalamAT.pdf', title: 'Malayalam I' , medium: ' ' }
+--- 
+
