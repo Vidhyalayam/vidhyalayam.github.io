@@ -14,4 +14,8 @@ lessons:
 - { id: '6K2TUCU98D8', title: 'KITE VICTERS STD 8 Chemistry Class 7 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 't5b5W2gRszs', title: 'KITE VICTERS STD 8 Chemistry Class 8 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'j10m9kpgEsc', title: 'KITE VICTERS STD 8 Chemistry Class 9 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/BasicScienceMalayalam/BasicScienceMalayalam.pdf', title: 'Basic Science Part-1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/Basic%20Science%20Malayalam/BasicScienceMalayalam.pdf', title: 'Basic Science Part -2' , medium: 'Malayalam' }
 ---  
