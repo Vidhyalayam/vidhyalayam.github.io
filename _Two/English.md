@@ -5,14 +5,14 @@ class: Two
 CreaterEmail: advaitmpai.6a@gmail.com
 
 lessons: 
-- { id: 'LdS9c3Q7y64', title: 'KITE VICTERS STD 2 English Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'htIo-_0Oge0', title: 'KITE VICTERS STD 2 English Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'jqUM3nbGerY', title: 'KITE VICTERS STD 2 English Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'pp6fHawXpOc', title: 'KITE VICTERS STD 2 English Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'inf1bjacUAQ', title: 'KITE VICTERS STD 2 English Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'sdtUoRp5nAE', title: 'KITE VICTERS STD 2 English Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'n7Pa8Hf9HzQ', title: 'KITE VICTERS STD 2 English Class 7 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'jZqaPFX8jgQ', title: 'KITE VICTERS STD 2 English Class 8 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'LdS9c3Q7y64', title: 'KITE VICTERS STD 02 English Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'htIo-_0Oge0', title: 'KITE VICTERS STD 02 English Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'jqUM3nbGerY', title: 'KITE VICTERS STD 02 English Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'pp6fHawXpOc', title: 'KITE VICTERS STD 02 English Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'inf1bjacUAQ', title: 'KITE VICTERS STD 02 English Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'sdtUoRp5nAE', title: 'KITE VICTERS STD 02 English Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'n7Pa8Hf9HzQ', title: 'KITE VICTERS STD 02 English Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'jZqaPFX8jgQ', title: 'KITE VICTERS STD 02 English Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'J-AmREqzFpg', title: 'KITE VICTERS STD 02 English Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'FJuOBC3HUOE', title: 'KITE VICTERS STD 02 English Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'OX2wD-HmgbM', title: 'KITE VICTERS STD 02 English Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -25,4 +25,6 @@ lessons:
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/KeralaReaderEnglish/KeralaReaderEnglish.pdf', title: 'English Part -1' , medium: 'Malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_I/English_VolII/1-72.pdf', title: 'English Part -2' , medium: 'Malayalam'}
+
+
 ---   
