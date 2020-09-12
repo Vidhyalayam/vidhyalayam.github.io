@@ -19,4 +19,10 @@ lessons:
 - { id: 'sPjwrkmFjYo', title: 'KITE VICTERS STD 8 Social Science Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ohUEIvYJJGw', title: 'KITE VICTERS STD 8 Social Science Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'd-7rL2B1Oqo', title: 'KITE VICTERS STD 8 Social Science Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/SocialScienceEnglish/SocialScienceEnglish.pdf', title: 'Social Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/Social%20Science%20English/SocialScienceEnglish.pdf', title: 'Social Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/SocialScienceMalayalam/SocialScienceMalayalam.pdf', title: 'Social Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/Social%20Science%20Malayalam/SocialScienceMalayalam.pdf', title: 'Social Part -2' , medium: 'Malayalam' }
 ---
