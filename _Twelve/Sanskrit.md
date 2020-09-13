@@ -11,5 +11,8 @@ lessons:
 - { id: 'TRC-k1g41Fw', title: 'KITE VICTERS Plus two Sanskrit Class 04(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'hXiUjU0_Fr4', title: 'KITE VICTERS Plus two Sanskrit Class 04(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Sanskritsahithya/SAHITYA.pdf', title: 'Sanskrit' , medium: 'English' }
+
 
 ---
