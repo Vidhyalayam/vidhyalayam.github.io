@@ -4,11 +4,19 @@ subject: Malayalam 1
 class: Six
 CreaterEmail: advaitmpai.6a@gmail.com
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
+
 lessons: 
 - { id: '6l8Mr1Q5KDI', title: 'KITE VICTERS STD 6 Malayalam Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'BIG7YX0Y-iA', title: 'KITE VICTERS STD 6 Malayalam Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '2pFqXN8Ie1U', title: 'KITE VICTERS STD 6 Malayalam Class 3 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'tesfhRUOx5E', title: 'KITE VICTERS STD 06 Malayalam Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'oi61YZj5z9A', title: 'KITE VICTERS STD 06 Malayalam (KeralaPaadavali) Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'V4zSkvxczhI', title: 'KITE VICTERS STD 06 Kerala padavali Class 06(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'oi61YZj5z9A', title: 'KITE VICTERS STD 06 Malayalam (KeralaPaadavali) Class 2 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'V4zSkvxczhI', title: 'KITE VICTERS STD 06 Kerala padavali Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '5RotIUTvNss', title: 'KITE VICTERS STD 06 Kerala padavali Class 04(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4Op6uJNBKk', title: 'KITE VICTERS STD 06 Kerala padavali Class 05(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Malayalam_AT/MalayalamAT.pdf', title: ' Malayalam 1' , medium: '' }
+
 --- 
