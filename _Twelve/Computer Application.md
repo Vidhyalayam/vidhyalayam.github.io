@@ -16,4 +16,11 @@ lessons:
 - { id: 'KiJYCV-_gSg', title: 'KITE VICTERS Plus Two Computer Application Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '7AoGVmlXWoE', title: 'KITE VICTERS Plus Two Computer Application Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Computer%20Application%20Humanities.pdf', title: 'Computer Application' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/ComputerApplicaton(Humanities)/Humanities.pdf', title: 'Computer Application' , medium: 'English' }
+
+
 ---
