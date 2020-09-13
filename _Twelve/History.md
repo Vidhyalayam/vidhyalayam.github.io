@@ -20,4 +20,16 @@ lessons:
 - { id: 'TNqNRcDkVOY', title: 'KITE VICTERS Plus Two History Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'u2kDAP0SzXw', title: 'KITE VICTERS Plus Two History Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/History/History_1.pdf', title: 'History Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/History/History_2.pdf', title: 'History Part -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/History/History_3.pdf', title: 'History Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/History-Themes%20in%20Indian%20History_Theme_1.pdf', title: 'History Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/History-Themes%20in%20Indian%20History_Theme_2.pdf', title: 'History Part -2' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/History-Themes%20in%20Indian%20History_Theme_3.pdf', title: 'History Part -3' , medium: 'Malayalam' }
+
+
+
 ---
