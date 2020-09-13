@@ -18,5 +18,10 @@ lessons:
 - { id: 'wTvqszvGEaE', title: 'KITE VICTERS Plus two Sociology Class 11(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'QgK8iXijzUI', title: 'KITE VICTERS Plus two Sociology Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Sociology/Sociology_1.pdf', title: 'Sociology -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Sociology/Sociology_2.pdf', title: 'Sociology -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Sociology-Indian%20Society.pdf', title: 'Sociology -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Sociology-Social%20Change%20and%20Development%20in%20India.pdf', title: 'Sociology -2' , medium: 'Malayalam' }
 
 ---
