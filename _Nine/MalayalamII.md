@@ -11,6 +11,7 @@ lessons:
 - { id: 'BvGeILHfxlc', title: 'KITE VICTERS STD 09 Malayalam(Adisthanapaadam) Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'IcJFU5Dfq1U', title: 'KITE VICTERS STD 09 Malayalam(Adisthanapaadam) Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'mZiUuE8PQa4', title: 'KITE VICTERS STD 09 Malayalam(Adisthanapaadam) Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '-Zw6XIk8TRQ', title: 'KITE VICTERS STD 09 Malayalam(Adisthanapaadam) Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
