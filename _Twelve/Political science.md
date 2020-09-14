@@ -18,9 +18,10 @@ lessons:
 - { id: 'e65ZF8xhsHQ', title: 'KITE VICTERS Plus two Political science Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'zOXhNDLKiYY', title: 'KITE VICTERS Plus two Political science Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
+textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/PoliticalScience/PoliticalScience_india.pdf', title: 'Political Science Part -1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/PoliticalScience/PoliticalScience_world.pdf', title: 'Political Science Part -2' , medium: 'English' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Political%20Science-Contemporary%20World%20Politics.pdf', title: 'PoliticalScience Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Political%20Science-Contemporary%20World%20Politics.pdf', title: 'Political Science Part -1' , medium: 'Malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Political%20Science-Politics%20in%20Indian%20Since%20Independence.pdf', title: 'Political Science Part -2' , medium: 'Malayalam' }
 
 ---
