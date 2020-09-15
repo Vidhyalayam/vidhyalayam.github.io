@@ -20,5 +20,5 @@ textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/BasicScienceMalayalam/BasicScienceMalayalam.pdf', title: 'Basic Science part-1' , medium: 'malayalam ' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Basic%20Science_M_Vol_II/BasicScienceMalayalam.pdf', title: 'Basic Science part-2' , medium: ' malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/BasicScienceEnglish/BasicScienceEnglish.pdf', title: 'Basic Science part-1' , medium: 'English' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Basic%20Science_E_Vol_II/BasicScienceEnglish.pdf', title: 'Basic Science part-2' , medium: ' malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Basic%20Science_E_Vol_II/BasicScienceEnglish.pdf', title: 'Basic Science part-2' , medium: ' english ' }
 ---
