@@ -23,5 +23,3 @@ textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/SocialScienceEnglish/SocialScienceEnglish.pdf', title: 'SocialScience part-1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Social%20Science_E_Vol_II/SocialScienceEnglish.pdf', title: 'SocialScience part-2' , medium: ' English' }
 ---
-
----
