@@ -23,6 +23,8 @@ lessons:
 - { id: '2dnTkfZODkM', title: 'KITE VICTERS STD 10 Physics Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ww9WfZfPArI', title: 'KITE VICTERS STD 10 Physics Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'UBfAJGVEtys', title: 'KITE VICTERS STD 10 Physics Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ofPO1Y8joU0', title: 'KITE VICTERS STD 10 Physics Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'VSuRacIj19A', title: 'KITE VICTERS STD 10 Physics Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Physics_Eng_1/Physics_Eng_1.pdf', title: 'Physics Part -1' , medium: 'English' }
