@@ -24,6 +24,7 @@ lessons:
 - { id: 'mncJbZnS-W8', title: 'KITE VICTERS STD 10 Social Science Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'uuPjN9CTRHM', title: 'KITE VICTERS STD 10 Social Science Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'II7FJeMheuQ', title: 'KITE VICTERS STD 10 Social Science Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bSx0-0aJBfo, title: 'KITE VICTERS STD 10 Social Science Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/SocialScience1_Eng_1/SocialScience1_Eng_1.pdf', title: 'SocialScience 1 Part -1' , medium: 'English' }
