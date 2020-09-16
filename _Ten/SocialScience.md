@@ -1,7 +1,7 @@
 --- 
-layout : lessons 
+layout: lessons 
 subject: Social Science
-class: Ten
+class: X
 CreaterEmail: abhitha2005@gmail.com
 
 lessons: 
