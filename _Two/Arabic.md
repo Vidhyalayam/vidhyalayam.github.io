@@ -9,7 +9,7 @@ lessons:
 
 
 textbooks:
-- { link: - 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_II/KeralaReaderArabic/KeralaArabicReader.pdf', title: 'Arabic Part -1' , medium'Malayalam' }
+- { link: - 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_II/KeralaReaderArabic/KeralaArabicReader.pdf', title: 'Arabic Part -1' , medium:'Malayalam' }
 
 
 ---
