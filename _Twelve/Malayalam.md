@@ -17,5 +17,6 @@ lessons:
 - { id: 'aVQm8ohhAVM', title: 'KITE VICTERS Plus two Malayalam Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'csaiQnk16WQ', title: 'KITE VICTERS Plus two Malayalam Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'SRnD_hhxzbc', title: 'KITE VICTERS Plus two Malayalam Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'SiyhuAaO8tk', title: 'KITE VICTERS Plus two Malayalam Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 ---
