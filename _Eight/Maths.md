@@ -23,6 +23,7 @@ lessons:
 - { id: 'jDGDF0W5s7g', title: 'KITE VICTERS STD 8 mathematics Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Lv6eFZ1SqRs', title: 'KITE VICTERS STD 8 mathematics Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'HyVYJlNL19E', title: 'KITE VICTERS STD 8 mathematics Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'pkJLMXCjVWs', title: 'KITE VICTERS STD 8 mathematics Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/MathsEnglish/MathsEnglish.pdf', title: 'Mathematics Part -1' , medium: 'English' }
