@@ -14,7 +14,8 @@ lessons:
 - { id: 'eOWTxHIuNqs', title: 'KITE VICTERS STD Plus Two Computer Science Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'YIEozlgLKm8', title: 'KITE VICTERS STD Plus Two Computer Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'El7eK61qr1o', title: 'KITE VICTERS STD Plus Two Computer Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '9nn-wpjqRQY', title: 'KITE VICTERS STD Plus Two Computer Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '9nn-wpjqRQY', title: 'KITE VICTERS STD Plus Two Computer Science Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'fpLI1Bi9q9g', title: 'KITE VICTERS STD Plus Two Computer Science Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/ComputerSciencePart1/finalbook.pdf', title: 'Computer Science' , medium: 'English' }
