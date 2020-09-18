@@ -26,6 +26,7 @@ lessons:
 - { id: '7zAYFecuZNw', title: 'KITE VICTERS Plus Two Mathematics Class 19(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'G5EeyZP3LEE', title: 'KITE VICTERS Plus Two Mathematics Class 20(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'jWCbaq5EDCg', title: 'KITE VICTERS Plus Two Mathematics Class 21(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'STEoIYsh7g0', title: 'KITE VICTERS Plus Two Mathematics Class 22(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Mathematics/Mathematics_2.pdf', title: 'Maths Part -2' , medium: 'English' }
