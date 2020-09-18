@@ -9,7 +9,7 @@ lessons:
 - { id: '5Bo3KiDrGj4', title: 'KITE VICTERS STD 02 Malayalam Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'yKGqytH_7mc', title: 'KITE VICTERS STD 02 Malayalam Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'IdNlbYN7SBU', title: 'KITE VICTERS STD 02 Malayalam Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '6GV-SqCHrtM', title: 'KITE VICTERS STD 2 Malayalam Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6GV-SqCHrtM', title: 'KITE VICTERS STD 02 Malayalam Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'C0I13PAF4Rk', title: 'KITE VICTERS STD 02 Malayalam Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'xQPEgTvQ2Z4', title: 'KITE VICTERS STD 02 Malayalam Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'RzQVVDkV3C4', title: 'KITE VICTERS STD 02 Malayalam Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -28,6 +28,7 @@ lessons:
 - { id: 'f66jIH7qawY', title: 'KITE VICTERS STD 02 Malayalam Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'v_PlqhqFN3g', title: 'KITE VICTERS STD 02 Malayalam Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qXyy45A_Y-Q', title: 'KITE VICTERS STD 02 Malayalam Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'PkO9tGfg4o4', title: 'KITE VICTERS STD 02 Malayalam Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
