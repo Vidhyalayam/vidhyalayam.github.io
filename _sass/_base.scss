@@ -129,7 +129,7 @@ aside {
             background-color: white;
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
-                color: $theme-dark;
+                color: $theme-primary;
                 font-size: 14px;
                 &:hover,
                 &:focus {
@@ -138,7 +138,7 @@ aside {
             }
             .nav > li > a,
             .nav > li > a:focus {
-                color: $theme-dark;
+                color: $theme-primary;
                 &:hover {
                     color: $theme-primary;
                 }
