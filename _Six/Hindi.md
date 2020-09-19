@@ -19,7 +19,7 @@ lessons:
 - { id: 'fNtBXbeMz7k', title: 'KITE VICTERS STD 06 Hindi Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
-  textbooks:
+textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Hindi/HIndi6.pdf', title: 'Hindi' , medium: 'malayalam' }
 
 
