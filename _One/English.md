@@ -17,6 +17,6 @@ lessons:
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/KeralaReaderEnglish/KeralaReaderEnglish.pdf', title: 'English Part -1' , medium: 'Malayalam' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_I/English_VolII/1-72.pdf', title: 'English Part -2' , medium: 'Malayalam' 
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_I/English_VolII/1-72.pdf', title: 'English Part -2' , medium: 'Malayalam' }
 
 ---

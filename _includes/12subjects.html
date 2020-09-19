@@ -17,7 +17,7 @@
 		<ul class="tilesWrap">
 			{% for subject in site.Twelve %}
 			<li onclick="location.href = '{{site.baseuri}}{{subject.url}}';">
-				<h1>{{subject.subject}}</h1>
+				<h3>{{subject.subject}}</h3>
 				<button onclick="window.location.href='{{site.baseuri}}{{subject.url}}';"> View Lessons</button>
 			</li>
 			{% endfor %}

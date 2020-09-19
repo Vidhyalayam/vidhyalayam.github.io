@@ -4,7 +4,7 @@
             <h1>{{site.Head1}}</h1>
             
             <div>
-                <h3>"{{site.Head2}}"</h3>
+                
 
                 <h5>A web portal to access Kerala State syllabus Videos & Textbooks published by KITE Victor Channel /SCERT Kerala</h5>
                 
@@ -12,19 +12,7 @@
             
           
                     
-                        <div class="col-lg-8  text-center">
-                            
-                            
-                            <h2> Please select your class to proceed  </h2>
-                            <h4>The  Videos & Textbooks are arranged class wise. </h4>
-                           
-                            
-                          
-                            
-                       
                         
-                        
-                    </div>
                 </div>
                
                 
@@ -38,16 +26,26 @@
     </div>
     
 </header>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2> Please select your class to proceed  </h2>
+    
+            <hr class="primary">
+        </div>
+    </div>
+</div>
+
 <div class="row">
             
     <ul class="tilesWrap">
         {% for class in site.data.class %}
         <li onclick="location.href = '{{site.baseuri}}{{class.uri}}';" >
-            <h2>{{class.std}}</h2>
-            <h1>{{class.name}}</h1>		
+            <h2>{{class.name}}</h2>
+            <h3>{{class.std}}</h3>		
 
             
-            <button onclick="window.location.href='{{site.baseuri}}{{class.uri}}';"> View Subjects</button>
+            <!--<button onclick="window.location.href='{{site.baseuri}}{{class.uri}}';"> View Subjects</button> -->
         </li>
         {% endfor %}
         

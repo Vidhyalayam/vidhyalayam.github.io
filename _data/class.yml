@@ -1,7 +1,7 @@
 
-- name: Nursery 
+- name:   
   uri: 0.html
-  std: 
+  std: Nursery
 
 - name: I 
   uri: 1.html
