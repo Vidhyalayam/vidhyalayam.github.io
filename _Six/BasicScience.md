@@ -4,6 +4,10 @@ subject: Basic Science
 class: VI
 CreaterEmail: advaitmpai.6a@gmail.com
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
+
 lessons: 
 - { id: 'uJ65Fhc8hNQ', title: 'KITE VICTERS STD 6 Basic science Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Bi6-nwgDX4s', title: 'KITE VICTERS STD 6 Basic Science Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -12,4 +16,11 @@ lessons:
 - { id: '2p0ehll3j3Y', title: 'KITE VICTERS STD 06 Basic Science Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Zoe0zIYqWXY', title: 'KITE VICTERS STD 06 Basic Science Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'JTaUPhIAfUo', title: 'KITE VICTERS STD 06 Basic Science Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD6/BasicScienceEnglish/BasicScienceEnglish.pdf', title: 'Basic Science Part -1' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Basic%20Science_E_Vol_II/BasicScienceEnglish.pdf', title: ' Basic Science PPart -2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD6/BasicScienceMalayalam/BasicScienceMalayalam.pdf', title: 'Basic Science Part -1' , medium: 'Malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Basic%20Science_M_Vol_II/BasicScienceMalayalam.pdf', title: ' Basic Science PPart -2' , medium: 'Malayalam' }
+
 --- 
