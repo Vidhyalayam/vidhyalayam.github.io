@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Hindi
-class: Six
+class: VI
 CreaterEmail: advaitmpai.6a@gmail.com
 
 contributor: 
