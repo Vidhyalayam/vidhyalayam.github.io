@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Information and communication Technology
+subject: Information and Communication Technology
 class: VI
 CreaterEmail: nandhanacv10@gmail.com
 
