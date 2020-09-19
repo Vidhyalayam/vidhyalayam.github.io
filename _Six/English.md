@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: English
-class: Six
+class: VI
 
 CreaterEmail: advaitmpai.6a@gmail.com
 
