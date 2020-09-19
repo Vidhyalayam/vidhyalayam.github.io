@@ -1,6 +1,6 @@
 --- 
 layout : lessons 
-subject: Malayalam 1
+subject: Malayalam I
 class: Six
 CreaterEmail: advaitmpai.6a@gmail.com
 
