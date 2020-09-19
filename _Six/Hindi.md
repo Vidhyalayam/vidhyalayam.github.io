@@ -20,7 +20,7 @@ lessons:
 
 
 textbooks:
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Hindi/HIndi6.pdf', title: 'Hindi' , medium: 'malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Hindi/HIndi6.pdf', title: 'Hindi' , medium: '' }
 
 
 
