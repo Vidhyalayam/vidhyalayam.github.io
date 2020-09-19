@@ -1,8 +1,12 @@
 --- 
 layout : lessons 
 subject: Maths
-class: Six
+class: VI
 CreaterEmail: advaitmpai.6a@gmail.com
+
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
 
 lessons: 
 - { id: '39_dwelmmX0', title: 'KITE VICTERS STD 6 Mathematics Class 01(First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -14,4 +18,14 @@ lessons:
 - { id: 'LpHMOe_EUO0', title: 'KITE VICTERS STD 06 Mathematics Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }  
 - { id: 'AZwAx1mCHEo', title: 'KITE VICTERS STD 06 Mathematics Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qOy9kpB2gA4', title: 'KITE VICTERS STD 06 Mathematics Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD6/MathsEnglish/MathsEnglish.pdf', title: 'Maths part 1 ' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Maths_Eng_Vol_II/MathsEnglish.pdf', title: 'Maths part 2' , medium: 'English' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD6/MathsMalayalam/MathsMalayalam.pdf', title: 'Maths part 1 ' , medium: 'malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Maths_Vol_II/MathsMalayalam.pdf', title: 'Maths part 2' , medium: 'malayalam' }
+
+
+
 ---   
