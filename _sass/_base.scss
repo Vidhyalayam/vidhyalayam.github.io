@@ -743,12 +743,13 @@ body {
 	font-family: 'helvetica', san-serif;
   min-height: 25vh;
   max-height: 35vh;
-	background: whitesmoke;
-	border: 1px solid whitesmoke;
+	background: lightgoldenrodyellow;
+	border: 1px solid lightgoldenrodyellow;
 	text-align: left;
 }
 .tilesWrap li:hover {
   background: goldenrod;
+  border: 1px solid goldenrod;
 }
 .tilesWrap li h2 {
 	font-size: 90px;
@@ -820,12 +821,15 @@ body {
 	background: goldenrod;
 	transform: skew(2deg, 2deg);
 }
+
+/*
 .tilesWrap li:after {
 	content: '';
 	position: absolute;
-	width: 40%;
+	width: 10%;
 	height: 100%;
 	left: 0;
 	top: 0;
 	background: rgba(255, 255, 255, 0.2);
 }
+*/
