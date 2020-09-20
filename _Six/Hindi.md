@@ -1,8 +1,13 @@
 --- 
 layout : lessons 
 subject: Hindi
-class: Six
+class: VI
+
 CreaterEmail: advaitmpai.6a@gmail.com
+
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
 
 lessons: 
 - { id: 'c7fA2QTbRR4', title: 'KITE VICTERS STD 6 Hindi Class 01(First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -15,7 +20,8 @@ lessons:
 - { id: 'fNtBXbeMz7k', title: 'KITE VICTERS STD 06 Hindi Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
-  
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Hindi/HIndi6.pdf', title: 'Hindi' , medium: '' }
 
 
 
