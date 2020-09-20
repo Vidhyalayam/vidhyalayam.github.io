@@ -876,6 +876,8 @@ body {
 }
 .article {
   grid-column: span 3, autofit;
+  background: white;
+  border: 1px solid white;
 }
 .article:hover {
   background: gainsboro;
