@@ -734,17 +734,17 @@ body {
 .tilesWrap li {
 	display: inline-block;
 	width: 20%;
-	min-width: 150px;
-	max-width: 150px;
-	padding: 80px 20px 40px;
+	min-width: 100px;
+	max-width: 100px;
+	padding: 10px 5px 10px;
 	position: relative;
 	vertical-align: top;
 	margin: 10px;
 	font-family: 'helvetica', san-serif;
-  min-height: 30vh;
-  max-height: 30vh;
+  min-height: 15vh;
+  max-height: 15vh;
 	background: lightyellow;
-	border: 1px solid lightgoldenrodyellow;
+	border: 1px solid lightyellow;
 	text-align: left;
 }
 .tilesWrap li:hover {
@@ -752,20 +752,23 @@ body {
   border: 1px solid goldenrod;
 }
 .tilesWrap li h2 {
-	font-size: 90px;
+	font-size: 50px;
 	margin: 0;
 	position: absolute;
-	opacity: 0.2;
-	top: 50px;
+	
+	top: 30px;
 	right: 10px;
     transition: all 0.3s ease-in-out;
-    color:black ;
+    color:$theme-primary; ;
 }
 
 .tilesWrap li h3 {
-	font-size: 20px;
-	color: black;
-	margin-bottom: 5px;
+  font-size: 11px;
+  text-transform: uppercase;
+	color: $theme-primary;
+  margin-bottom: 5px;
+  font-weight: bold;
+  
 }
 .tilesWrap li p {
 	font-size: 16px;
@@ -775,7 +778,7 @@ body {
 }
 .tilesWrap li button {
 	background:transparent;
-	border: 1px solid goldenrod;
+	border: px solid goldenrod;
 	padding: 10px 20px;
 	color: black;
 	border-radius: 3px;
