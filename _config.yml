@@ -27,6 +27,9 @@ collections:
       output: true
     contributors:
       output: true
+    magazine:
+      output: true
+
    
 
 # Site settings

@@ -1,0 +1,40 @@
+<section id="certificate">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1 class="section-heading"> {{page.title}} </h1>
+
+                <hr class="primary">
+                {% if page.imageLink != "nil" %}
+                <div class="col-lg-12 text-center">
+                    <div class="service-box1">
+                        <img src="{{page.imageLink}}" alt="{{page.title}}" style="width:100%">
+                    </div>
+                {% endif %}
+                    <h2><strong>{{page.subTitle}}</strong></h2>
+                        <h6><i>{{page.author}} ,{{page.affiliation}}</i></h6>
+
+                   
+                 
+                        <h6>{{page.date}}</h6>
+                        <h4>{{page.abstract}}</h4>
+                        <div class="text-right">
+
+                        
+                            <a style= "padding: 5px" href="whatsapp://send?text={{page.title}} {{page.url}}!" data-action="share/whatsapp/share"><i
+                                class="fa fa-whatsapp  " data-wow-delay=".1s"></i></a>
+                            <a style= "padding: 5px"href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i
+                                    class="fa fa-facebook  " data-wow-delay=".1s"></i></a>                               
+                            
+                                                    
+                            
+                        </div>
+                        <hr class="primary">
+                        <p>{{page.content}}</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,36 @@
+<section id="portfolio1">
+    <div style="margin: 10px 10px 10px 10px;">
+        <div class="archive">
+            {% for article in site.magazine %}
+            <article class="article" onclick="location.href = '{{site.baseurl}}{{article.url}}';">
+                <div class="row" style="margin: 5px">
+                    {% if article.imageLink != "nil" %}
+                    
+                        <img src="{{article.imageLink}}" alt="{{article.title}}"
+                            style="max-width:200px;max-height:200px;">
+                            <h2><strong>{{article.title}}</strong></h2>
+                    {% else %}
+                    <h1><strong>{{article.title}}</strong></h1>
+                    {% endif %}
+                    
+                    
+                        
+                    
+
+                        
+                        <h6><i>{{article.author}} ,{{article.affiliation}}</i></h6>
+                        <h6><i>{{article.date}}</i></h6>
+                   
+                 
+                        <h4>{{article.subTitle}}</h4>
+                        <h5>{{article.abstract}}</h5>
+                    
+                </div>
+            </article>
+            {% endfor %}
+
+
+
+        </div>
+    </div>
+</section>
