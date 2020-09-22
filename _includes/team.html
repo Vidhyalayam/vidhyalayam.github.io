@@ -16,6 +16,7 @@
 
         <ul class="tilesWrap">
             {% for member in site.contributors %}
+            {% if member.isActive != false %}
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-left">
                 <a href="{{member.url}}">
                 <div class="col-lg-3 col-md-3 col-xs-3 col-sm-3 text-left">
@@ -32,6 +33,7 @@
                 </a>
              <p> .</p>
             </div>
+            {% endif %}
             {% endfor %}
 
         </ul>
