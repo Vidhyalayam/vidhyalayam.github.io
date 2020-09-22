@@ -11,30 +11,53 @@
                     <div class="service-box1">
                         <img src="{{page.imageLink}}" alt="{{page.title}}" style="width:100%">
                     </div>
-                {% endif %}
+                    {% endif %}
                     <h2><strong>{{page.subTitle}}</strong></h2>
-                        <h6><i>{{page.author}} ,{{page.affiliation}}</i></h6>
+                    <h6><i>{{page.author}} ,{{page.affiliation}}</i></h6>
 
-                   
-                 
-                        <h6>{{page.date}}</h6>
-                        <h4>{{page.abstract}}</h4>
-                        <div class="text-right">
 
-                        
-                            <a style= "padding: 5px" href="whatsapp://send?text={{page.title}} {{page.url}}" data-action="share/whatsapp/share"><i
-                                class="fa fa-whatsapp  " data-wow-delay=".1s"></i></a>
-                            <a style= "padding: 5px"href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i
-                                    class="fa fa-facebook  " data-wow-delay=".1s"></i></a>                               
-                            
-                                                    
-                            
-                        </div>
-                        <hr class="primary">
-                        <p>{{page.content}}</p>
 
+                    <h6>{{page.date}}</h6>
+                    <h4>{{page.abstract}}</h4>
+                    <div class="text-right">
+
+
+                        <a style="padding: 5px" href="whatsapp://send?text={{page.title}} {{page.url}}"
+                            data-action="share/whatsapp/share"><i class="fa fa-whatsapp  " data-wow-delay=".1s"></i></a>
+                        <a style="padding: 5px"
+                            href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i
+                                class="fa fa-facebook  " data-wow-delay=".1s"></i></a>
+                        <a style="padding: 5px"
+                            href="https://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}&title=&summary=&source="><i
+                                class="fa fa-linkedin  " data-wow-delay=".1s"></i></a>
+                        <a  style="padding: 5px" href="https://twitter.com/home?status=https://certifyme.online/{{page.url}} "><i
+                                class="fa fa-twitter  " data-wow-delay=".1s"></i></a>
+                        <a style="padding: 5px"
+                            href="https://pinterest.com/pin/create/button/?url=https:{{site.url}}{{page.url}}&media=&description="><i
+                                class="fa fa-pinterest " data-wow-delay=".1s"></i></a>
+                        <a  style="padding: 5px" href="mailto:?&subject=&body={{site.url}}{{page.url}} "><i
+                                class="fa  fa-envelope " data-wow-delay=".1s"></i></a>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
+</section>
+
+
+
+
+
+
+</section>
+
+
+
+
+</div>
+<hr class="primary">
+<p>{{page.content}}</p>
+
+</div>
+</div>
+</div>
+</div>
 </section>
