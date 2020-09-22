@@ -2,7 +2,6 @@
 layout : lessons 
 subject: Urdu
 class: VI
-
 CreaterEmail: nandhanacv10@gmail.com
 
 
@@ -15,6 +14,6 @@ textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/KeralaUruduReader/KeralaUrudureader.pdf', title: 'urdu part 1' , medium: '' }
 
 
-
+---
 
 
