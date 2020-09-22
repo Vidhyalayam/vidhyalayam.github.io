@@ -22,13 +22,13 @@
                     <div class="text-right">
 
 
-                        <a style="padding: 5px" href="whatsapp://send?text={{page.title}} {{site.url}}{{page.url}}"
+                        <a style="padding: 5px" href="whatsapp://send?text={{page.subTitle}}- {{site.url}}{{page.url}}"
                             data-action="share/whatsapp/share"><i class="fa fa-whatsapp  " data-wow-delay=".1s"></i></a>
                         <a style="padding: 5px"
                             href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i
                                 class="fa fa-facebook  " data-wow-delay=".1s"></i></a>
                         <a style="padding: 5px"
-                            href="https://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}&title=&summary=&source="><i
+                            href="https://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}&title=&summary={{subTitle}}&source="><i
                                 class="fa fa-linkedin  " data-wow-delay=".1s"></i></a>
                         <a style="padding: 5px"
                             href="https://twitter.com/home?status=https://certifyme.online/{{page.url}} "><i
@@ -36,7 +36,7 @@
                         <a style="padding: 5px"
                             href="https://pinterest.com/pin/create/button/?url=https:{{site.url}}{{page.url}}&media=&description="><i
                                 class="fa fa-pinterest " data-wow-delay=".1s"></i></a>
-                        <a style="padding: 5px" href="mailto:?&subject=&body={{site.url}}{{page.url}} "><i
+                        <a style="padding: 5px" href="mailto:?&subject=&body={{ subTitle }}- {{site.url}}{{page.url}} "><i
                                 class="fa  fa-envelope " data-wow-delay=".1s"></i></a>
                     </div>
                 </div>
