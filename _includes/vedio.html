@@ -44,7 +44,7 @@
         <h3>Videos</h3>
 
         <div class="row">
-            {% for lesson in page.lessons %}
+            {% for lesson in page.lessons reversed %}
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-center">
                 <div class="service-box1">
                     <h4 class="team-title">{{ lesson.title }} </h4>

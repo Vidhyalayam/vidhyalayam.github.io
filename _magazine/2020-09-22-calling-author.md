@@ -8,6 +8,7 @@ abstract: Students teachers and parents ignite the author in you, Vidhyalayam.on
 date : Sep 22, 2020
 topic: news
 imageLink: https://vidhyalayam.online/img/magazine/author.png
+featured: true
 ---
 
 Students teachers and parents ignite the author in you, Vidhyalayam.online is looking for articles, essays, bogs that could benefit our student community. Our student community primarily consists of Kerala state syllabus students and teachers and we looking for articles that are focused on this group. 

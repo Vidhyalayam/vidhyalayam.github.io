@@ -2,7 +2,41 @@
     <div style="margin: 5px 5px 5px 5px;">
         <hr class="primary">
         <div class="archive">
+        
             {% for article in site.magazine %}
+            {% if article.featured == true %}
+            <article class="article" onclick="location.href = '{{site.baseurl}}{{article.url}}';">
+                <div class="row" style="margin: 5px">
+                    {% if article.imageLink != "nil" %}
+                    
+                        <img src="{{article.imageLink}}" alt="{{article.title}}"
+                            style="max-width:300px;max-height:300px;">
+                            <h1><strong>{{article.title}}</strong></h1>
+                    {% else %}
+                    <h1><strong>{{article.title}}</strong></h1>
+                    {% endif %}
+                    
+                    
+                        
+                    
+
+                        
+                        <h6><i>{{article.author}} ,{{article.affiliation}}</i></h6>
+                        <h6><i>{{article.date}}</i></h6>
+                   
+                 
+                        <h4>{{article.subTitle}}</h4>
+                        <h6>{{article.abstract}} <strong> >>read more </strong></h6>
+                    
+                </div>
+            </article>
+            {% endif %}
+            {% endfor %}
+
+
+
+            {% for article in site.magazine %}
+            {% if article.featured != true %}
             <article class="article" onclick="location.href = '{{site.baseurl}}{{article.url}}';">
                 <div class="row" style="margin: 5px">
                     {% if article.imageLink != "nil" %}
@@ -28,6 +62,7 @@
                     
                 </div>
             </article>
+            {% endif %}
             {% endfor %}
 
 
