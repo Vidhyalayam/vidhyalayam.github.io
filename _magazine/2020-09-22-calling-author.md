@@ -16,7 +16,7 @@ The articles could be as generic as " how to manage time for students" or specif
 
  As a token of credit, we will be publishing your name as an author along with your institution.  You can email your articles to editor@vidhyalayam.online  .  The publication of any material submitted will be at the sole discretion of our editorial team. By submitting material for publication, you also guarantee that you are the original copyright holder of the work in question, and you own the legal rights to use the information.
 
-We have a large viewer base that triggers around 22K pageviews/ month accessed by students, teachers, and parents spread across 229 cities / 29 countries, and our user base is going day by day. We are a social startup hence we will not be offering any remuneration for the articles written and this is pure pro bono, voluntary activity. Please read our teams and Condition before submitting nay article for review.
+We have a large viewer base that triggers around 22K pageviews/ month accessed by students, teachers, and parents spread across 229 cities / 29 countries, and our user base is going day by day. We are a social startup hence we will not be offering any remuneration for the articles written and this is pure pro bono, voluntary activity. Please read our Terms and Condition before submitting any article for review.
 
 ## Terms and conditions for Submission of articles for publication on the articles
 
