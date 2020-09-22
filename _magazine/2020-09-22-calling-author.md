@@ -3,14 +3,14 @@ layout: magazine
 title: Ignite the author in you
 author: Staff correspondent 
 affiliation: vidhyalayam.online
-subTitle: Vidhyalayam.online is looking for articles, essays, bogs that could benefit our student community 
-abstract: Students teachers and parents ignite the author in you, Vidhyalayam.online is looking for articles, essays, bogs that could benefit our student community. Our student community primarily consists of Kerala state syllabus students and teachers and we looking for articles that are focused on this group. You can email your articles to editor@vidhyalayam.online.
+subTitle: Vidhyalayam.online is looking for articles, essays etc that could benefit our student community 
+abstract: Students teachers and parents ignite the author in you, Vidhyalayam.online is looking for articles, essays etc that could benefit our student community. Our student community primarily consists of Kerala state syllabus students and teachers and we looking for articles that are focused on this group. You can email your articles to editor@vidhyalayam.online.
 date : Sep 22, 2020
 topic: news
 imageLink: https://vidhyalayam.online/img/magazine/author.png
 featured: true
 ---
-Students teachers and parents, ignite the author in you, Vidhyalayam.online is looking for articles, essays, bogs that could benefit our student community. Our student community consists of Kerala state syllabus students/ teachers.
+Students teachers and parents, ignite the author in you, Vidhyalayam.online is looking for articles, essays etc that could benefit our student community. Our student community consists of Kerala state syllabus students/ teachers.
 
 The articles could be as generic as " how to manage time for students" or specific content related to a  class and subject e.g. "formula summary for STD 10 Physics" or a like. We are also looking for educational content that could include class notes, solutions, questions and answers, question papers, etc that could benefit our children for the good.  The article can be written in English or Malayalam.
 
