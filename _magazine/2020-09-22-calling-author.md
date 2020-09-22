@@ -32,8 +32,10 @@ Students, parents , teachers, or any well-wisher  may submit material under the 
 Reservation of Rights – We reserve the right to accept, reject, or remove any material submitted for publication with no explanation.
 
 ### Offensive content 
-– Any material deemed defamatory, racist, or otherwise illegal including age groups of 1 to  13 years or offending will in any case not be approved for publication.
-Non-exclusive license for publication – By submitting materials, you grant us a non-exclusive, perpetual, royalty-free, worldwide license to republish any material you submit to us in any format, including without limitation print and electronic format. In particular, you agree that we can make it available in this Blog as well as in any other vidhyalayam.online  publications and/or media or social media, provided that due credit is given to the author.
+– Any material deemed defamatory, racist, or otherwise illegal for age groups of 1 to  13 years or offending will in any case not be approved for publication.
+
+##  Non-exclusive license for publication 
+– By submitting materials, you grant us a non-exclusive, perpetual, royalty-free, worldwide license to republish any material you submit to us in any format, including without limitation print and electronic format. In particular, you agree that we can make it available in this Blog as well as in any other vidhyalayam.online  publications and/or media or social media, provided that due credit is given to the author.
 
 ### E-mails 
 – It is a requirement of our submission process that you agree to receive occasional e-mails from us. If any of these notification e-mails are returned, we may refuse or withdraw the publication.
