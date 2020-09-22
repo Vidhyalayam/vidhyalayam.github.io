@@ -6,6 +6,8 @@ CreaterEmail: phoenixvadakkan3@gmail.com
 
 lessons: 
 - { id: 'EazS6238awg', title: 'KITE VICTERS STD 01  Class 1 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'aFY5d7lCONE', title: 'KITE VICTERS STD 01  Class 2 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 
 textbooks:
