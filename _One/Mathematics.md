@@ -21,6 +21,7 @@ lessons:
 - { id: '1_ipgWv1bvw', title: 'KITE VICTERS STD 01 Mathematics Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'YtRMHOQjluU', title: 'KITE VICTERS STD 01 Mathematics Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'nNdHbyZqz58', title: 'KITE VICTERS STD 01 Mathematics Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '3i9Z1Dpq_Pg', title: 'KITE VICTERS STD 01 Mathematics Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
