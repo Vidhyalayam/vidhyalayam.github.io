@@ -1,8 +1,8 @@
 ---
 layout: magazine
-title: From the founderer's desk
+title: From the founder's desk
 author: Ranjith Tharayil
-affiliation:  Founderer Vidhyalayam.Online
+affiliation:  Founder Vidhyalayam.Online
 subTitle: Agility is a lot more about unlearning than learning
 abstract: If we were a bunch of seasoned programmers, I am pretty sure we would have taken much more time and a ton of politics. This experience has taught me that to "be Agile" is natural for these students. Somewhere we professionals "unlearned" it and we are struggling to learn it again.
 date:  Sep 01 ,2020
@@ -14,6 +14,6 @@ During the 3rd week of August 2020, I stumbled upon an idea to build a website f
 
 By Ranjith Tharayil
 Mentor & Coach
-Founderer & Software Developer Vidhyalayam.Online
+Founder & Software Developer Vidhyalayam.Online
 
 Ranjith Tharayil is an accomplished innovator, author, entrepreneur, and an inspirational servant leader. He has been honored with the title as "Mentor of change" by NITI Ayog, Govt of India, and was associated with the Association for Computing Machinery as "ACM Distinguished Speaker". Ranjith had been an integral part of many R & D departments in large scale product companies and also a founder of 3 start-ups. He has authored 9 patents, 30+ articles, and 3 books across different domains he has touched.
