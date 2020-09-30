@@ -23,6 +23,7 @@ lessons:
 - { id: 'PiL6TkjxT_E', title: 'KITE VICTERS Plus Two Physics Class 16(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ksDLcuecCxI', title: 'KITE VICTERS Plus Two Physics Class 17(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'hfgvFIfVf3w', title: 'KITE VICTERS Plus Two Physics Class 18(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'wizLV02alUc', title: 'KITE VICTERS Plus Two Physics Class 19(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Physics/Physics_1.pdf', title: 'Physics Part -1' , medium: 'English' }
