@@ -16,6 +16,7 @@ lessons:
 - { id: 'sTQpm55-Opo', title: 'KITE VICTERS STD Plus Two Zoology Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'RqsjtiVDgDw', title: 'KITE VICTERS STD Plus Two Zoology Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 's05TIA711ks', title: 'KITE VICTERS STD Plus Two Zoology Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'fvTGtSoY4AQ', title: 'KITE VICTERS STD Plus Two Zoology Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Biology/Biology.pdf', title: 'Zoology' , medium: 'English' }
