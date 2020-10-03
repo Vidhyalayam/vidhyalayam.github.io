@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Maths
-class: Four
+class: IV
 CreaterEmail: adarshjojo2006@gmail.com
 
 lessons: 
