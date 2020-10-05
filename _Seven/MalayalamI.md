@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Malayalam I
-class: seven
+class: VII
 CreaterEmail: johnpaulroy121@gmail.com
 
 lessons: 
