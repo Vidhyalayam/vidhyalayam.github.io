@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Basic science
-class: seven
+class: VII
 CreaterEmail: johnpaulroy121@gmail.com
 
 lessons: 
@@ -15,6 +15,7 @@ lessons:
 - { id: 'tI2cfNQRzn0', title: 'KITE VICTERS STD 7 Basic Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '1HSWfe-1Fd0', title: 'KITE VICTERS STD 7 Basic Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '4rjZMA2UPGc', title: 'KITE VICTERS STD 7 Basic Science Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'kJHbkcDl0xw', title: 'KITE VICTERS STD 7 Basic Science Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
