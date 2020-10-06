@@ -10,6 +10,7 @@ lessons:
 - { id: '2OcqBuvFgiY', title: 'KITE VICTERS STD 8 Sanskrit Class 3 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'hpq9TKlnQOU', title: 'KITE VICTERS STD 8 Sanskrit Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Y5Ka1vhvcGo', title: 'KITE VICTERS STD 8 Sanskrit Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'OGcybYn6xHc', title: 'KITE VICTERS STD 8 Sanskrit Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/KeralaSanscritReaderAcademic/KeralaSanscritReaderAcademic.pdf', title: 'Sanskrit Part -1' }
