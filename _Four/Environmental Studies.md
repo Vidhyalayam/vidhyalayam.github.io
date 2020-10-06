@@ -22,6 +22,7 @@ lessons:
 - { id: '8ETJ6zsft10', title: 'KITE VICTERS STD 04 Environmental Studies Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'D_Y_JM1Oyg4', title: 'KITE VICTERS STD 04 Environmental Studies Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '9rHMzALloB8', title: 'KITE VICTERS STD 04 Environmental Studies Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6nWWH9f6etQ', title: 'KITE VICTERS STD 04 Environmental Studies Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD4/ParisarapadanamEnglish/ParisarapadanamEnglish.pdf', title: 'Environmental studies Part -1' , medium: 'English' }
