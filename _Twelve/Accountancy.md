@@ -24,6 +24,7 @@ lessons:
 - { id: 'et1AckBo-ys', title: 'KITE VICTERS Plus two Accountancy  Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '57CNwNoJ_Yc', title: 'KITE VICTERS Plus two Accountancy  Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Nl5y_Ai07X4', title: 'KITE VICTERS Plus two Accountancy  Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'aFHuThETPds', title: 'KITE VICTERS Plus two Accountancy  Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
