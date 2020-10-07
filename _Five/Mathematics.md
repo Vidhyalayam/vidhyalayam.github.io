@@ -15,6 +15,7 @@ lessons:
 - { id: 'e7Eq8gO0vU0', title: 'KITE VICTERS STD 05 Mathematics Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'lhS8w_W5E2E', title: 'KITE VICTERS STD 05 Mathematics Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'n7lnxFP7614', title: 'KITE VICTERS STD 05 Mathematics Class 010 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '-y6qq2frKlA', title: 'KITE VICTERS STD 05 Mathematics Class 011 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD5/MathsEnglish/MathsEnglish.pdf', title: 'Mathematics Part -1' , medium: 'English' }
