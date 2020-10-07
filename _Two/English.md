@@ -28,6 +28,7 @@ lessons:
 - { id: 'N7CwhHkWMOY', title: 'KITE VICTERS STD 02 English Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'V2pJvp1N5KY', title: 'KITE VICTERS STD 02 English Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tPSk9_3f_zE', title: 'KITE VICTERS STD 02 English Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'kr31SUINA4E', title: 'KITE VICTERS STD 02 English Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
