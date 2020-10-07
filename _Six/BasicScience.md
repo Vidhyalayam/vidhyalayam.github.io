@@ -21,6 +21,14 @@ lessons:
 - { id: 'PsVZzelJfS8', title: 'KITE VICTERS STD 06 Basic Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'LTBvDMrMCd8', title: 'KITE VICTERS STD 06 Basic Science Class 10(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'GppmWH4YDAk', title: 'KITE VICTERS STD 06 Basic Science Class 11(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'qW6-rq4zitw', title: 'KITE VICTERS STD 06 Basic Science Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+     
+      
+
+
+
+
+
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD6/BasicScienceEnglish/BasicScienceEnglish.pdf', title: 'Basic Science Part -1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VI/Basic%20Science_E_Vol_II/BasicScienceEnglish.pdf', title: ' Basic Science PPart -2' , medium: 'English' }
