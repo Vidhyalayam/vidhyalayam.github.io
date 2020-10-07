@@ -28,6 +28,7 @@ lessons:
 - { id: 'OV4JPw6m-YA', title: 'KITE VICTERS STD 10 Biology Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Iwl8P9iuHQg', title: 'KITE VICTERS STD 10 Biology Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Kp0UmQZA4VI', title: 'KITE VICTERS STD 10 Biology Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'day-Q44cMI8', title: 'KITE VICTERS STD 10 Biology Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Biology_Eng_1/Biology_Eng_1.pdf', title: 'Biology Part -1' , medium: 'English' }
