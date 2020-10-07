@@ -20,6 +20,7 @@ lessons:
 - { id: '-ohnaUYxwho', title: 'KITE VICTERS STD Plus Two Business Studies Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'FOXPhB2pk9o', title: 'KITE VICTERS STD Plus Two Business Studies Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'zqmBBw6Lrlc', title: 'KITE VICTERS STD Plus Two Business Studies Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6sWEJdgLyGE', title: 'KITE VICTERS STD Plus Two Business Studies Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
