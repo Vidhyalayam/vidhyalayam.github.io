@@ -5,17 +5,17 @@ class: IX
 CreaterEmail: janemaryxiia@gmail.com
 
 lessons: 
-- { id: '1T9W_dtYWOQ', title: 'KITE VICTERS STD 09 Information and communication Technology Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '1cEbpTeqARE', title: 'KITE VICTERS STD 09 Information and communication Technology Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'l2vnZz8r6rw', title: 'KITE VICTERS STD 09 Information and communication technology Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'NkaEiiOwFR0', title: 'KITE VICTERS STD 09 Information and communication Technology Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'GwpB1q1kSTA', title: 'KITE VICTERS STD 09 Information and communication Technology Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'szxsRWMd3cE', title: 'KITE VICTERS STD 09 Information and communication Technology Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'D3tBI8HrrLc', title: 'KITE VICTERS STD 09 Information and communication Technology Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '52NeVAq4_Zc', title: 'KITE VICTERS STD 09 Information and communication Technology Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'EIRU0ureoTc', title: 'KITE VICTERS STD 09 Information and communication Technology Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'X4hIzSwQ1Vw', title: 'KITE VICTERS STD 09 Information and communication Technology Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'qHGFQLszafk', title: 'KITE VICTERS STD 09 Information and communication Technology Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '1T9W_dtYWOQ', title: 'KITE VICTERS STD IX Information and communication Technology Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '1cEbpTeqARE', title: 'KITE VICTERS STD IX Information and communication Technology Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'l2vnZz8r6rw', title: 'KITE VICTERS STD IX Information and communication technology Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'NkaEiiOwFR0', title: 'KITE VICTERS STD IX Information and communication Technology Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'GwpB1q1kSTA', title: 'KITE VICTERS STD IX Information and communication Technology Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'szxsRWMd3cE', title: 'KITE VICTERS STD IX Information and communication Technology Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'D3tBI8HrrLc', title: 'KITE VICTERS STD IX Information and communication Technology Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '52NeVAq4_Zc', title: 'KITE VICTERS STD IX Information and communication Technology Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'EIRU0ureoTc', title: 'KITE VICTERS STD IX Information and communication Technology Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'X4hIzSwQ1Vw', title: 'KITE VICTERS STD IX Information and communication Technology Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'qHGFQLszafk', title: 'KITE VICTERS STD IX Information and communication Technology Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/ICT_Eng_IX_1/ICT_Eng_IX_1.pdf', title: 'ICT Part -1' , medium: 'English' }
