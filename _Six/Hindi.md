@@ -20,6 +20,7 @@ lessons:
 - { id: 'fNtBXbeMz7k', title: 'KITE VICTERS STD 06 Hindi Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'A98N7qmAGRc', title: 'KITE VICTERS STD 06 Hindi Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'rPEpqmbzvIg', title: 'KITE VICTERS STD 06 Hindi Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4ApMK_Sx-mU', title: 'KITE VICTERS STD 06 Hindi Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
