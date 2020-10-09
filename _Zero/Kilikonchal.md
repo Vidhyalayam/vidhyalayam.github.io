@@ -64,6 +64,10 @@ lessons:
 - { id: 'G_Jio-y8FIk',title: 'KITE VICTERS Kilikonchal Anganwadi Class 52' }
 - { id: '2fWbY6p0jIs',title: 'KITE VICTERS Kilikonchal Anganwadi Class 53' }
 - { id: 'k3-hOW9UGu0',title: 'KITE VICTERS Kilikonchal Anganwadi Class 54' }
+- { id: '1Xrxv7Da5UU',title: 'KITE VICTERS Kilikonchal Anganwadi Class 55' }
+- { id: 'WEhEKmsvaDw',title: 'KITE VICTERS Kilikonchal Anganwadi Class 56' }
+
+
 
 
 
