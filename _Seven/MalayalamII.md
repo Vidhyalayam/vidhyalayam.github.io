@@ -12,7 +12,7 @@ lessons:
 - { id: 'rjfgv3NIMfs', title: 'KITE VICTERS STD 7 Malayalam Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ArQ_zdxenz4', title: 'KITE VICTERS STD 7 Malayalam Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'PBALw6ePDOE', title: 'KITE VICTERS STD 7 Malayalam Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'tYenVe1cAog', title: 'KITE VICTERS STD 7 Malayalam Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'tYenVe1cAog', title: 'KITE VICTERS STD 7 Malayalam Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
