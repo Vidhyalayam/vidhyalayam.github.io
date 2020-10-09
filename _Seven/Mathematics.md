@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Maths
-class :VII
+class: VII
 CreaterEmail: johnpaulroy121@gmail.com
 
 lessons: 
