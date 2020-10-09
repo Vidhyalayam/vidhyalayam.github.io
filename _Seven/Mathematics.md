@@ -14,6 +14,7 @@ lessons:
 - { id: '7r5lMb8rtd0', title: 'KITE VICTERS STD 07 Mathematics Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 's2Lk0qxlBpc', title: 'KITE VICTERS STD 07 Mathematics Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'k3WrZIIIrB4', title: 'KITE VICTERS STD 07 Mathematics Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'iJKb2VYeEtc', title: 'KITE VICTERS STD 07 Mathematics Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/MathsMalayalam/MathsMalayalam.pdf', title: 'Maths part-1' , medium: 'malayalam ' }
