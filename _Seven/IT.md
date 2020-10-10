@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
-subject: VII
-class: seven
+subject: ICT
+class: VII
 CreaterEmail: johnpaulroy121@gmail.com
 
 lessons: 
