@@ -18,7 +18,7 @@ lessons:
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/MathsMalayalam/MathsMalayalam.pdf', title: 'Maths part-1' , medium: 'malayalam ' }
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Maths_Vol_II/MathsMalayalam.pdf', title: 'Maths part-2' , medium: ' malayalam' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Maths_Vol_II/MathsMalayalam.pdf', title: 'Maths part-2' , medium: 'malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/MathsEnglish/MathsEnglish.pdf', title: 'Maths part-1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/Maths_Eng_Vol_II/MathsEnglish.pdf', title: 'Maths part-2' , medium: ' English' }
 ---
