@@ -21,6 +21,7 @@ lessons:
 - { id: 'cr314LiO9f4', title: 'KITE VICTERS STD IX Social Science Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'eHTCpPrxV1Q', title: 'KITE VICTERS STD IX Social Science Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'CzRuqpVnhng', title: 'KITE VICTERS STD IX Social Science Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'HoyBpmFYz94', title: 'KITE VICTERS STD IX Social Science Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
