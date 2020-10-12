@@ -16,7 +16,7 @@ lessons:
 - { id: '1HSWfe-1Fd0', title: 'KITE VICTERS STD 7 Basic Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '4rjZMA2UPGc', title: 'KITE VICTERS STD 7 Basic Science Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'kJHbkcDl0xw', title: 'KITE VICTERS STD 7 Basic Science Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'sTnLEQtwD3o', title: 'KITE VICTERS STD 7 Basic Science Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/BasicScienceMalayalam/BasicScienceMalayalam.pdf', title: 'Basic Science part-1' , medium: 'malayalam ' }
