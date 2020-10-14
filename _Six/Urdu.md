@@ -8,6 +8,7 @@ CreaterEmail: nandhanacv10@gmail.com
 
 lessons: 
 - { id: 'MVPibTH54bY', title: 'KITE VICTERS STD 06 Urdu Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'MrO31TB7QWI', title: 'KITE VICTERS STD 06 Urdu Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
