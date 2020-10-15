@@ -14,6 +14,7 @@ lessons:
 - { id: 'CxlGpf5Wkts', title: 'KITE VICTERS STD 5 Social Science Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'sLRUxt9YOzE', title: 'KITE VICTERS STD 5 Social Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '_PFwpAJC0YU', title: 'KITE VICTERS STD 5 Social Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bhgmo65fg-Y', title: 'KITE VICTERS STD 5 Social Science Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD5/SocialScienceMalayalam/SocialScienceMalayalam.pdf', title: 'Socialscience Part -1' , medium: 'English' }
