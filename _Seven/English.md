@@ -13,7 +13,7 @@ lessons:
 - { id: 'TgzkiOea2Qo', title: 'KITE VICTERS STD 7 English Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qB-20E97JrI', title: 'KITE VICTERS STD 7 English Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'OCj9k8MR4uI', title: 'KITE VICTERS STD 7 English Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'bmROmRKlEME', title: 'KITE VICTERS STD 7 English Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bmROmRKlEME', title: 'KITE VICTERS STD 7 English Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD7/KeralaReaderEnglish/KeralaReaderEnglish.pdf', title: 'English part-1' , medium: ' ' }
