@@ -20,6 +20,7 @@ lessons:
 - { id: 'bNdNtFVEEiU', title: 'KITE VICTERS STD IX Chemistry Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'I9FA7MqjQ68', title: 'KITE VICTERS STD IX Chemistry Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'lFhowkpU4Zk', title: 'KITE VICTERS STD IX Chemistry Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'biwOoSlNR7w', title: 'KITE VICTERS STD IX Chemistry Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Chemistry_9_E_Vol_1/Chemistry_9_E_Vol_1.pdf', title: 'Chemistry Part -1' , medium: 'English' }
