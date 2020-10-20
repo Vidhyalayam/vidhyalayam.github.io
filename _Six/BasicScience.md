@@ -22,6 +22,7 @@ lessons:
 - { id: 'LTBvDMrMCd8', title: 'KITE VICTERS STD 06 Basic Science Class 10(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'GppmWH4YDAk', title: 'KITE VICTERS STD 06 Basic Science Class 11(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qW6-rq4zitw', title: 'KITE VICTERS STD 06 Basic Science Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'axNx3MEGIl8', title: 'KITE VICTERS STD 06 Basic Science Class 13(First Bell-ഫസ്റ്റ് ബെല്‍)' }
      
       
 
