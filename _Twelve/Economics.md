@@ -27,6 +27,7 @@ lessons:
 - { id: 'i6sWOgrf-f8', title: 'KITE VICTERS STD Plus Two Economics Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'S-85M4k7GB8', title: 'KITE VICTERS STD Plus Two Economics Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '0LqLzH81bJA', title: 'KITE VICTERS STD Plus Two Economics Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Z5Q6RyZLw18', title: 'KITE VICTERS STD Plus Two Economics Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
