@@ -19,9 +19,11 @@ lessons:
 - { id: 'WUZZbYP5o9U', title: 'KITE VICTERS STD 06 Social Science Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'lKmJNYOgP78', title: 'KITE VICTERS STD 06 Social Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'GsVXby8jLyQ', title: 'KITE VICTERS STD 06 Social Science Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'dfnlNt2bHzY', title: 'KITE VICTERS STD 06 Social Science Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
+dfnlNt2bHzY
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD6/SocialScienceEnglish/SocialScienceEnglish.pdf', title: 'Social Science part 1' , medium: 'English' }
