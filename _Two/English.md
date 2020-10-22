@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: English
-class: Two
+class: II
 CreaterEmail: advaitmpai.6a@gmail.com
 
 contributor:
@@ -28,8 +28,8 @@ lessons:
 - { id: 'N7CwhHkWMOY', title: 'KITE VICTERS STD 02 English Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'V2pJvp1N5KY', title: 'KITE VICTERS STD 02 English Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tPSk9_3f_zE', title: 'KITE VICTERS STD 02 English Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- {,id: 'kr31SUINA4E', title: 'KITE VICTERS STD 02 English Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- {,id: 'MHOP48g5Duw', title: 'KITE VICTERS STD 02 English Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'kr31SUINA4E', title: 'KITE VICTERS STD 02 English Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'MHOP48g5Duw', title: 'KITE VICTERS STD 02 English Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/KeralaReaderEnglish/KeralaReaderEnglish.pdf', title: 'English Part -1' , medium: 'Malayalam'}
