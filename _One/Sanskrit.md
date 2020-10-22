@@ -13,5 +13,4 @@ textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_I/SanscritReader/SANSKRITREADER.pdf', title:Sanskrit ' Part -1' , medium: 'Malayalam', title: 'Arabic Part -2' , medium: 'Malayalam' } 
 
 
-
 ---
