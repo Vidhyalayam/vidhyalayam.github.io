@@ -20,6 +20,7 @@ lessons:
 - { id: '2TAI6B7tuV8', title: 'KITE VICTERS Plus Two Computer Application Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'xH7oVOmaiYc', title: 'KITE VICTERS Plus Two Computer Application Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'wdXHDk68CBs', title: 'KITE VICTERS Plus Two Computer Application Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Wnz3Vmq_B48', title: 'KITE VICTERS Plus Two Computer Application Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
