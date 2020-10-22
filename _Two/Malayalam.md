@@ -4,6 +4,8 @@ subject: Malayalam
 class: II
 CreaterEmail: phoenixvadakkan3@gmail.com
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
 
 lessons: 
 - { id: '5Bo3KiDrGj4', title: 'KITE VICTERS STD 02 Malayalam Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -29,6 +31,7 @@ lessons:
 - { id: 'v_PlqhqFN3g', title: 'KITE VICTERS STD 02 Malayalam Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qXyy45A_Y-Q', title: 'KITE VICTERS STD 02 Malayalam Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'PkO9tGfg4o4', title: 'KITE VICTERS STD 02 Malayalam Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '3t_ZxOJlpQg', title: 'KITE VICTERS STD 02 Malayalam Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
