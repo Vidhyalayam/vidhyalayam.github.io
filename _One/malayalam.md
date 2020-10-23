@@ -4,6 +4,10 @@ subject: Malayalam
 class: I
 CreaterEmail: phoenixvadakkan3@gmail.com
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
+
 lessons: 
 - { id: 'ds_W4hGmS6o', title: 'KITE VICTERS STD 1 Malayalam I Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cpKiIBcI1n8', title: 'KITE VICTERS STD 1 Malayalam I Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -33,7 +37,9 @@ lessons:
 - { id: 'I6vf5S6lIX0', title: 'KITE VICTERS STD 1 Malayalam I Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'y8vqjqM54Ok', title: 'KITE VICTERS STD 1 Malayalam I Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'V_Cr6_Gtr2M', title: 'KITE VICTERS STD 1 Malayalam I Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'BGV4zAKxvWU', title: 'KITE VICTERS STD 1 Malayalam I Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '-O9w9m_zhcA', title: 'KITE VICTERS STD 1 Malayalam I Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'BglgGmIlrt0', title: 'KITE VICTERS STD 1 Malayalam I Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
