@@ -4,6 +4,11 @@ subject: Maths
 class: Two
 CreaterEmail: phoenixvadakkan3@gmail.com
 
+
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
+
 lessons: 
 - { id: 'I-SP4XIbefo', title: 'KITE VICTERS STD 02 Mathematics Class 1 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'yIr8Cew0tKA', title: 'KITE VICTERS STD 02 Mathematics Class 2 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -27,6 +32,12 @@ lessons:
 - { id: 'kVQlBcyulq0', title: 'KITE VICTERS STD 02 Mathematics Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tvR3SpSxvA8', title: 'KITE VICTERS STD 02 Mathematics Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'z50WliTSV_I', title: 'KITE VICTERS STD 02 Mathematics Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'x_4l6bI0Rh0', title: 'KITE VICTERS STD 02 Mathematics Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'VaDZ2rwYv18', title: 'KITE VICTERS STD 02 Mathematics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'A-XCZLMVjE8', title: 'KITE VICTERS STD 02 Mathematics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'x_4l6bI0Rh0', title: 'KITE VICTERS STD 02 Mathematics Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
 
 textbooks:textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD2/MathsEnglish/MathsEnglish.pdf', title: 'mathematics part -1' , medium: 'English' }
