@@ -4,6 +4,11 @@ subject: Maths
 class: I
 CreaterEmail: phoenixvadakkan3@gmail.com
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
+
+
 lessons: 
 - { id: 'W15sBKVvLsY', title: 'KITE VICTERS STD 01 Mathematics Class 1(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Cf749k_Ky98', title: 'KITE VICTERS STD 01 mathematics Class 2 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -25,6 +30,13 @@ lessons:
 - { id: 'fA9gkYGjSpY', title: 'KITE VICTERS STD 01 Mathematics Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'X295TGZ1DjU', title: 'KITE VICTERS STD 01 Mathematics Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Mpa2l2Jlo1Q', title: 'KITE VICTERS STD 01 Mathematics Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'czi6CFjA388', title: 'KITE VICTERS STD 01 Mathematics Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '2iUw6i62fT0', title: 'KITE VICTERS STD 01 Mathematics Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'vzITjgZ_-og', title: 'KITE VICTERS STD 01 Mathematics Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+
+
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/MathsEnglish/MathsEnglish.pdf', title: 'mathematics part -1' , medium: 'English' }
