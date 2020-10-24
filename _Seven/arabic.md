@@ -7,6 +7,7 @@ CreaterEmail: johnpaulroy121@gmail.com
 lessons: 
 - { id: 'Z5i-gova89c', title: 'KITE VICTERS STD 07 Arabic Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '7pQ8MUsmNhE', title: 'KITE VICTERS STD 07 Arabic Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'txH6h-3v0Is', title: 'KITE VICTERS STD 07 Arabic Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/ArabicReaderAcademic/ArabicReaderAcademic.pdf', title: 'Arabic' , medium: '' }
