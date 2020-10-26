@@ -4,6 +4,10 @@ subject: Sanskrit
 class: VII
 CreaterEmail: johnpaulroy121@gmail.com
 
+contributor: 
+- { emailId: 'deepthipjoju@gmail.com' }
+
+
 lessons: 
 
 - { id: 'dg6nX5OjASQ', title: 'KITE VICTERS STD 07 Sanskrit Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
