@@ -11,6 +11,7 @@ lessons:
 - { id: 'ILw03FHKfi0', title: 'KITE VICTERS STD 8 Urdu  Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'g5j37WyhYMw', title: 'KITE VICTERS STD 8 Urdu  Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'NcxsbZodNFA', title: 'KITE VICTERS STD 8 Urdu  Class 6 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6Y3tdk37yUQ', title: 'KITE VICTERS STD 8 Urdu  Class 7 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Urdu%20Std_IX_Vol_1/Urdu%20Std_IX_Vol_1.pdf', title: 'Urdu Part -1' , medium: 'Malayalam' }
