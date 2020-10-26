@@ -9,6 +9,7 @@ lessons:
 - { id: '3wWYFOcCoIA', title: 'KITE VICTERS Plus two Urdu Class 2 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Jzl9kJkFoQ0', title: 'KITE VICTERS Plus two Urdu Class 3 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '29U58jKLqyM', title: 'KITE VICTERS Plus two Urdu Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '312F2MVt9v4', title: 'KITE VICTERS Plus two Urdu Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/UrduIILanguage/UrduIILanguage.pdf', title: 'Urdu' , medium: 'English' }
