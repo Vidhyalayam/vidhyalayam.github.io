@@ -7,6 +7,9 @@ CreaterEmail: advaitmpai.6a@gmail.com
 contributor:
 - { emailId: 'phoenixvadakkan3@gmail.com' }
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
 lessons: 
 - { id: 'LdS9c3Q7y64', title: 'KITE VICTERS STD 02 English Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'htIo-_0Oge0', title: 'KITE VICTERS STD 02 English Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -30,6 +33,10 @@ lessons:
 - { id: 'tPSk9_3f_zE', title: 'KITE VICTERS STD 02 English Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'kr31SUINA4E', title: 'KITE VICTERS STD 02 English Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'MHOP48g5Duw', title: 'KITE VICTERS STD 02 English Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '3Pp6AHGfrZo', title: 'KITE VICTERS STD 02 English Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '83DANGkdom4', title: 'KITE VICTERS STD 02 English Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '313je32UleA', title: 'KITE VICTERS STD 02 English Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'JMRyS6Hy5-0', title: 'KITE VICTERS STD 02 English Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/KeralaReaderEnglish/KeralaReaderEnglish.pdf', title: 'English Part -1' , medium: 'Malayalam'}
