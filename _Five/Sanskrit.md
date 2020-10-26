@@ -1,8 +1,12 @@
 --- 
 layout : lessons 
 subject: Sanskrit
-class: Five
+class: V
 CreaterEmail: jeromeroy123321@gmail.com
+
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+
 
 lessons: 
 
@@ -12,7 +16,7 @@ lessons:
 - { id: 'j3ichNSzfcc', title: 'KITE VICTERS STD 05 Sanskrit Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'EcDabfmeaGY', title: 'KITE VICTERS STD 05 Sanskrit Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '4J7D6JYmARE', title: 'KITE VICTERS STD 05 Sanskrit Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'SJuA1lSCEVw', title: 'KITE VICTERS STD 05 Sanskrit Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'SJuA1lSCEVw', title: 'KITE VICTERS STD 05 Sanskrit Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_V/SanscritReaderAcademic/SanscritReaderAcademic.pdf', title: 'Sanscrit' , medium: '' }
