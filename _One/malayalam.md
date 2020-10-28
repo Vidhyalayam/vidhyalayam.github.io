@@ -40,6 +40,7 @@ lessons:
 - { id: 'BGV4zAKxvWU', title: 'KITE VICTERS STD 1 Malayalam I Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-O9w9m_zhcA', title: 'KITE VICTERS STD 1 Malayalam I Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'BglgGmIlrt0', title: 'KITE VICTERS STD 1 Malayalam I Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'kQLmHTraN5w', title: 'KITE VICTERS STD 1 Malayalam I Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
