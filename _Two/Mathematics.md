@@ -1,7 +1,7 @@
 --- 
 layout : lessons 
 subject: Maths
-class: Two
+class: II
 CreaterEmail: phoenixvadakkan3@gmail.com
 
 
@@ -35,6 +35,7 @@ lessons:
 - { id: 'x_4l6bI0Rh0', title: 'KITE VICTERS STD 02 Mathematics Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'VaDZ2rwYv18', title: 'KITE VICTERS STD 02 Mathematics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'A-XCZLMVjE8', title: 'KITE VICTERS STD 02 Mathematics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'EIYvZ1ZXU84', title: 'KITE VICTERS STD 02 Mathematics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:textbooks:
