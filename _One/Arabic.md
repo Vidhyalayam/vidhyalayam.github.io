@@ -8,10 +8,7 @@ lessons:
 - { id: 'EazS6238awg', title: 'KITE VICTERS STD 01  Class 1 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'aFY5d7lCONE', title: 'KITE VICTERS STD 01  Class 2 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 's6KY1G2rduY', title: 'KITE VICTERS STD 01  Class 3 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
-
-
-
+- { id: 'E2ZbMjR82fI', title: 'KITE VICTERS STD 01 Arabic Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/KeralaReaderArabic/KeralaReaderArabic.pdf', title: 'Arabic Part -1' , medium: 'Malayalam' }
