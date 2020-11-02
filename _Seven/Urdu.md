@@ -8,6 +8,8 @@ lessons:
 - { id: 'mlvRi5picSo', title: 'KITE VICTERS STD 07 Urudu Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'k8UEgbVbk-M', title: 'KITE VICTERS STD 07 Urudu Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '6CJefV7tCL0', title: 'KITE VICTERS STD 07 Urudu Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'PT9tVszDruw', title: 'KITE VICTERS STD 07 Urudu Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 
 Textbooks:
