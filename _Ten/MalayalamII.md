@@ -20,6 +20,7 @@ lessons:
 - { id: 'YeqcLYLvn_k', title: 'KITE VICTERS STD 10 Malayalam (Adisthaana Padavali) Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '1980jlyo2JU', title: 'KITE VICTERS STD 10 Malayalam (Adisthanapadavali) Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '5DdzIuewVxQ', title: 'KITE VICTERS STD 10 Malayalam (Adisthana padavali) Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'pZfV9Iq7eK0', title: 'KITE VICTERS STD 10 Malayalam (Adisthanapaadam) Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/MalayalamBT_1/MalayalamBT_1.pdf', title: 'Malayalam II' , medium: 'Malayalam' }
