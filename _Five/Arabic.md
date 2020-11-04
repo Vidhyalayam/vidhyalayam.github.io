@@ -14,6 +14,7 @@ lessons:
 - { id: 'xrKSwEAqmXo', title: 'KITE VICTERS STD 05 arabic Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'UQJ9xpBHvxI', title: 'KITE VICTERS STD 05 arabic Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'fs9TyMAJ9Y0', title: 'KITE VICTERS STD 05 arabic Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'p_QDjY_6WBo', title: 'KITE VICTERS STD 05 arabic Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_V/ArabicReaderAcadamic/ArabicReaderAcadamic.pdf', title: 'Arabic' , medium: '' }
