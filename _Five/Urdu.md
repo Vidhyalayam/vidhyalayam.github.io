@@ -12,5 +12,6 @@ lessons:
 - { id: '1PbIZD6kds0', title: 'KITE VICTERS STD 07 URDU Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'poqygkf10bU', title: 'KITE VICTERS STD 07 URDU Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'xNR4Y32usoA', title: 'KITE VICTERS STD 07 URDU Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'IzbJBFtuZYQ', title: 'KITE VICTERS STD 07 URDU Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 ---
