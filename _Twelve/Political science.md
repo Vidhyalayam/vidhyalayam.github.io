@@ -25,6 +25,7 @@ lessons:
 - { id: 'HIcpCrSKrUQ', title: 'KITE VICTERS Plus two Political science Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '5p_WkjOS8mA', title: 'KITE VICTERS Plus two Political science Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ypKPlIwkpXg', title: 'KITE VICTERS Plus two Political science Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'BHQILYVIHAI', title: 'KITE VICTERS Plus two Political science Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/PoliticalScience/PoliticalScience_india.pdf', title: 'Political Science Part -1' , medium: 'English' }
