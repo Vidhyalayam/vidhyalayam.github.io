@@ -19,6 +19,6 @@ lessons:
 - { id: 'EvzvnPy1CUQ', title: 'KITE VICTERS STD 05 Hindi Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
-- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_V/Hindi/Hindi.pdf', title: 'Hindi ' , medium: '' }
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_V/Hindi/Hindi.pdf', title: 'Hindi' , medium: '' }
 
 ---
