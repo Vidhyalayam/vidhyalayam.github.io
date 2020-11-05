@@ -21,6 +21,7 @@ lessons:
 - { id: 'ECj6oZMBA_g', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'k6A-54cvlk8', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-gBgDvKaNIM', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'FTJxfX9MG-Q', title: 'KITE VICTERS STD 8 Malayalam II (Adisthaana Paadaavali) Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/KeralaReaderMalayalamBT/KeralareaderMalayalamBT.PDF', title: 'MalayalamII' }
