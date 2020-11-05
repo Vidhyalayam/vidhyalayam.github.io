@@ -34,6 +34,7 @@ lessons:
 - { id: 'eAZvradzeMw', title: 'KITE VICTERS STD 10 English Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '7FsFcPpvsu4', title: 'KITE VICTERS STD 10 English Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'njVr3eVS51w', title: 'KITE VICTERS STD 10 English Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '9kRj8xg-9aI', title: 'KITE VICTERS STD 10 English Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/EnglishReader_1/EnglishReader_1.pdf', title: 'English Part -1' }
