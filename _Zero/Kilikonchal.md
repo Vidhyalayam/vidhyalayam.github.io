@@ -78,7 +78,7 @@ lessons:
 - { id: '1Ax5xqfXDuU',title: 'KITE VICTERS Kilikonchal Anganwadi Class 66' }
 - { id: 'Nma7K7_nByU',title: 'KITE VICTERS Kilikonchal Anganwadi Class 67' }
 - { id: '1npijZH_X4U',title: 'KITE VICTERS Kilikonchal Anganwadi Class 68' }
-
+- { id: 'd-BdVsrLnDY',title: 'KITE VICTERS Kilikonchal Anganwadi Class 69' }
 
 
 
