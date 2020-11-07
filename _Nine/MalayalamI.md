@@ -16,6 +16,7 @@ lessons:
 - { id: 'k3JCFInLg7U', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ndsAtVePIwI', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'FFIRCerHCrc', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Etuf8t5bE28', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
