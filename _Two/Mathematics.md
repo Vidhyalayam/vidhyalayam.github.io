@@ -36,6 +36,8 @@ lessons:
 - { id: 'VaDZ2rwYv18', title: 'KITE VICTERS STD 02 Mathematics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'A-XCZLMVjE8', title: 'KITE VICTERS STD 02 Mathematics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'EIYvZ1ZXU84', title: 'KITE VICTERS STD 02 Mathematics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ymbbCnq2fLA', title: 'KITE VICTERS STD 02 Mathematics Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'l-e2njf5p5A', title: 'KITE VICTERS STD 02 Mathematics Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:textbooks:
