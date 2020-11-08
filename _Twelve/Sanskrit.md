@@ -12,6 +12,7 @@ lessons:
 - { id: 'hXiUjU0_Fr4', title: 'KITE VICTERS Plus two Sanskrit Class 05(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'QZqFPPVEBaI', title: 'KITE VICTERS Plus two Sanskrit Class 06(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'UgPzpxi4Rro', title: 'KITE VICTERS Plus two Sanskrit Class 07(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'zdajk9Kqm8o', title: 'KITE VICTERS Plus two Sanskrit Class 08(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 ---
