@@ -13,6 +13,7 @@ lessons:
 - { id: 'pYT-ygVVFl8', title: 'KITE VICTERS Plus two Arabic Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'iwa8ynfmy2I', title: 'KITE VICTERS Plus two Arabic Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Q15vC__Gl_s', title: 'KITE VICTERS Plus two Arabic Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6RRJPC8qzN0', title: 'KITE VICTERS Plus two Arabic Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
