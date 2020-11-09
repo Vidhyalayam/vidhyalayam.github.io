@@ -6,8 +6,7 @@ CreaterEmail: phoenixvadakkan3@gmail.com
 
 contributor: 
 - { emailId: 'nandhanacv10@gmail.com' }
-
-
+- { emailId: 'abhitha2005@gmail.com' }
 
 lessons: 
 - { id: 'W15sBKVvLsY', title: 'KITE VICTERS STD 01 Mathematics Class 1(First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -36,6 +35,7 @@ lessons:
 - { id: '6Ys6wVmplUU', title: 'KITE VICTERS STD 01 Mathematics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'smr0zGyajig', title: 'KITE VICTERS STD 01 Mathematics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '_IZEeHFRzzE', title: 'KITE VICTERS STD 01 Mathematics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'VhLPqnXz_jk', title: 'KITE VICTERS STD 01 Mathematics Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/MathsEnglish/MathsEnglish.pdf', title: 'mathematics part -1' , medium: 'English' }
