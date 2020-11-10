@@ -20,7 +20,10 @@ lessons:
 - { id: 'lKmJNYOgP78', title: 'KITE VICTERS STD 06 Social Science Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'GsVXby8jLyQ', title: 'KITE VICTERS STD 06 Social Science Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'dfnlNt2bHzY', title: 'KITE VICTERS STD 06 Social Science Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '1B3zHBDvICs', title: 'KITE VICTERS STD 06 Social Science Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'A7GzATO2Pgo', title: 'KITE VICTERS STD 06 Social Science Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '1B3zHBDvICs', title: 'KITE VICTERS STD 06 Social Science Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'tH7Kh6XJ_Fw', title: 'KITE VICTERS STD 06 Social Science Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 
 
