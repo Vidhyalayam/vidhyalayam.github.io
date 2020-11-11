@@ -23,6 +23,7 @@ lessons:
 - { id: 'RGpaiAK1jjs', title: 'KITE VICTERS Plus Two English Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Vn2xRWu1WkM', title: 'KITE VICTERS Plus Two English Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'CRFnS_Fehoc', title: 'KITE VICTERS Plus Two English Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'cTkTx40b9uk', title: 'KITE VICTERS Plus Two English Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
