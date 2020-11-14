@@ -16,6 +16,7 @@ lessons:
 - { id: 'DkuNlU3brLk', title: 'KITE VICTERS STD 5 Malayalam Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'fXnGp_e6qa4', title: 'KITE VICTERS STD 5 Malayalam Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '9S2Fqcm0qbY', title: 'KITE VICTERS STD 5 Malayalam Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'WdEmHyotMX4', title: 'KITE VICTERS STD 5 Malayalam Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_V/Malayalam_AT_Vol/MalayalamAT.pdf', title: 'MalayalamI' , medium: '' }
