@@ -64,6 +64,8 @@ lessons:
 - { id: 'aIBrCjQYMHg', title: 'KITE VICTERS STD 10 Mathematics Class 57 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'mnXrmhUSLGk', title: 'KITE VICTERS STD 10 Mathematics Class 58 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '7c5BLXCyj-s', title: 'KITE VICTERS STD 10 Mathematics Class 59 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'SmF-JOnGWIU', title: 'KITE VICTERS STD 10 Mathematics Class 60 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'AmvFGGZJQbQ', title: 'KITE VICTERS STD 10 Mathematics Class 61 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Mathematics_Eng_1/Mathematics_Eng_1.pdf', title: 'Maths Part -1' , medium: 'English' }
