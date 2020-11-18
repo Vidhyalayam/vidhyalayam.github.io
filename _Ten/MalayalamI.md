@@ -6,7 +6,7 @@ CreaterEmail: abhitha2005@gmail.com
 
 lessons: 
 - { id: 'NE5Ol-pXNpk', title: 'KITE VICTERS STD 10 Malayalam Class 01(First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'na6Au7pHs-8', title: 'KITE VICTERS 10th Malayalam Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'na6Au7pHs-8', title: 'KITE VICTERS 10th Malayalam Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'nr1TZFAkMNU', title: 'KITE VICTERS STD 10 Malayalam Class 3 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'VAo9jWOTHdw', title: 'KITE VICTERS STD 10 Malayalam Class 4 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'LmzBblQZuD4', title: 'KITE VICTERS STD 10 Malayalam Class 5 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -23,6 +23,7 @@ lessons:
 - { id: '9TVC0L8cGdE', title: 'KITE VICTERS STD 10 Malayalam (Kerala paadavali) Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'HeixGgiDorY', title: 'KITE VICTERS STD 10 Malayalam Keralapadavali Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ga0_K41J_7w', title: 'KITE VICTERS STD 10 Malayalam Keralapadavali Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'AsL4QBr2u9s', title: 'KITE VICTERS STD 10 Malayalam (kerala Paadavali) Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/MalayalamAT_1/MalayalamAT_1.pdf', title: 'Malayalam I Part -1' , medium: 'Malayalam' }
