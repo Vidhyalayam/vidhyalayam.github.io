@@ -34,6 +34,7 @@ lessons:
 - { id: 'IzNRMHMttag', title: 'KITE VICTERS STD 10 Physics Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'jI0KI54i6hs', title: 'KITE VICTERS STD 10 Physics Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '0hHI-qROGPM', title: 'KITE VICTERS STD 10 Physics Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ijcz1ed-0T4', title: 'KITE VICTERS STD 10 Physics Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Physics_Eng_1/Physics_Eng_1.pdf', title: 'Physics Part -1' , medium: 'English' }
