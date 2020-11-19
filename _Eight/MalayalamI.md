@@ -20,6 +20,7 @@ lessons:
 - { id: 'EkhpdVIs7Ds', title: 'KITE VICTERS STD 8 Malayalam I (Kerala paadavali) Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'LQRIla-ajSE', title: 'KITE VICTERS STD 8 Malayalam I (Kerala paadavali) Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' } 
 - { id: 'SImXoROe4YY', title: 'KITE VICTERS STD 8 Malayalam I (Kerala paadavali) Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'NRJs0wmVglg', title: 'KITE VICTERS STD 8 Malayalam I (Kerala paadavali) Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/KeralaReaderMalayalamAT/KeralaReaderMalayalamAT.pdf', title: 'MalayalamI Part -1' }
