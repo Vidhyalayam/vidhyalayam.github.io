@@ -11,6 +11,8 @@ lessons:
 - { id: 'IXwXdL-b2oM', title: 'KITE VICTERS STD 07 Malayalam (Keralapaadam) Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qLO9_fUViio', title: 'KITE VICTERS STD 07 Malayalam (Keralapaadam) Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ZApFS0egRr4', title: 'KITE VICTERS STD 07 Malayalam (Keralapaadam) Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'd5v0KmrgUYQ', title: 'KITE VICTERS STD 07 Malayalam (Keralapaadam) Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 
 textbooks:
