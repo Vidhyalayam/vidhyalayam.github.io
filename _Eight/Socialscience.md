@@ -22,6 +22,7 @@ lessons:
 - { id: 'aB8XMA4BV_c', title: 'KITE VICTERS STD 8 Social Science Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-6R22VBBPiM', title: 'KITE VICTERS STD 8 Social Science Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'm-RhH0oleek', title: 'KITE VICTERS STD 8 Social Science Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'edNaKht26OU', title: 'KITE VICTERS STD 8 Social Science Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/SocialScienceEnglish/SocialScienceEnglish.pdf', title: 'Social Part -1' , medium: 'English' }
