@@ -23,6 +23,7 @@ lessons:
 - { id: 'QokgjX7fuI0', title: 'KITE VICTERS Plus two Botany Class 16(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tav_f0kQzPk', title: 'KITE VICTERS Plus two Botany Class 17(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Gj7CZ7mL4YI', title: 'KITE VICTERS Plus two Botany Class 18(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'nKWtAmJ_A7Y', title: 'KITE VICTERS Plus two Botany Class 19(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
