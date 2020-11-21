@@ -30,6 +30,7 @@ lessons:
 - { id: 'WmWiSlMssj0', title: 'KITE VICTERS Plus two Accountancy  Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'D541yJyyjCk', title: 'KITE VICTERS Plus two Accountancy  Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '3JSzC4dyW1I', title: 'KITE VICTERS Plus two Accountancy  Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'goPYMP8wqpw', title: 'KITE VICTERS Plus two Accountancy  Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
