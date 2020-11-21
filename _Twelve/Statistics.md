@@ -14,6 +14,7 @@ lessons:
 - { id: 'XbTjLeoLe74', title: 'KITE VICTERS Plus two Statistics Class 07(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tKsM2-MJQfs', title: 'KITE VICTERS Plus two Statistics Class 08(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'CJY2SG_IayE', title: 'KITE VICTERS Plus two Statistics Class 09(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'm1Uykjl97oc', title: 'KITE VICTERS Plus two Statistics Class 10(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Statistics/Statistics.pdf', title: 'Statistics' , medium: 'English' }
