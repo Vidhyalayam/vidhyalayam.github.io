@@ -24,7 +24,7 @@ lessons:
 - { id: 'tav_f0kQzPk', title: 'KITE VICTERS Plus two Botany Class 17(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Gj7CZ7mL4YI', title: 'KITE VICTERS Plus two Botany Class 18(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'nKWtAmJ_A7Y', title: 'KITE VICTERS Plus two Botany Class 19(First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'LetthanNJ2s', title: 'KITE VICTERS Plus two Botany Class 20(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Biology/Biology.pdf', title: 'Botany' , medium: 'English' }
