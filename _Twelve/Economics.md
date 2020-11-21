@@ -31,6 +31,7 @@ lessons:
 - { id: 'KGN7D74bVyg', title: 'KITE VICTERS STD Plus Two Economics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'd7jC4AsT-Lg', title: 'KITE VICTERS STD Plus Two Economics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Mjciqp7QDZ8', title: 'KITE VICTERS STD Plus Two Economics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'QtGo55Jr3xc', title: 'KITE VICTERS STD Plus Two Economics Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/MAL_MED/Economics-Introductory%20Macroeconomics.pdf', title: 'Macroeconomics' , medium: 'Malayalam' }
