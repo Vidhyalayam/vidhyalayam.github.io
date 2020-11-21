@@ -23,6 +23,7 @@ lessons:
 - { id: 'MFt2x6juYt0', title: 'KITE VICTERS Plus two Sociology Class 16(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '8-jaUeWToHw', title: 'KITE VICTERS Plus two Sociology Class 17(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'gJprQAE8G-Q', title: 'KITE VICTERS Plus two Sociology Class 18(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'KYV7KX6uYnU', title: 'KITE VICTERS Plus two Sociology Class 19(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XII/Sociology/Sociology_1.pdf', title: 'Sociology -1' , medium: 'English' }
