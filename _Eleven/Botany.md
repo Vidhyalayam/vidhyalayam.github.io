@@ -11,5 +11,7 @@ lessons:
 - { id: 'cTgQx8fIUic', title: 'KITE VICTERS Plus one  Botany Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
+textbooks:
+- { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XI/Biology/Biology.pdf', title: 'Botany Part -1' , medium: 'English' }
 
 ---
