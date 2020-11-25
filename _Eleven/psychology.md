@@ -1,0 +1,10 @@
+--- 
+layout : lessons 
+subject: Psychology
+class: XI
+CreaterEmail: nandhanacv10@gmail.com
+
+lessons: 
+
+- { id: 'Q2uxiKYDpOA', title: 'KITE VICTERS Plus one Psychology  Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+---
