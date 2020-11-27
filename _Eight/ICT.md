@@ -19,6 +19,7 @@ lessons:
 - { id: 'UIoZgEEa_N0', title: 'KITE VICTERS STD 8 ICT Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Q3DY1FyY76o', title: 'KITE VICTERS STD 8 ICT Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '2Sdtq8MHFmA', title: 'KITE VICTERS STD 8 ICT Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Tu2ec7T53Wg', title: 'KITE VICTERS STD 8 ICT Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/ICT%20English/ICTEnglish.pdf', title: 'ICT Part -1' , medium: 'English' }

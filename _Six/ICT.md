@@ -9,6 +9,7 @@ lessons:
 - { id: '39lFGpsLt7E', title: 'KITE VICTERS STD 06 Information and communication Technology  Class 02(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'fxctDuSGVJw', title: 'KITE VICTERS STD 06 Information and communication Technology  Class 03(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'XCBuHLIPiow', title: 'KITE VICTERS STD 06 Information and communication Technology  Class 04(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'zoHJCppJROM', title: 'KITE VICTERS STD 06 Information and communication Technology  Class 05(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
