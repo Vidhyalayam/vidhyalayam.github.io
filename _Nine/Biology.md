@@ -25,6 +25,8 @@ lessons:
 - { id: 'HrD4xxRmRgg', title: 'KITE VICTERS STD 09 Biology Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'KX22FLnrbpk', title: 'KITE VICTERS STD 09 Biology Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'i5Ahyp5UYtg', title: 'KITE VICTERS STD 09 Biology Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '8wP5ryW35Eo', title: 'KITE VICTERS STD 09 Biology Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Biology_9_E_Part_1/Biology_9_E_Part_1.pdf', title: 'Biology Part -1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_9/Biology_9(E)%20Part%202/Biology_9(E)%20Part%202.pdf', title: 'Biology Part -2' , medium: 'English' }
