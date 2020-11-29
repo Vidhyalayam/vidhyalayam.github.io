@@ -32,6 +32,9 @@ lessons:
 - { id: 'yUnIfBF-y7k', title: 'KITE VICTERS STD 09 English Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'FPNVMjnbWeg', title: 'KITE VICTERS STD 09 English Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cW9REqGX9Rc', title: 'KITE VICTERS STD 09 English Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'tnimRtzy_SQ', title: 'KITE VICTERS STD 09 English Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'LxA4R3qtb4s', title: 'KITE VICTERS STD 09 English Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/English_IX_Vol.I/English_IX_Vol.I.pdf', title: 'English Part -1' , medium: 'Malayalam' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_9/English_Std_IX_Final_Vol_2/English_Std_IX_Final_Vol_2.pdf', title: 'English Part -2' , medium: 'Malayalam' }
