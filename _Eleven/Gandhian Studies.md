@@ -8,6 +8,7 @@ lessons:
 
 - { id: '7IZubs1Z4EM', title: 'KITE VICTERS Plus one  Gandhian Studies Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'NOqyasNJDlc', title: 'KITE VICTERS Plus one  Gandhian Studies Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Ff4b_TEUFig', title: 'KITE VICTERS Plus one  Gandhian Studies Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
