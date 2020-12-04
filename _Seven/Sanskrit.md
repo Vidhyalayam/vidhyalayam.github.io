@@ -17,6 +17,7 @@ lessons:
 - { id: 'iLF3srBwHVQ', title: 'KITE VICTERS STD 07 Sanskrit Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'iLF3srBwHVQ', title: 'KITE VICTERS STD 07 Sanskrit Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '5im9hCSeGfw', title: 'KITE VICTERS STD 07 Sanskrit Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'dfz8Sd8j7Js', title: 'KITE VICTERS STD 07 Sanskrit Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VII/SanscritReaderAcademic/SanscritReaderAcademic.pdf', title: 'sanskrit' , medium: '' }
