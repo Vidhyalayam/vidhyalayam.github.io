@@ -87,7 +87,7 @@ lessons:
 - { id: '3getMoCuG9Y',title: 'KITE VICTERS Kilikonchal Anganwadi Class 75' }
 - { id: '0jguPVEgqM0',title: 'KITE VICTERS Kilikonchal Anganwadi Class 76' }
 - { id: '3RoRaYTHbrc',title: 'KITE VICTERS Kilikonchal Anganwadi Class 77' }
-
+- { id: 'hHbo01tybew',title: 'KITE VICTERS Kilikonchal Anganwadi Class 78' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/KeralaReaderEnglish/KeralaReaderEnglish.pdf', title: 'English Part -1' , medium: 'Malayalam' }
