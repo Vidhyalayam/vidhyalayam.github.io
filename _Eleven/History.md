@@ -7,4 +7,11 @@ CreaterEmail: nandhanacv10@gmail.com
 lessons: 
 
 - { id: '-zGWrwEHrCs', title: 'KITE VICTERS Plus one History  Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'N9yJdjs4x4I', title: 'KITE VICTERS Plus one History  Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+
+
+
+
 ---
