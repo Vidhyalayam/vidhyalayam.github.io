@@ -28,6 +28,11 @@ lessons:
 - { id: '0VQJBa-6FcI', title: 'KITE VICTERS STD 09 Social Science Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'P1MMxwxJz68', title: 'KITE VICTERS STD 09 Social Science Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'gJmgmJN9gXA', title: 'KITE VICTERS STD 09 Social Science Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'JkHymROj-2A', title: 'KITE VICTERS STD 09 Social Science Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '7iNAfoOipZc', title: 'KITE VICTERS STD 09 Social Science Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'lMHhMzvKFZ8', title: 'KITE VICTERS STD 09 Social Science Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '0Qy2WEhw4-E', title: 'KITE VICTERS STD 09 Social Science Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/SocialSci_I_IX_M_Vol_1/SocialSci_I_IX_M_Vol_1.pdf', title: 'SocialI Part -1' , medium: 'Malayalam' }
