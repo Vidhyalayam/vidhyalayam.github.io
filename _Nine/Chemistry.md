@@ -24,9 +24,10 @@ lessons:
 - { id: 'QoKxu5kVgf8', title: 'KITE VICTERS STD IX Chemistry Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'LxxFA9_nDm4', title: 'KITE VICTERS STD IX Chemistry Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qvnPbvKPPXY', title: 'KITE VICTERS STD IX Chemistry Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'DUgliM9OpF0', title: 'KITE VICTERS STD 09 Chemistry Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'dPGcjGZdXVU', title: 'KITE VICTERS STD 09 Chemistry Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'txYxayrlPT4', title: 'KITE VICTERS STD 09 Chemistry Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'DUgliM9OpF0', title: 'KITE VICTERS STD IX Chemistry Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'dPGcjGZdXVU', title: 'KITE VICTERS STD IX Chemistry Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'txYxayrlPT4', title: 'KITE VICTERS STD IX Chemistry Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'wlseZoLii3Y', title: 'KITE VICTERS STD IX Chemistry Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
