@@ -27,15 +27,22 @@ lessons:
 - { id: 'lTyP1dsVQE4', title: 'KITE VICTERS STD IX Mathematics Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'asURlTiFyAM', title: 'KITE VICTERS STD IX Mathematics Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'hMhXfWCEjLo', title: 'KITE VICTERS STD IX Mathematics Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'mNo1G34qUQc', title: 'KITE VICTERS STD 09 Mathematics Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'O1FuXZsnGuM', title: 'KITE VICTERS STD 09 Mathematics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'FkiS0rTUD0o', title: 'KITE VICTERS STD 09 Mathematics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 't6NIE7tfClk', title: 'KITE VICTERS STD 09 Mathematics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'FNZSjTpTAZY', title: 'KITE VICTERS STD 09 Mathematics Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '9IRZ7Vr44_Y', title: 'KITE VICTERS STD 09 Mathematics Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'NIk7JeByT7U', title: 'KITE VICTERS STD 09 Mathematics Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'ZaXX0QEyens', title: 'KITE VICTERS STD 09 Mathematics Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'UCnzyu2vLAo', title: 'KITE VICTERS STD 09 Mathematics Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'mNo1G34qUQc', title: 'KITE VICTERS STD IX Mathematics Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'O1FuXZsnGuM', title: 'KITE VICTERS STD IX Mathematics Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'FkiS0rTUD0o', title: 'KITE VICTERS STD IX Mathematics Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 't6NIE7tfClk', title: 'KITE VICTERS STD IX Mathematics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'FNZSjTpTAZY', title: 'KITE VICTERS STD IX Mathematics Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '9IRZ7Vr44_Y', title: 'KITE VICTERS STD IX Mathematics Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'NIk7JeByT7U', title: 'KITE VICTERS STD IX Mathematics Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ZaXX0QEyens', title: 'KITE VICTERS STD IX Mathematics Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'UCnzyu2vLAo', title: 'KITE VICTERS STD IX Mathematics Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'hQtmIOTAkIg', title: 'KITE VICTERS STD IX Mathematics Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'DZ386PJQ5Vk', title: 'KITE VICTERS STD IX Mathematics Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'JpIKJ1z-LzA', title: 'KITE VICTERS STD IX Mathematics Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'iWycxUcHWlo', title: 'KITE VICTERS STD IX Mathematics Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+
 
 
 
