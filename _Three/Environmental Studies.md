@@ -30,6 +30,7 @@ lessons:
 - { id: 's_HqJSbVIus', title: 'KITE VICTERS STD 03 Environmental Studies Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '1V8CHW6KglQ', title: 'KITE VICTERS STD 03 Environmental Studies Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'CLtkOiNfZqE', title: 'KITE VICTERS STD 03 Environmental Studies Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '9RsGuo-Xo74', title: 'KITE VICTERS STD 03 Environmental Studies Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
