@@ -33,6 +33,11 @@ lessons:
 - { id: 'cUPHfHiN0RU', title: 'KITE VICTERS Plus Two Chemistry Class 26(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '_QqUQbd2JR0', title: 'KITE VICTERS Plus Two Chemistry Class 27(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'NkE1S5_g1Yc', title: 'KITE VICTERS Plus Two Chemistry Class 28(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'HMsk3BdVeQE', title: 'KITE VICTERS Plus Two Chemistry Class 29(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Ni-CvZlCOIw', title: 'KITE VICTERS Plus Two Chemistry Class 30(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'INWUhNhKGYg', title: 'KITE VICTERS Plus Two Chemistry Class 31(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'hdz4JvGm9SY', title: 'KITE VICTERS Plus Two Chemistry Class 32(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bR30M20o0F4', title: 'KITE VICTERS Plus Two Chemistry Class 33(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
