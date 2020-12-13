@@ -17,6 +17,10 @@ lessons:
 - { id: 'R12LhuOY2cs', title: 'KITE VICTERS STD 06 Sanskrit Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍' }
 - { id: 'PF2rU-MeCMY', title: 'KITE VICTERS STD 06 Sanskrit Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍' }
 - { id: 'k1r5VmG-ixU', title: 'KITE VICTERS STD 06 Sanskrit Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍' }
+- { id: 'RqrCrbWs2DI', title: 'KITE VICTERS STD 06 Sanskrit Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍' }
+- { id: '5caRNmi8OZM', title: 'KITE VICTERS STD 06 Sanskrit Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍' }
+- { id: 'CmjJPiizOoo', title: 'KITE VICTERS STD 06 Sanskrit Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍' }
+- { id: '3lC1oFHWD7E', title: 'KITE VICTERS STD 06 Sanskrit Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍' }
 
 
 
