@@ -9,6 +9,7 @@ lessons:
 - { id: 'cmjQOsibFmE', title: 'KITE VICTERS Plus one Zoology  Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'y4IO9p8-EVc', title: 'KITE VICTERS Plus one Zoology  Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'MqWHtMGu06M', title: 'KITE VICTERS Plus one Zoology  Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Eok6o6gaXpo', title: 'KITE VICTERS Plus one Zoology  Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
