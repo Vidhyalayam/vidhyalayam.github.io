@@ -22,5 +22,7 @@ lessons:
 - { id: 'OikWEfYRoFQ', title: 'KITE VICTERS Plus two Geography  Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'NxfB_9YynN0', title: 'KITE VICTERS Plus two Geography  Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'roCzQZ-Kt18', title: 'KITE VICTERS Plus two Geography  Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '7xKSvmluOnw', title: 'KITE VICTERS Plus two Geography  Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6hsOsApekr8', title: 'KITE VICTERS Plus two Geography  Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 ---
