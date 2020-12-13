@@ -19,6 +19,7 @@ lessons:
 - { id: 'DglZADRJWO0', title: 'KITE VICTERS STD 06 Malayalam (Adisthana paadam) Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'R-G5CewSRGY', title: 'KITE VICTERS STD 06 Malayalam (Adisthana paadam) Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'SKZGaPluk9g', title: 'KITE VICTERS STD 06 Malayalam (Adisthana paadam) Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'oPVtc5Ssk_w', title: 'KITE VICTERS STD 06 Malayalam (Adisthana paadam) Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
