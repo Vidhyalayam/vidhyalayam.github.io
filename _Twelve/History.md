@@ -29,6 +29,19 @@ lessons:
 - { id: 'vIwGKUrz84w', title: 'KITE VICTERS Plus Two History Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'TVJ7lkAlx3I', title: 'KITE VICTERS Plus Two History Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ZYwFlszXMuo', title: 'KITE VICTERS Plus Two History Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'DgifXJRnlJM', title: 'KITE VICTERS Plus Two History Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'VMYNLYf5O6Q', title: 'KITE VICTERS Plus Two History Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Bu84m_65Ekk', title: 'KITE VICTERS Plus Two History Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'szQrpptoLcI', title: 'KITE VICTERS Plus Two History Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '9iLVZdfovXc', title: 'KITE VICTERS Plus Two History Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bVfLStJUudY', title: 'KITE VICTERS Plus Two History Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'VfgKq5TqZqQ', title: 'KITE VICTERS Plus Two History Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
+
+
+
+
+
 
 
 
