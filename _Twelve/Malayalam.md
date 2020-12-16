@@ -26,5 +26,13 @@ lessons:
 - { id: 'xS6RBBfn9GQ', title: 'KITE VICTERS Plus two Malayalam Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-NpV7Amdrh0', title: 'KITE VICTERS Plus two Malayalam Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'j4r4uR8yCYQ', title: 'KITE VICTERS Plus two Malayalam Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '5v8WWMYKvs8', title: 'KITE VICTERS Plus two Malayalam Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'DVBoQMVMY3A', title: 'KITE VICTERS Plus two Malayalam Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'L-p6NYSfICo', title: 'KITE VICTERS Plus two Malayalam Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'mNW1m8SzWmE', title: 'KITE VICTERS Plus two Malayalam Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'h46vJfSz6Nk', title: 'KITE VICTERS Plus two Malayalam Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'MKKrnjo_Xy0', title: 'KITE VICTERS Plus two Malayalam Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'BThp6a82Cak', title: 'KITE VICTERS Plus two Malayalam Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'nvVksm8GKEE', title: 'KITE VICTERS Plus two Malayalam Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 ---
