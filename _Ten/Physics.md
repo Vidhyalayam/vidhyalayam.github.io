@@ -41,6 +41,7 @@ lessons:
 - { id: 'vRoBA3rTxmY', title: 'KITE VICTERS STD 10 Physics Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'vheTZT2fc04', title: 'KITE VICTERS STD 10 Physics Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '5vkKDtlGrGg', title: 'KITE VICTERS STD 10 Physics Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'mkpRMQybEng', title: 'KITE VICTERS STD 10 Physics Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Physics_Eng_1/Physics_Eng_1.pdf', title: 'Physics Part -1' , medium: 'English' }
