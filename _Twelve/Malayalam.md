@@ -33,6 +33,6 @@ lessons:
 - { id: 'h46vJfSz6Nk', title: 'KITE VICTERS Plus two Malayalam Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'MKKrnjo_Xy0', title: 'KITE VICTERS Plus two Malayalam Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'BThp6a82Cak', title: 'KITE VICTERS Plus two Malayalam Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'BThp6a82Cak', title: 'KITE VICTERS Plus two Malayalam Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'nvVksm8GKEE', title: 'KITE VICTERS Plus two Malayalam Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 ---
