@@ -90,6 +90,9 @@ lessons:
 - { id: 'hHbo01tybew',title: 'KITE VICTERS Kilikonchal Anganwadi Class 78' }
 - { id: 'TU9PTK7b6oI',title: 'KITE VICTERS Kilikonchal Anganwadi Class 79' }
 - { id: 'fP19fbqs-JE',title: 'KITE VICTERS Kilikonchal Anganwadi Class 80' }
+- { id: 'Ew6qZgS7As8',title: 'KITE VICTERS Kilikonchal Anganwadi Class 81' }
+- { id: 'qtq_AXegTDQ',title: 'KITE VICTERS Kilikonchal Anganwadi Class 82' }
+
 
 
 textbooks:
