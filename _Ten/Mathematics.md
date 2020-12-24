@@ -90,6 +90,7 @@ lessons:
 - { id: '4F79nq9K9B0', title: 'KITE VICTERS STD 10 Mathematics Class 83 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ISRgQGu-Uew', title: 'KITE VICTERS STD 10 Mathematics Class 84 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'AEQEpkHLA3U', title: 'KITE VICTERS STD 10 Mathematics Class 85 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'vkHYO0DfyIY', title: 'KITE VICTERS STD 10 Mathematics Class 86 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Mathematics_Eng_1/Mathematics_Eng_1.pdf', title: 'Maths Part -1' , medium: 'English' }
