@@ -36,6 +36,7 @@ lessons:
 - { id: 'm6YqQf_CpAI', title: 'KITE VICTERS STD 10 Malayalam(Keralapadavali) Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cq3EI2FTPmM', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'UpyO4r8AxTM', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'GvtJzhzRg28', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/MalayalamAT_1/MalayalamAT_1.pdf', title: 'Malayalam I Part -1' }
