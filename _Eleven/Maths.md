@@ -14,6 +14,9 @@ lessons:
 - { id: 'RmDhFEzW_gg', title: 'KITE VICTERS Plus One Mathematics   Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tWeJFcS-6a8', title: 'KITE VICTERS Plus One Mathematics   Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'JnpuVcVgLes', title: 'KITE VICTERS Plus One Mathematics   Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'diSgc-erW1Y', title: 'KITE VICTERS Plus One Mathematics   Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Z4P-G8dRerc', title: 'KITE VICTERS Plus One Mathematics   Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'J3C_9Q_SKTA', title: 'KITE VICTERS Plus One Mathematics   Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
