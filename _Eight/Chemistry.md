@@ -20,6 +20,7 @@ lessons:
 - { id: 'PBHbWnHfunw', title: 'KITE VICTERS STD 8 Chemistry Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'P1CZ3mLyOS0', title: 'KITE VICTERS STD 8 Chemistry Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'IxJxz5Kx9t4', title: 'KITE VICTERS STD 8 Chemistry Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'C9qs_TqAqds', title: 'KITE VICTERS STD 8 Chemistry Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
