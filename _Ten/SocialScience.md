@@ -58,6 +58,8 @@ lessons:
 - { id: 'YMOnbF7AOAQ', title: 'KITE VICTERS STD 10 Social Science Class 51 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'S-VzYgcCcus', title: 'KITE VICTERS STD 10 History Class 52 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Kqiy1fORByc', title: 'KITE VICTERS STD 10 Social Science Class 53 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'viILGJSL9Bc', title: 'KITE VICTERS STD 10 History Class 54 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/SocialScience1_Eng_1/SocialScience1_Eng_1.pdf', title: 'SocialScience 1 Part -1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/SS1_English_2/SS1_English_2.pdf', title: 'SocialScience 1 Part -2' , medium: 'English' }
