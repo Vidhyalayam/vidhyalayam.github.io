@@ -95,6 +95,12 @@ lessons:
 - { id: '1RcEgcu4lfU', title: 'KITE VICTERS STD 10 Mathematics Class 88 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'OGIwto9_qWg', title: 'KITE VICTERS STD 10 Mathematics Class 89 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'sxe1_oFudpY', title: 'KITE VICTERS STD 10 Mathematics Class 90 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'TxTW1nkHquc', title: 'KITE VICTERS STD 10 Mathematics Class 91 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'wqo42tXE_bM', title: 'KITE VICTERS STD 10 Mathematics Class 92 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4bcIcK_FUAg', title: 'KITE VICTERS STD 10 Mathematics Class 93 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'dSft59pz3iw', title: 'KITE VICTERS STD 10 Mathematics Class 94 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'CeaFHCmeuew', title: 'KITE VICTERS STD 10 Mathematics Class 95 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Aj6wgMqqvl8', title: 'KITE VICTERS STD 10 Mathematics Class 96 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Mathematics_Eng_1/Mathematics_Eng_1.pdf', title: 'Maths Part -1' , medium: 'English' }
