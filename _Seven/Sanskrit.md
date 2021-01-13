@@ -5,7 +5,7 @@ class: VII
 CreaterEmail: johnpaulroy121@gmail.com
 
 contributor: 
-- { emailId: 'deepthipjoju@gmail.com' }dfz8Sd8j7Js
+- { emailId: 'deepthipjoju@gmail.com' }
 
 
 lessons: 
