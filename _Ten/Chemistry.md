@@ -38,6 +38,7 @@ lessons:
 - { id: 'ef2XnNxCRmY', title: 'KITE VICTERS STD 10 Chemistry Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '74SXZwcgb8c', title: 'KITE VICTERS STD 10 Chemistry Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Bz8C2yK5nf0', title: 'KITE VICTERS STD 10 Chemistry Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'c3iMPns955Y', title: 'KITE VICTERS STD 10 Chemistry Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Chemistry_Eng_1/Chemistry_Eng_1.pdf', title: 'Chemistry Part -1' , medium: 'English' }
