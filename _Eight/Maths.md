@@ -37,6 +37,7 @@ lessons:
 - { id: 'Ezqo_CjrGfw', title: 'KITE VICTERS STD 8 mathematics Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'TI2bOMjbOiQ', title: 'KITE VICTERS STD 8 mathematics Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '5sRprTqttyU', title: 'KITE VICTERS STD 8 mathematics Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'hxXSVqudRj0', title: 'KITE VICTERS STD 8 mathematics Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/MathsEnglish/MathsEnglish.pdf', title: 'Mathematics Part -1' , medium: 'English' }
