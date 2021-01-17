@@ -12,6 +12,8 @@ lessons:
 - { id: 'Vudqo03vakY', title: 'KITE VICTERS Plus one History  Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'md56pYyyOyI', title: 'KITE VICTERS Plus one History  Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'WPohf4nRlXY', title: 'KITE VICTERS Plus one History  Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4AD6W0YDcjs', title: 'KITE VICTERS Plus one History  Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 
 
