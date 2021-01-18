@@ -39,6 +39,18 @@ lessons:
 - { id: '74SXZwcgb8c', title: 'KITE VICTERS STD 10 Chemistry Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Bz8C2yK5nf0', title: 'KITE VICTERS STD 10 Chemistry Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'c3iMPns955Y', title: 'KITE VICTERS STD 10 Chemistry Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'yglnNO-kAlQ', title: 'KITE VICTERS STD 10 Chemistry Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'YDq08N-iCb4', title: 'KITE VICTERS STD 10 Chemistry Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '7gX8_qSwOhU', title: 'KITE VICTERS STD 10 Chemistry Class 37 A (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Wmn5aCVsOvY', title: 'KITE VICTERS STD 10 Chemistry Class 37 B (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Wq0CilOpda0', title: 'KITE VICTERS STD 10 Chemistry Class 38 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'LdnIxbRzDIE', title: 'KITE VICTERS STD 10 Chemistry Class 39 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'BRBR7J8-kyw', title: 'KITE VICTERS STD 10 Chemistry Class 40 A (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'sZIy2016MoE', title: 'KITE VICTERS STD 10 Chemistry Class 40 B (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'VgEjR_R3igw', title: 'KITE VICTERS STD 10 Chemistry Class 41 A (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'TIlGM8gclAc', title: 'KITE VICTERS STD 10 Chemistry Class 41 B (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bkjZZE85oA0', title: 'KITE VICTERS STD 10 Chemistry Class 41 C (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'fUUbXKOKaQw', title: 'KITE VICTERS STD 10 Chemistry Class 41 D (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Chemistry_Eng_1/Chemistry_Eng_1.pdf', title: 'Chemistry Part -1' , medium: 'English' }
