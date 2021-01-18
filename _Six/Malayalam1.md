@@ -21,6 +21,7 @@ lessons:
 - { id: 'weguGL8bp3g', title: 'KITE VICTERS STD 06 Kerala padavali Class 10(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'EpDR076vbxs', title: 'KITE VICTERS STD 06 Kerala padavali Class 11(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'kC0R99hh6aU', title: 'KITE VICTERS STD 06 Kerala padavali Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '7yMx1XOVfhU', title: 'KITE VICTERS STD 06 Kerala padavali Class 13(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
