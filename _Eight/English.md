@@ -37,6 +37,7 @@ lessons:
 - { id: 'k6vX04LzN1g', title: 'KITE VICTERS STD 8 English Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'kD6KaWCGfus', title: 'KITE VICTERS STD 8 English Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'tMSrOw6n8ew', title: 'KITE VICTERS STD 8 English Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'QRbldjSsB3E', title: 'KITE VICTERS STD 8 English Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/KeralaReaderEnglish/KeralaReaderEnglish.pdf', title: 'English Part-1' }
