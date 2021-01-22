@@ -51,6 +51,9 @@ lessons:
 - { id: 'LyST5BfUZWE', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 44 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'SJdoci0cXMM', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 45 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'RtFHYVhfE64', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 46 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'oASZ1lfDFV0', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 47 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'pQJ59x1HB1Q', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 48 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'VuX8o2KC7BA', title: 'KITE VICTERS STD 10 Malayalam (Keralapadavali) Class 49 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/MalayalamAT_1/MalayalamAT_1.pdf', title: 'Malayalam I Part -1' }
