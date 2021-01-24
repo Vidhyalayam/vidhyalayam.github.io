@@ -19,6 +19,9 @@ lessons:
 - { id: 'IoBLXjRpUoo', title: 'KITE VICTERS Plus one Economics  Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'oT1J92WVCX8', title: 'KITE VICTERS Plus one Economics  Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'wgpo6ASKCs0', title: 'KITE VICTERS Plus one Economics  Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '2E1mUblW-Y4', title: 'KITE VICTERS Plus one Economics  Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '2CmfQ-1qPW8', title: 'KITE VICTERS Plus one Economics  Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 
 textbooks:
