@@ -21,6 +21,7 @@ lessons:
 - { id: 'wO0PMAwQm0s', title: 'KITE VICTERS Plus one Physics   Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'rt_KpZ63VqU', title: 'KITE VICTERS Plus one Physics   Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'yjM4oPWaWng', title: 'KITE VICTERS Plus one Physics   Class 12 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'BNE2o-g_Xwk', title: 'KITE VICTERS Plus one Physics   Class 13 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
