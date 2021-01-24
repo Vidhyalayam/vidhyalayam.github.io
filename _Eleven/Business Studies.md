@@ -13,6 +13,8 @@ lessons:
 - { id: 'QfnF4csFUYk', title: 'KITE VICTERS Plus one   Business Studies Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cje_UTW5vmM', title: 'KITE VICTERS Plus one   Business Studies Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'p9Aw9xedCA8', title: 'KITE VICTERS Plus one   Business Studies Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'j50IIeZxnfI', title: 'KITE VICTERS Plus one   Business Studies Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'wic3howS9pk', title: 'KITE VICTERS Plus one   Business Studies Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_XI/BusinessStudies/Business%20Studies.pdf', title: 'Business Studies Part -1' , medium: 'English' }
