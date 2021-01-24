@@ -27,6 +27,7 @@ lessons:
 - { id: 'QsqmPyZxuhI', title: 'KITE VICTERS STD 06 English Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'amywdqzt6Ns', title: 'KITE VICTERS STD 06 English Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '07bAGs18RrA', title: 'KITE VICTERS STD 06 English Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '27W9IWK8sv8', title: 'KITE VICTERS STD 06 English Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
