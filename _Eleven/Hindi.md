@@ -12,6 +12,7 @@ lessons:
 - { id: 'Wn6_BQD-GLI', title: 'KITE VICTERS Plus one  Hindi Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'miEDsr0sFiE', title: 'KITE VICTERS Plus one  Hindi Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'aGg9mIfH1ys', title: 'KITE VICTERS Plus one  Hindi Class 06 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4nVlO-_hfRY', title: 'KITE VICTERS Plus one  Hindi Class 07 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
