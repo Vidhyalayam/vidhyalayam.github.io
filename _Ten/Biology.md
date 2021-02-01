@@ -54,6 +54,7 @@ lessons:
 - { id: 'a8vu2hlF-EQ', title: 'KITE VICTERS STD 10 Biology Class 47 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Xc8CGGSuUL8', title: 'KITE VICTERS STD 10 Biology Class 48 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cJou0vNBT2k', title: 'KITE VICTERS STD 10 Biology Class 49 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '1zV6n4mRwA8', title: 'KITE VICTERS STD 10 Biology Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Biology_Eng_1/Biology_Eng_1.pdf', title: 'Biology Part -1' , medium: 'English' }
