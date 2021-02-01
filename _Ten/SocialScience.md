@@ -62,8 +62,9 @@ lessons:
 - { id: 'rtfDnNXU9os', title: 'KITE VICTERS STD 10 Social science Class 55 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'bqVBwwes9-4', title: 'KITE VICTERS STD 10 Social Science Class 56 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'yyn1IRG_kNs', title: 'KITE VICTERS STD 10 Social Science Class 57 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ycJ5lBfDJuk', title: 'KITE VICTERS STD 10 Social Science Class 58 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'KSKuzSEshzA', title: 'KITE VICTERS STD 10 Social Science Class 59 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'RtphcleUqKg', title: 'KITE VICTERS STD 10 Social Science Class 60 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'tf3NbE2v_1o', title: 'KITE VICTERS STD 10 Social Science Class 60 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ei3Aw6yrJrw', title: 'KITE VICTERS STD 10 Social Science Class 61 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'GHD-916MZqQ', title: 'KITE VICTERS STD 10 Social Science Class 62 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'AuwLQnEHnlQ', title: 'KITE VICTERS STD 10 Social Science Class 63 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
