@@ -38,6 +38,8 @@ lessons:
 - { id: 'WOQTMj_EjIM', title: 'KITE VICTERS STD 10 Malayalam (Adisthanapadavali) Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍' }
 - { id: 'LLj79BBnQ2A', title: 'KITE VICTERS STD 10 Malayalam (Adisthanapadavali) Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍' }
 - { id: 'Fqtl6nxVzAA', title: 'KITE VICTERS STD 10 Malayalam (Adisthanapadavali) Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍' }
+- { id: 'E_41YNMZHwA', title: 'KITE VICTERS STD 10 Malayalam Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'bvGjkDDMjEw', title: 'KITE VICTERS STD 10 Malayalam(Adisthanapadavali) Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/MalayalamBT_1/MalayalamBT_1.pdf', title: 'Malayalam II' , medium: 'Malayalam' }
