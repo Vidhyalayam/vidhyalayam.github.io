@@ -17,6 +17,7 @@ lessons:
 - { id: 'RONMA4JelwU', title: 'KITE VICTERS STD 10 Urdu Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'XOsd2imBlKA', title: 'KITE VICTERS STD 10 Urdu Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'T7kZxdQSi-g', title: 'KITE VICTERS STD 10 Urdu Class 05 Unit 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'T0HI_HA_Bcc', title: 'KITE VICTERS STD 10 Urdu Class 01(First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/UruduReader/UruduReader.pdf', title: 'Urdu Part -1' }
