@@ -75,6 +75,7 @@ lessons:
 - { id: 'dalV317vODM', title: 'KITE VICTERS STD 10 Social Science Class 68 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'xKAzM6gu7S8', title: 'KITE VICTERS STD 10 Social Science Class 69 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'BoNXDww5xzM', title: 'KITE VICTERS STD 10 Social science Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'ssUCuJtzK74', title: 'KITE VICTERS STD 10 Social Science Class 01(Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: 'Zw6J7TZZJUA', title: 'KITE VICTERS STD 10 Social Science Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 
 textbooks:
