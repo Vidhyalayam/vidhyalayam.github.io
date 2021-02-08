@@ -15,6 +15,10 @@ lessons:
 - { id: 'Zo5CaM8Zp2g', title: 'KITE VICTERS Plus One Accountancy  Class 8 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'rYGUn89HaGA', title: 'KITE VICTERS Plus One Accountancy  Class 9 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'DHhFmWE8z0E', title: 'KITE VICTERS Plus One Accountancy  Class 10 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'qN1-i4UIC2k', title: 'KITE VICTERS Plus One Accountancy  Class 11 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'G9VxRpGnq2E', title: 'KITE VICTERS Plus One Accountancy  Class 12(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'PULez78tq0g', title: 'KITE VICTERS Plus One Accountancy  Class 13(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 
 
