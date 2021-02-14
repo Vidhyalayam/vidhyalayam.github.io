@@ -14,6 +14,8 @@ lessons:
 - { id: 'mEH4CnM73Es', title: 'KITE VICTERS STD 10 Arabic Class 08 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'GmibutpOf6U', title: 'KITE VICTERS STD 10 Arabic Class 09 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'm0wWDCbd59g', title: 'KITE VICTERS STD 10 Arabic Class 01(First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'bShw6n8GG74', title: 'KITE VICTERS STD 10 Arabic Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'rzHnhyxe1UY', title: 'KITE VICTERS STD 10 Arabic Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/ArabicGeneral_1/ArabicGeneral_1.pdf', title: 'Arabic 1' }
