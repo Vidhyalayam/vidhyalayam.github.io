@@ -78,6 +78,7 @@ lessons:
 - { id: 'ssUCuJtzK74', title: 'KITE VICTERS STD 10 Social Science Class 01(Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: 'Zw6J7TZZJUA', title: 'KITE VICTERS STD 10 Social Science Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: 'msYXuPJf9tU', title: 'KITE VICTERS STD 10 Social Science Class 02 (Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'N78Ttmzh0Hk', title: 'KITE VICTERS STD 10 Social science Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/SocialScience1_Eng_1/SocialScience1_Eng_1.pdf', title: 'SocialScience 1 Part -1' , medium: 'English' }
