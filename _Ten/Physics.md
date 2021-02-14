@@ -63,7 +63,7 @@ lessons:
 - { id: '1t7BA-2Vjx0', title: 'KITE VICTERS STD 10 Physics Class 56 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'wHTAEufH4tU', title: 'KITE VICTERS STD 10 Physics Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: '21ZRHzFtjgc', title: 'KITE VICTERS STD 10 Physics Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
-
+- { id: 'd8dJ4K7_6EA', title: 'KITE VICTERS STD 10 Physics Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Physics_Eng_1/Physics_Eng_1.pdf', title: 'Physics Part -1' , medium: 'English' }
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL_2_10/Physics_English_2/Physics_English_2.pdf', title: 'Physics Part -2' , medium: 'English' }
