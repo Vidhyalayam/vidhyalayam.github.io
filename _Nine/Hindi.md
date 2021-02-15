@@ -25,7 +25,9 @@ lessons:
 - { id: 'zNZb_Nos00A', title: 'KITE VICTERS STD IX Hindi Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '9wuYJJ-iHR0', title: 'KITE VICTERS STD IX Hindi Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'xZxKJiO4ES8', title: 'KITE VICTERS STD IX Hindi Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'oOBdYxpU53M', title: 'KITE VICTERS STD IX Hindi Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'jvWV2Ttzxo0', title: 'KITE VICTERS STD IX Hindi Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'cPy2vEkMJ5c', title: 'KITE VICTERS STD IX Hindi Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:
