@@ -24,6 +24,7 @@ lessons:
 - { id: '7gWEXUDMnOY', title: 'KITE VICTERS STD 8 Physics Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'CSKGjy0hKOw', title: 'KITE VICTERS STD 8 Physics Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '31lwENP0sEY', title: 'KITE VICTERS STD 8 Physics Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'cBsLqh8C_kM', title: 'KITE VICTERS STD 8 Physics Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/BasicScienceEnglish/BasicScienceEnglish.pdf', title: 'Basic Science part-1' , medium: 'English' }
