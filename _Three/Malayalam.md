@@ -32,8 +32,17 @@ lessons:
 - { id: 't9-F3NYrBA8', title: 'KITE VICTERS STD 03 Malayalam Class 25(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'QsbnJglmVLg', title: 'KITE VICTERS STD 03 Malayalam Class 26(First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'msWUJFOJUV0', title: 'KITE VICTERS STD 03 Malayalam Class 27(First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: '__c_bv6WyRY', title: 'KITE VICTERS STD 03 Malayalam Class 28(First Bell-ഫസ്റ്റ് ബെല്‍)' }
-- { id: 'R4UdeD3aQ9U', title: 'KITE VICTERS STD 03 Malayalam Class 29(First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '__c_bv6WyRY', title: 'KITE VICTERS STD 03 Malayalam Class 28(First Bell-ഫസ്റ്റ് ബെല്‍)' } 
+- { id: 'R4UdeD3aQ9U', title: 'KITE VICTERS STD 03 Malayalam Class 29(First Bell-ഫസ്റ്റ് ബെല്‍)' 
+- { id: 'gAK9jy4YHug', title: 'KITE VICTERS STD 03 Malayalam Class 30(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: 'OH1FS20vw_o', title: 'KITE VICTERS STD 03 Malayalam Class 31(First Bell-ഫസ്റ്റ് ബെല്‍)' 
+- { id: 'asiUcTlqa4o', title: 'KITE VICTERS STD 03 Malayalam Class 32(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: 'bOsBQbaDJN8', title: 'KITE VICTERS STD 03 Malayalam Class 33(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: 'nXrwySpe42s', title: 'KITE VICTERS STD 03 Malayalam Class 34(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: 'ocUBPrxI5Us', title: 'KITE VICTERS STD 03 Malayalam Class 35(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: '9Uk65VjltHo', title: 'KITE VICTERS STD 03 Malayalam Class 36(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: 'g8hG-xQY8mI', title: 'KITE VICTERS STD 03 Malayalam Class 37(First Bell-ഫസ്റ്റ് ബെല്‍)'
+- { id: 'BwN_l02FcBY', title: 'KITE VICTERS STD 03 Malayalam Class 38(First Bell-ഫസ്റ്റ് ബെല്‍)'
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD3/KeralaPadavaliMalayalam/KeralaPadavaliMalayalam.pdf', title: 'Malayalam Part -1' , medium: ' ' }
