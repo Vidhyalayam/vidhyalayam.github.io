@@ -4,6 +4,9 @@ subject: Social Science
 class: IX
 CreaterEmail: janemaryxiia@gmail.com
 
+contributor: 
+- { emailId: 'abhitha2005@gmail.com' }
+
 lessons: 
 - { id: 'hmII-t2gKp0', title: 'KITE VICTERS STD IX Social Science Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'qMo3kDv7sFA', title: 'KITE VICTERS STD IX Social Science Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -38,6 +41,8 @@ lessons:
 - { id: '6uRMtBw2Tv0', title: 'KITE VICTERS STD 09 Social Science Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '9HTKIhUl_kY', title: 'KITE VICTERS STD 09 Social Science Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'czwLGH1o2JU', title: 'KITE VICTERS STD 09 Social Science Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Ta768tLdlHs', title: 'KITE VICTERS STD 09 Social Science Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'FMCpD5TiQcA', title: 'KITE VICTERS STD 09 Social Science Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/SocialSci_I_IX_M_Vol_1/SocialSci_I_IX_M_Vol_1.pdf', title: 'SocialI Part -1' , medium: 'Malayalam' }
