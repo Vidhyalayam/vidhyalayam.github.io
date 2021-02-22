@@ -40,11 +40,19 @@ lessons:
 - { id: 'DZ386PJQ5Vk', title: 'KITE VICTERS STD IX Mathematics Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'JpIKJ1z-LzA', title: 'KITE VICTERS STD IX Mathematics Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'iWycxUcHWlo', title: 'KITE VICTERS STD IX Mathematics Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
-
-
-
-
+- { id: 'hV15SrZwrvw', title: 'KITE VICTERS STD IX Mathematics Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'gqzlum--l7M', title: 'KITE VICTERS STD IX Mathematics Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'jUFidpXp3Uw', title: 'KITE VICTERS STD IX Mathematics Class 38 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Hk2rl-Bgjy4', title: 'KITE VICTERS STD IX Mathematics Class 39 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'MjgIGDCaQGE', title: 'KITE VICTERS STD IX Mathematics Class 40 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'TSAJF7bdTBs', title: 'KITE VICTERS STD IX Mathematics Class 41 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'GGEvHDJjIKE', title: 'KITE VICTERS STD IX Mathematics Class 42 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Y6H98qayXTc', title: 'KITE VICTERS STD IX Mathematics Class 43 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'vir3a5Ab4Pw', title: 'KITE VICTERS STD IX Mathematics Class 44 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'R9LJFoWcLRU', title: 'KITE VICTERS STD IX Mathematics Class 45 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '9lvgCD07WPE', title: 'KITE VICTERS STD IX Mathematics Class 46 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'rKX3tBYs28A', title: 'KITE VICTERS STD IX Mathematics Class 47 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'EFZAO1t0Vek', title: 'KITE VICTERS STD IX Mathematics Class 48 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Maths_09_Eng_Part_01/Maths_09_Eng_Part_01.pdf', title: 'Mathematics Part -1' , medium: 'English' }
