@@ -4,6 +4,9 @@ subject: English
 class: Nine
 CreaterEmail: ryanmj.xic@gmail.com
 
+contributor: 
+- { emailId: 'abhitha2005@gmail.com' }
+
 lessons: 
 - { id: '6RJiFdXpsPI', title: 'KITE VICTERS STD IX English Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'NNWF3Wh_aPQ', title: 'KITE VICTERS STD IX English Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -43,6 +46,7 @@ lessons:
 - { id: 'gL8VHsuR5W8', title: 'KITE VICTERS STD IX English Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '_qFzduCC5Rk', title: 'KITE VICTERS STD IX English Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'o1n6-Yc3bqo', title: 'KITE VICTERS STD IX English Class 38 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '--Ql0z9EfS8', title: 'KITE VICTERS STD IX English Class 39 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/English_IX_Vol.I/English_IX_Vol.I.pdf', title: 'English Part -1' , medium: 'Malayalam' }
