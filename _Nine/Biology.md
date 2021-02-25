@@ -4,6 +4,10 @@ subject: Biology
 class: IX
 CreaterEmail: ryanmj.xic@gmail.com
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+- { emailId: 'abhitha2005@gmail.com' }
+
 lessons: 
 - { id: 'dodBvCyz2wA', title: 'KITE VICTERS STD IX Biology Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'gh0n60H5fTc', title: 'KITE VICTERS STD IX Biology Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -27,6 +31,12 @@ lessons:
 - { id: 'i5Ahyp5UYtg', title: 'KITE VICTERS STD IX Biology Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '8wP5ryW35Eo', title: 'KITE VICTERS STD IX Biology Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'mC9YQexHXas', title: 'KITE VICTERS STD IX Biology Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'sYJTDPACHjk', title: 'KITE VICTERS STD IX Biology Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'EgMah2Qfd_c', title: 'KITE VICTERS STD IX Biology Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'u4eRcxP5Bao', title: 'KITE VICTERS STD IX Biology Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 't48GPFsgmxM', title: 'KITE VICTERS STD IX Biology Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'P7aR30Mk6mo', title: 'KITE VICTERS STD IX Biology Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'tw8COcjarA4', title: 'KITE VICTERS STD IX Biology Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Biology_9_E_Part_1/Biology_9_E_Part_1.pdf', title: 'Biology Part -1' , medium: 'English' }
