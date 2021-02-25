@@ -4,6 +4,10 @@ subject: Mathematics
 class: IX
 CreaterEmail: ryanmj.xic@gmail.com
 
+contributor: 
+- { emailId: 'nandhanacv10@gmail.com' }
+- { emailId: 'abhitha2005@gmail.com' }
+
 lessons: 
 - { id: 'tvUpGJ2sROY', title: 'KITE VICTERS STD IX mathematics Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ZfoCbq5BqyQ', title: 'KITE VICTERS STD IX Mathematics Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
@@ -53,6 +57,7 @@ lessons:
 - { id: '9lvgCD07WPE', title: 'KITE VICTERS STD IX Mathematics Class 46 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'rKX3tBYs28A', title: 'KITE VICTERS STD IX Mathematics Class 47 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'EFZAO1t0Vek', title: 'KITE VICTERS STD IX Mathematics Class 48 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Rs_Acnpebqs', title: 'KITE VICTERS STD IX Mathematics Class 49 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Maths_09_Eng_Part_01/Maths_09_Eng_Part_01.pdf', title: 'Mathematics Part -1' , medium: 'English' }
