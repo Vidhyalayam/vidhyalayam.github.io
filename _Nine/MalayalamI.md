@@ -21,14 +21,14 @@ lessons:
 - { id: 'mIMinGsOdFc', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 14 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'MhmgmhV6cYM', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 15 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'T3Kw2jrVBBY', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
-
-
-
-
-
-
-
+- { id: 'D84h8-_j2gE', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4t-9qNad5rw', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'SC4SIR1dUTo', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '5_WXLjf8IaY', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'XktCFX18uiM', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'CXVIJ8i3rW8', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'vCGS5GXFdoI', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'K6TYM89ZKjs', title: 'KITE VICTERS STD IX Malayalam(Kerala Paadaavali) Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Malayalam_IX_AT_Vol_1/Malayalam_IX_AT_Vol_1.pdf', title: 'MalayalamI Part -1' , medium: 'Malayalam' }
