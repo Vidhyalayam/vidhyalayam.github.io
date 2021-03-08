@@ -53,6 +53,9 @@ lessons:
 - { id: '9aQRoDytEdg', title: 'KITE VICTERS STD 01 Mathematics Class 42 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'vhEwHdN4znQ', title: 'KITE VICTERS STD 01 Mathematics Class 43 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'GXc-cT-WJ0U', title: 'KITE VICTERS STD 01 Mathematics Class 44 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '5tbPWzGMZsc', title: 'KITE VICTERS STD 01 Mathematics Class 45 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'z7DEdtLZ2uk', title: 'KITE VICTERS STD 01 Mathematics Class 46 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '-TxeBo61H9s', title: 'KITE VICTERS STD 01 Mathematics Class 47 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD1/MathsEnglish/MathsEnglish.pdf', title: 'mathematics part -1' , medium: 'English' }
