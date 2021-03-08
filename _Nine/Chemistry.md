@@ -28,7 +28,17 @@ lessons:
 - { id: 'dPGcjGZdXVU', title: 'KITE VICTERS STD IX Chemistry Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'txYxayrlPT4', title: 'KITE VICTERS STD IX Chemistry Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'wlseZoLii3Y', title: 'KITE VICTERS STD IX Chemistry Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'fLvRI6TLeRQ', title: 'KITE VICTERS STD IX Chemistry Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'kyVn_aMamis', title: 'KITE VICTERS STD IX Chemistry Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6QztEmomgF8', title: 'KITE VICTERS STD IX Chemistry Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'D7HjgpVnWMM', title: 'KITE VICTERS STD IX Chemistry Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6n3sXJJSiOU', title: 'KITE VICTERS STD IX Chemistry Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '6cUOvDUgCC8', title: 'KITE VICTERS STD IX Chemistry Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'in-3_Gd3gX8', title: 'KITE VICTERS STD IX Chemistry Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4-cBHEfTHG4', title: 'KITE VICTERS STD IX Chemistry Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '4qsU5yyOnmU', title: 'KITE VICTERS STD IX Chemistry Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '7IrEZdJfSf8', title: 'KITE VICTERS STD IX Chemistry Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '-ih25W1NXO0', title: 'KITE VICTERS STD IX Chemistry Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Chemistry_9_E_Vol_1/Chemistry_9_E_Vol_1.pdf', title: 'Chemistry Part -1' , medium: 'English' }
