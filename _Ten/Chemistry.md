@@ -52,7 +52,9 @@ lessons:
 - { id: 'bkjZZE85oA0', title: 'KITE VICTERS STD 10 Chemistry Class 41 C (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'fUUbXKOKaQw', title: 'KITE VICTERS STD 10 Chemistry Class 41 D (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '6XU9VJPy9Ds', title: 'KITE VICTERS STD 10 Chemistry Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'YWo4EzOr-7Y', title: 'KITE VICTERS STD 10 Chemistry Class 01 (Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: '9rFZyZfJ6XU', title: 'KITE VICTERS STD 10 Chemistry Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'hv-ulDJkZtM', title: 'KITE VICTERS STD 10 Chemistry Class 02 (Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Chemistry_Eng_1/Chemistry_Eng_1.pdf', title: 'Chemistry Part -1' , medium: 'English' }
