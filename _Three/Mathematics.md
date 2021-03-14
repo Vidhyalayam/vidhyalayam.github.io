@@ -43,6 +43,22 @@ lessons:
 - { id: 'hW_maTxqMa0', title: 'KITE VICTERS STD 03 Mathematics Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '_rNCvxMwWe8', title: 'KITE VICTERS STD 03 Mathematics Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'uibDk2ixV3Y', title: 'KITE VICTERS STD 03 Mathematics Class 38 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ge5TP_Lpn9w', title: 'KITE VICTERS STD 03 Mathematics Class 39 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'G-Is9leRXRI', title: 'KITE VICTERS STD 03 Mathematics Class 40 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'TnAfeEzwwuM', title: 'KITE VICTERS STD 03 Mathematics Class 41 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '64DAvJAFfkk', title: 'KITE VICTERS STD 03 Mathematics Class 42 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'SVgtTLKr5b0', title: 'KITE VICTERS STD 03 Mathematics Class 43 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'kemHsYMkfMc', title: 'KITE VICTERS STD 03 Mathematics Class 44 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'paH4BX_yKhQ', title: 'KITE VICTERS STD 03 Mathematics Class 45 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'aYAoRj-n2wI', title: 'KITE VICTERS STD 03 Mathematics Class 46 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'wEixRVuhO0A', title: 'KITE VICTERS STD 03 Mathematics Class 47 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'XyROmZQhgvo', title: 'KITE VICTERS STD 03 Mathematics Class 48 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'mpbaWLaC__c', title: 'KITE VICTERS STD 03 Mathematics Class 49 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'x_44m95d0nA', title: 'KITE VICTERS STD 03 Mathematics Class 50 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'q5-r3r1C-vo', title: 'KITE VICTERS STD 03 Mathematics Class 51 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '9fEQMQrtTjA', title: 'KITE VICTERS STD 03 Mathematics Class 52 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '-mV1gczMdng', title: 'KITE VICTERS STD 03 Mathematics Class 53 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'LqSuw4a5ZgE', title: 'KITE VICTERS STD 03 Mathematics Class 54 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
