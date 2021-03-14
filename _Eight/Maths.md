@@ -40,6 +40,16 @@ lessons:
 - { id: 'hxXSVqudRj0', title: 'KITE VICTERS STD 8 mathematics Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'uyynbN9W-18', title: 'KITE VICTERS STD 8 mathematics Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Hp_gsVTiMQ0', title: 'KITE VICTERS STD 8 mathematics Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'UVW_El1R0_c', title: 'KITE VICTERS STD 8 mathematics Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'scEWxdkmGFE', title: 'KITE VICTERS STD 8 mathematics Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'TC9VFSiszQE', title: 'KITE VICTERS STD 8 mathematics Class 38 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Y7mM8o-KwDQ', title: 'KITE VICTERS STD 8 mathematics Class 39 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Cvbh6NtYAxI', title: 'KITE VICTERS STD 8 mathematics Class 40 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'M_wuNtb_IwU', title: 'KITE VICTERS STD 8 mathematics Class 41 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'LHXW5xqQoWI', title: 'KITE VICTERS STD 8 mathematics Class 42 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'S4qggP_uPno', title: 'KITE VICTERS STD 8 mathematics Class 43 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ki60anZLSXQ', title: 'KITE VICTERS STD 8 mathematics Class 44 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/MathsEnglish/MathsEnglish.pdf', title: 'Mathematics Part -1' , medium: 'English' }
