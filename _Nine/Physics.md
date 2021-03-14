@@ -33,7 +33,15 @@ lessons:
 - { id: 'Bm6E-qy7Hc0', title: 'KITE VICTERS STD IX Physics Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'fJEezc4sNvE', title: 'KITE VICTERS STD IX Physics Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '3NtSH4lSjt4', title: 'KITE VICTERS STD IX Physics Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
-
+- { id: 'LLsp-Tyzeb0', title: 'KITE VICTERS STD IX Physics Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '7XJFDNHTtPg', title: 'KITE VICTERS STD IX Physics Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'lsrZWn1ISL0', title: 'KITE VICTERS STD IX Physics Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'C6e6dFzqF8I', title: 'KITE VICTERS STD IX Physics Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'DqpdQrV4b4w', title: 'KITE VICTERS STD IX Physics Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '5pCK7iRowVM', title: 'KITE VICTERS STD IX Physics Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'LsgpPqS2FtI', title: 'KITE VICTERS STD IX Physics Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'cP-420Nu4LQ', title: 'KITE VICTERS STD IX Physics Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'W1kU-5JNOQ4', title: 'KITE VICTERS STD IX Physics Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Physics_Eng_part_1/Physics_Eng_part_1.pdf', title: 'Physics Part -1' , medium: 'English' }
