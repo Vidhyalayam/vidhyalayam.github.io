@@ -23,6 +23,10 @@ lessons:
 - { id: 'vYEVsWFR_fQ', title: 'KITE VICTERS STD 8 Biology  Class 16 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'ujuKlrkT1Ic', title: 'KITE VICTERS STD 8 Biology  Class 17 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'SqN2YsgRWp8', title: 'KITE VICTERS STD 8 Biology  Class 18 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'yLSrg9j4FME', title: 'KITE VICTERS STD 8 Biology  Class 19 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'rCKLD8mS_Dw', title: 'KITE VICTERS STD 8 Biology  Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'fBExdJHP8mo', title: 'KITE VICTERS STD 8 Biology  Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'bkaXhftsb1Y', title: 'KITE VICTERS STD 8 Biology  Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD8/BasicScienceEnglish/BasicScienceEnglish.pdf', title: 'Basic science Part-1' , medium: 'English' }
