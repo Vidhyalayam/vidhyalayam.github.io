@@ -27,6 +27,8 @@ lessons:
 - { id: '1rKiPAZl8nY', title: 'KITE VICTERS STD 8 Hindi Class 20 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'vphD2sAkg88', title: 'KITE VICTERS STD 8 Hindi Class 21 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-eI6njr_HC0', title: 'KITE VICTERS STD 8 Hindi Class 22 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '61mdjrkeZmk', title: 'KITE VICTERS STD 8 Hindi Class 23 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'u4VhLWvkYOU', title: 'KITE VICTERS STD 8 Hindi Class 24 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class_VIII/Hindi/Hindi.pdf', title: 'Hindi' }
