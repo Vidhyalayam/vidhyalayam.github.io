@@ -42,6 +42,7 @@ lessons:
 - { id: 'LsgpPqS2FtI', title: 'KITE VICTERS STD IX Physics Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'cP-420Nu4LQ', title: 'KITE VICTERS STD IX Physics Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'W1kU-5JNOQ4', title: 'KITE VICTERS STD IX Physics Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '8LaTaURDrhs', title: 'KITE VICTERS STD IX Physics Class 38 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Physics_Eng_part_1/Physics_Eng_part_1.pdf', title: 'Physics Part -1' , medium: 'English' }

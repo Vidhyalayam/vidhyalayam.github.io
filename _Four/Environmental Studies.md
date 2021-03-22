@@ -32,6 +32,16 @@ lessons:
 - { id: 'GyLz6MaUYwk', title: 'KITE VICTERS STD 04 Environmental Studies Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'dwfxu6BUNcE', title: 'KITE VICTERS STD 04 Environmental Studies Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'IG8faeeLkZ8', title: 'KITE VICTERS STD 04 Environmental Studies Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'Awi2f-4SebA', title: 'KITE VICTERS STD 04 Environmental Studies Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'GeXzP1TJif0', title: 'KITE VICTERS STD 04 Environmental Studies Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'UufpC_Y7Sw0', title: 'KITE VICTERS STD 04 Environmental Studies Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'OuSFW2HUAR8', title: 'KITE VICTERS STD 04 Environmental Studies Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'dshtiogd9V4', title: 'KITE VICTERS STD 04 Environmental Studies Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '-6BuChDN9r0', title: 'KITE VICTERS STD 04 Environmental Studies Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'yj7S_G-tEuM', title: 'KITE VICTERS STD 04 Environmental Studies Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'R-Y6kzLG8mI', title: 'KITE VICTERS STD 04 Environmental Studies Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '2EUEVkAxF2c', title: 'KITE VICTERS STD 04 Environmental Studies Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '0fglDj-42cE', title: 'KITE VICTERS STD 04 Environmental Studies Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 textbooks:

@@ -32,6 +32,17 @@ lessons:
 - { id: 'CLtkOiNfZqE', title: 'KITE VICTERS STD 03 Environmental Studies Class 25 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '9RsGuo-Xo74', title: 'KITE VICTERS STD 03 Environmental Studies Class 26 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '-tF0UxgeQs0', title: 'KITE VICTERS STD 03 Environmental Studies Class 27 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'A-KG04uHwV0', title: 'KITE VICTERS STD 03 Environmental Studies Class 28 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'ChI9eCs6_bE', title: 'KITE VICTERS STD 03 Environmental Studies Class 29 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'IhyDZwArmvs', title: 'KITE VICTERS STD 03 Environmental Studies Class 30 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'gQ4QMRcPXrA', title: 'KITE VICTERS STD 03 Environmental Studies Class 31 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'HuLZksITH54', title: 'KITE VICTERS STD 03 Environmental Studies Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'F4baxT5xxi4', title: 'KITE VICTERS STD 03 Environmental Studies Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'qCWXyljSDRs', title: 'KITE VICTERS STD 03 Environmental Studies Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'OkFDjfabHhM', title: 'KITE VICTERS STD 03 Environmental Studies Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '3ub0-RuDZEg', title: 'KITE VICTERS STD 03 Environmental Studies Class 36 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: '5TV9DPU8eBk', title: 'KITE VICTERS STD 03 Environmental Studies Class 37 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/VOL1/STD3/ParisarapadanamEnglish/ParisarapadanamEnglish.pdf', title: 'Environmental Studies Part -1' , medium: 'English' }
