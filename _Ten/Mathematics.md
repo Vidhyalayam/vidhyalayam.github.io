@@ -114,6 +114,7 @@ lessons:
 - { id: '1XxhJUQbQjM', title: 'KITE VICTERS STD 10 Mathematics Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: 'ER6bHAsI6cM', title: 'KITE VICTERS STD 10 Mathematics Class 03(Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: 'E7MZ4mcMez4', title: 'KITE VICTERS STD 10 Mathematics Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'UCynPOqf8RU', title: 'KITE VICTERS STD 10 Mathematics Live Revision Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Mathematics_Eng_1/Mathematics_Eng_1.pdf', title: 'Maths Part -1' , medium: 'English' }
