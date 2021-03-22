@@ -62,6 +62,8 @@ lessons:
 - { id: 'nZvSLzi3K00', title: 'KITE VICTERS STD IX Mathematics Class 51 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'KpysloutZRU', title: 'KITE VICTERS STD IX Mathematics Class 52 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Nll9rjlGkaI', title: 'KITE VICTERS STD IX Mathematics Class 53 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'SDiUv1KebwM', title: 'KITE VICTERS STD IX Mathematics Class 54 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'dkodAmxe2bQ', title: 'KITE VICTERS STD IX Mathematics Class 55 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Maths_09_Eng_Part_01/Maths_09_Eng_Part_01.pdf', title: 'Mathematics Part -1' , medium: 'English' }
