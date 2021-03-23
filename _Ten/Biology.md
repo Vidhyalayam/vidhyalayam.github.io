@@ -60,6 +60,7 @@ lessons:
 - { id: 'Brf_FXJAnXQ', title: 'KITE VICTERS STD 10 Biology Class 02 (Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: 'zXVCXvDECAM', title: 'KITE VICTERS STD 10 Biology Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
 - { id: 'NO0pvcY31dE', title: 'KITE VICTERS STD 10 Biology Class 03 (Sign adapted) (First Bell-ഫസ്റ്റ് ബെല്‍) (Revision)' }
+- { id: 'YmSuKge5Wjs', title: 'KITE VICTERS STD 10 Biology Live Revision Class 01 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Std_10/Biology_Eng_1/Biology_Eng_1.pdf', title: 'Biology Part -1' , medium: 'English' }
