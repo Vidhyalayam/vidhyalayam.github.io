@@ -58,6 +58,7 @@ lessons:
 - { id: 'LpRl_MhUvh0', title: 'KITE VICTERS STD 09 Social Science Class 48 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'Jlhjy_noFlg', title: 'KITE VICTERS STD 09 Social Science Class 49 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'EOA_-J_jIAE', title: 'KITE VICTERS STD 09 Social Science Class 50 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'IBk2AK4O2jw', title: 'KITE VICTERS STD 09 Social Science Class 51 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/SocialSci_I_IX_M_Vol_1/SocialSci_I_IX_M_Vol_1.pdf', title: 'SocialI Part -1' , medium: 'Malayalam' }
