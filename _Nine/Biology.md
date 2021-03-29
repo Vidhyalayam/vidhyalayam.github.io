@@ -43,6 +43,7 @@ lessons:
 - { id: 'yVRjYiUl_Jg', title: 'KITE VICTERS STD IX Biology Class 32 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: '5CLv4lBVs7U', title: 'KITE VICTERS STD IX Biology Class 33 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'JkYjulE-vqw', title: 'KITE VICTERS STD IX Biology Class 34 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'nDELRBofD2c', title: 'KITE VICTERS STD IX Biology Class 35 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 textbooks:
 - { link: 'https://d1v6qmyxzkp4v1.cloudfront.net/uploads/ebook/Class%209/Biology_9_E_Part_1/Biology_9_E_Part_1.pdf', title: 'Biology Part -1' , medium: 'English' }
